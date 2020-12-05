@@ -434,7 +434,6 @@
 432,Orleans,US,VT09,44.9429,-72.2163,Pope Memorial Frontier Animal Shelter Inc.,VT,5855
 433,Westbrook,US,CT72,41.3037,-72.4617,Valley Shore Animal Welfare League,CT,6498
 434,Cohoes,US,NY1106,42.7754,-73.712,Boght & Oakwood Veterinary Clinics,NY,12047
-435,Stanstead,CA,QC81,45.016667,-72.083333,Frontier Animal Society,QC,J0B 3E0
 436,Marion,US,CT515,41.5636,-72.9261,Nile Valley Egyptian Foundation,CT,6444
 437,Williston,US,VT58,44.4501,-73.1045,"All Breed Rescue, Inc.",VT,5495
 438,Williston,US,VT85,44.4501,-73.1045,Vermont English Bulldog Rescue,VT,5495
@@ -534,7 +533,6 @@
 532,Broadalbin,US,NY779,43.094,-74.1652,JACKSON'S LEGACY BULLY BREED RESCUE,NY,12025
 533,Amsterdam,US,NY203,42.9533,-74.1844,Montgomery County SPCA,NY,12010
 534,Peru,US,NY281,44.5893,-73.5176,Elmore SPCA,NY,12972
-535,Sherbrooke,CA,QC44,45.419,-71.921,SPA de L'Estrie,QC,J1j 4N5
 536,Jay,US,NY1244,44.375,-73.7286,The Joshua Fund Dog Rescue,NY,12941
 537,Newtown,US,CT249,41.3942,-73.3138,The Animal Center Inc.,CT,6470
 538,Newtown,US,CT431,41.3942,-73.3138,Kitten Associates,CT,6470
@@ -554,7 +552,6 @@
 552,Bridgeport,US,CT76,41.2043,-73.1692,Bridgeport Animal Control Facilites,CT,6610
 553,Bethel,US,CT433,41.3794,-73.4021,2nd Chance Animal Rescue of CT,CT,6801
 554,Bethel,US,CT445,41.3794,-73.4021,Bethel Animal Control,CT,6801
-555,Cowansville,CA,QC83,45.2,-72.75,SPA des Cantons,QC,J2K 1N4
 556,Danbury,US,CT330,41.4251,-73.4685,PawSafe,CT,6811
 557,Salt Point,US,NY215,41.7983,-73.8322,P.A.N.T.,NY,12578
 558,Hampton Bays,US,NY48,40.8491,-72.5781,Southampton Animal Shelter Foundation,NY,11942
@@ -661,7 +658,6 @@
 659,Stamford,US,CT530,41.053,-73.5404,Stamford Animal Control Center,CT,6902
 660,Stamford,US,CT576,41.053,-73.5404,"Garden Rescues, Inc.",CT,6902
 661,Northport,US,NY1164,40.9058,-73.3305,Northport Cat Rescue Association Inc.,NY,11768
-662,St-Valerien,CA,QC45,45.566667,-72.716667,Fondation Caramel,QC,J0H 2B0
 663,Mount Kisco,US,NY1226,41.19600000000001,-73.7327,"Jennys Hope Rescue, Inc",NY,10549
 664,Sayville,US,NY1279,40.7462,-73.0813,IMAGINE Pet Rescue,NY,11782
 665,Kerhonkson,US,NY1150,41.7852,-74.2857,C&H Animal Rescue,NY,12446
@@ -717,8 +713,6 @@
 715,Plainview,US,NY829,40.7785,-73.4796,"Forgotten Friends of Long Island, Inc.",NY,11803
 716,Plainview,US,NY1174,40.7785,-73.4796,A New Beginning Animal Rescue Corp.,NY,11803
 717,Valley Cottage,US,NY580,41.1234,-73.946,Tiny Treasures Rescue,NY,10989
-718,Beloeil,CA,QC82,45.566667,-73.2,Les Felins de la Vallee,QC,J3G 5N1
-719,Beloeil,CA,QC131,45.566667,-73.2,Minou Cherche Maison,QC,J3G 4K6
 720,New City,US,NY836,41.1491,-73.9936,Heaven Can Wait Rescue,NY,10956
 721,Lindenhurst,US,NY667,40.6881,-73.3728,Carolyns Critters,NY,11757
 722,Ardsley,US,NY24,41.0126,-73.8428,Cat Assistance Inc.,NY,10502
@@ -731,7 +725,6 @@
 729,Cooperstown,US,NY1321,42.6914,-74.943,Susquehanna Animal Shelter,NY,13326
 730,Copiague,US,NY1191,40.6801,-73.3952,Second Chance Animal Rescue Inc.,NY,11726
 731,Amityville,US,NY516,40.6867,-73.4089,Kindness for Kitties,NY,11701
-732,Sainte-Martine,CA,QC113,45.241728,-73.801789,Ronronne Avec Moi,QC,J0S 1V0
 733,Mohawk,US,NY280,43.0036,-74.9942,Herkimer County Humane Society,NY,13407
 734,Bloomingburg,US,NY1187,41.5598,-74.4419,Fur Every Paws' Sake / Hopeful Tails - Orange County,NY,12721
 735,Nanuet,US,NY352,41.0979,-74.009,Northstar Placement,NY,10954
@@ -747,7 +740,6 @@
 745,Roslyn,US,NY1233,40.7977,-73.6475,Helping Paw Rescue Northeast Adoptions,NY,11576
 746,Mount Vernon,US,NY1179,40.9241,-73.8275,tlc Rescue,NY,10552
 747,Seaford,US,NY1307,40.6813,-73.4911,"Redemption Rescues, Inc",NY,11783
-748,Verdun,CA,QC59,45.442,-73.589,PetitsPawz Cat Refuge of Montreal,QC,H4H 1Z1
 749,Middletown,US,NY19,41.4537,-74.3981,Humane Society of Middletown New York,NY,10940
 750,Middletown,US,NY85,41.4537,-74.3981,Pets Alive,NY,10940
 751,Middletown,US,NY1095,41.4537,-74.3981,Helpers 4 Shelters,NY,10940
@@ -757,37 +749,26 @@
 755,Wantagh,US,NY1237,40.6861,-73.5101,Road to Home Rescue Support,NY,11793
 756,Mt. Vernon,US,NY439,40.9073,-73.8369,Mt. Vernon Animal Shelter,NY,10550
 757,Manhasset,US,NY1028,40.7976,-73.6888,Long Road Home,NY,11030
-758,Verdun,CA,QC43,45.47,-73.568,Refuge pour chats de Verdun,QC,H4G 3L7
-759,Montreal,CA,QC74,45.44557,-73.609,Refuge Bell'Anima Rescue,QC,H8N 3G6
 760,Yonkers,US,NY186,40.9188,-73.862,Pet Adoption League,NY,10704
 761,Yonkers,US,NY63,40.9188,-73.862,Yonkers Animal Shelter,NY,10704
 762,Delhi,US,NY51,42.2771,-74.9177,Heart of the Catskills Humane Society,NY,13753
 763,Suffern,US,NY481,41.1231,-74.1174,C.A.T.S. dba Cats for Adoption,NY,10901
 764,Bronx,US,NY1268,40.8495,-73.7891,Adore-a-Bullie Paws and Claws,NY,10464
-765,Beauceville,CA,QC106,46.1992,-70.7619,S.P.A. Beauce-Etchemin,QC,G5X 1C2
 766,Yonkers,US,NY716,40.9311,-73.8992,Yonkers Humane Society Inc.,NY,10702
 767,Great Neck,US,NY1242,40.7986,-73.7336,Humane Urban Group,NY,11023
 768,Closter,US,NJ279,40.9709,-73.9598,CLAWS,NJ,7624
-769,Chateauguay,CA,QC120,45.383333,-73.75,Montreal Cat Adoptions,QC,J6J 5R1
 770,Great Neck,US,NY669,40.7872,-73.7281,Long Island Rabbit Rescue Group,NY,11021
 771,Park Ridge,US,NJ613,41.0322,-74.0429,Halfway Hounds,NJ,7656
-772,Montreal,CA,QC125,45.476000000000006,-73.61399999999998,Pits and Parrots,QC,H4A 1G1
 773,Rock Hill,US,NY18,41.6186,-74.5902,Sullivan County SPCA,NY,12775
 774,New Hyde Park,US,NY963,40.7445,-73.6789,"HEART Rescue Group, Inc.",NY,11040
-775,Montreal,CA,QC73,45.51,-73.577,Clinique Veterinaire Plateau Mont Royal,QC,H2W 1V8
 776,Westwood,US,NJ371,41.0042,-74.0274,Caring About The Strays (C.A.T.S.) Inc.,NJ,7675
 777,Westwood,US,NJ779,41.0042,-74.0274,Peace4Paws Inc.,NJ,7675
 778,River Vale,US,NJ890,41.0042,-74.0274,Good Karma Dog Rescue,NJ,7675
-779,LaSalle,CA,QC51,45.516667,-73.56666700000002,Hopital Veterinaire LaSalle,QC,H8N 2G6
-780,Montreal,CA,QC04,45.52,-73.561,Animal Rescue Network / Réseau Secours Animal,QC,H2L 4Y5
-781,Montreal,CA,QC23,45.52,-73.561,Sophie's Dog Adoption,QC,H2L 1R8
 782,Bronx,US,NY1254,40.8994,-73.9045,Magnificat Cat Rescue,NY,10471
 783,New York,US,NY587,40.8253,-73.8192,The Poor Animals of St. Francis Inc.,NY,10465
 784,Hillsdale,US,NJ403,41.0037,-74.0441,Pekingese Rescue Network Inc.,NJ,7642
 785,Saddle River,US,NJ466,41.0501,-74.0976,The National Foundation for Animal Rescue,NJ,7458
 786,Douglaston,US,NY992,40.7587,-73.7335,SIBLING AND KITTY ADOPTIONS,NY,11362
-787,Montreal,CA,QC97,45.524,-73.59,Pussy Patrol,QC,H2T 2K2
-788,Montreal,CA,QC118,45.53100000000001,-73.579,Fondation Po,QC,H2J 3S9
 789,Freeport,US,NY936,40.6535,-73.5865,Ruff House Rescue,NY,11520
 790,Freeport,US,NY1027,40.6535,-73.5865,Our Best Friends Rescue,NY,11520
 791,Freeport,US,NY1082,40.6535,-73.5865,"All About Cats Rescue, Inc",NY,11520
@@ -796,14 +777,11 @@
 794,Tenafly,US,NJ173,40.9222,-73.9654,Pet ResQ Inc.,NJ,7670
 795,Baldwin,US,NY657,40.655,-73.6102,People Animals Team-up Successfully Inc (PATS),NY,11510
 796,Baldwin,US,NY916,40.655,-73.6102,"New Beginnings Cat and Kitten Adoptions, Inc.",NY,11510
-797,Montreal,CA,QC06,45.5,-73.661,SPCA Montréal,QC,H4P 1X4
-798,Montreal,CA,QC35,45.5,-73.661,Chatopia (formerly Animal Adoption Montreal),QC,H4P 2A6
 799,Bronx,US,NY652,40.8395,-73.8809,Animals Saved by Grace,NY,10460
 800,Washington Township,US,NJ632,40.9857826,-74.0637855,Hugs For Hounds,NJ,7676
 801,Warwick,US,NY188,41.268,-74.3607,Warwick Valley Humane Society,NY,10990
 802,Warwick,US,NY844,41.268,-74.3607,Angels In Waiting Rescue,NY,10990
 803,Whitestone,US,NY879,40.7825,-73.8124,Amazing Animals Rescue and Adoptions,NY,11357
-804,Sainte-Angele-de-Monnoir,CA,QC41,45.783333,-73.15,SPCA Monteregie,QC,J0L 1P0
 805,Allendale,US,NJ509,41.0271,-74.1299,Almost Home Dog Rescue of NJ,NJ,7401
 806,Flushing,US,NY1113,40.7608,-73.7964,Give Me Shelter Project,NY,11358
 807,Malverne,US,NY774,40.6745,-73.6729,Courageous Cats,NY,11565
@@ -819,7 +797,6 @@
 817,Flushing,US,NY1271,40.7519,-73.8197,Lucky Black Cats of Mew York,NY,11355
 818,Paramus,US,NJ275,40.9444,-74.0758,Happy Tails Animal Rescue,NJ,7653
 819,Paramus,US,NJ627,40.9444,-74.0758,Bonnies Animal Rescue Kingdom,NJ,7653
-820,Anjou,CA,QC76,45.62300000000001,-73.532,Fondation HVE,QC,H1K 1N6
 821,East Rockaway,US,NY486,40.6392,-73.6683,Fur Babies,NY,11518
 822,New York,US,NY1115,40.8245,-73.9493,Bronx Tails Cat Rescue,NY,10031
 823,Ringwood,US,NJ817,41.0896,-74.2677,Southern Paws Inc.,NJ,7456
@@ -837,14 +814,12 @@
 835,Forest Hills,US,NY1145,40.7204,-73.8474,"All About Rabbits Rescue, Inc",NY,11375
 836,New York,US,NY455,40.7067,-73.8298,CSM Stray Foundation (USA) Inc.,NY,11415
 837,New York,US,NY12,40.7911,-73.9452,Animal Care Centers of NYC - Manhattan,NY,10029
-838,Laval,CA,QC65,45.58,-73.685,Refuge Magoo,QC,H7G 2V4
 839,Cliffside Park,US,NJ488,40.8217,-73.9886,Angels for Animals Network,NJ,7010
 840,Cliffside Park,US,NJ739,40.8217,-73.9886,Bergen County Protect and Rescue Foundation,NJ,7010
 841,Oakland,US,NJ06,41.0276,-74.2352,Ramapo Bergen Animal Refuge,NJ,7436
 842,Oakland,US,NJ877,41.0276,-74.2352,"Real Dog Rescue, Inc.",NJ,7436
 843,Long Beach,US,NY127,40.5884,-73.6609,Long Beach Humane Society,NY,11561
 844,Long Beach,US,NY615,40.5884,-73.6609,Posh Pets Rescue,NY,11561
-845,Sainte-Genevieve,CA,QC93,45.473,-73.86,Compassionate Animal Adoption,QC,H9H 1E3
 846,Hawthorne,US,NJ437,40.9575,-74.1583,Friends of Homeless Animals,NJ,7506
 847,New York,US,NY123,40.7976,-73.9676,Manhattan Valley Cat Rescue,NY,10025
 848,New York,US,NY251,40.7976,-73.9676,Neighborhood Cats Inc.,NY,10025
@@ -868,8 +843,6 @@
 866,New York,US,NY1288,40.7859,-73.9752,Small World Animal Rescue,NY,10024
 867,Wanaque,US,NJ563,41.0461,-74.2849,All Humane Animal Rescue,NJ,7465
 868,Hasbrouck Heights,US,NJ408,40.863,-74.0749,FOCAS,NJ,7604
-869,Vaudreuil-Dorion,CA,QC84,45.390613,-74.013834,Le Refuge Balto,QC,J7V 2J6
-870,Vaudreuil-Dorion,CA,QC104,45.390613,-74.013834,Wicca's K9 Justice Foundation,QC,J7V 8V2
 871,Paterson,US,NJ363,40.9176,-74.1449,Here Kitty Kitty,NJ,7504
 872,North Haledon,US,NJ584,40.9502,-74.1836,A Pathway to Hope,NJ,7508
 873,North Haledon,US,NJ601,40.9502,-74.1836,"High Mountain Animal Rescue, Inc.",NJ,7508
@@ -891,7 +864,6 @@
 889,Haskell,US,NJ881,41.0272,-74.2987,"Bright Starz Neu-Life Animal Rescue, Inc.",NJ,7420
 890,New York,US,NY993,40.7526,-73.9751,Rescuzilla,NY,10017
 891,New York,US,NY1041,40.7526,-73.9751,Rebound Hounds,NY,10017
-892,Saint-Robert,CA,QC100,45.966667,-73.0,Refuge Chat-Va-Mieux Shelter,QC,J0G 1S0
 893,West Milford,US,NJ13,41.0932,-74.3761,West Milford Animal Shelter,NJ,7480
 894,West Milford,US,NJ518,41.0932,-74.3761,Sheryls Den,NJ,7480
 895,New York,US,NY644,40.7571,-73.9862,Northeast Boston Terrier Rescue Inc.,NY,10036
@@ -1030,7 +1002,6 @@
 1028,Parsippany,US,NJ93,40.8595,-74.4189,Labradors + Friends,NJ,7054
 1029,Parsippany,US,NJ854,40.8595,-74.4189,Wise Animal Rescue,NJ,7054
 1030,Hillside,US,NJ725,40.6952,-74.2281,Willy's Wabbits,NJ,7205
-1031,Vaudreuil-Dorion,CA,QC32,45.483333,-74.3,CASCA,QC,J0P 1P0
 1032,Denville,US,NJ766,40.8924,-74.4829,Home Sweet Home Animal Rescue,NJ,7834
 1033,Sparta,US,NJ133,41.0359,-74.6327,One Step Closer Animal Rescue (O.S.C.A.R.),NJ,7871
 1034,Massena,US,NY167,44.9207,-74.9068,Massena Humane Society,NY,13662
@@ -1048,7 +1019,6 @@
 1046,Lake Hopatcong,US,NJ152,40.9615,-74.6142,Jefferson Township Municipal Pound,NJ,7849
 1047,Linden,US,NJ153,40.6359,-74.2568,"Friends of Linden Animal Shelter, Inc.",NJ,7036
 1048,Linden,US,NJ451,40.6359,-74.2568,All Star Pet Rescue,NJ,7036
-1049,Long Sault ,CA,ON555,45.033333,-74.883333,Tiny but Mighty Kitten Rescue,ON,K0C 1P0
 1050,Madison,US,NJ04,40.7587,-74.4181,St. Huberts Animal Welfare Center- Madison,NJ,7940
 1051,Afton,US,NY311,42.2186,-75.4752,Underdogs,NY,13730
 1052,Cranford,US,NJ70,40.6554,-74.3052,"Best Friend Dog and Animal Adoption, Inc.",NJ,7016
@@ -1060,7 +1030,6 @@
 1058,Staten Island,US,NY34,40.5425,-74.1774,Staten Island Council for Animal Welfare,NY,10312
 1059,Staten Island ,US,NY1397,40.5425,-74.1774,Lost and Found Pets Staten Island ,NY,10312
 1060,Mountainside,US,NJ765,40.6779,-74.3573,Brendan's Meadows Rescue,NJ,7092
-1061,Saulnierville,CA,NS24,44.266667,-66.133333,"La Baie Branch, NS SPCA",NS,B0W 2Z0
 1062,Mine Hill,US,NJ349,40.878,-74.5939,Hodes Veterinary Group,NJ,7803
 1063,Westfield,US,NJ353,40.6589,-74.3478,Cause 4 Paws Inc.,NJ,7091
 1064,Randolph,US,NJ325,40.848,-74.5728,All Our Orphans,NJ,7869
@@ -1095,7 +1064,6 @@
 1093,Red Bank,US,NJ735,40.3554,-74.0795,Home Free Animal Rescue,NJ,7701
 1094,Flanders,US,NJ607,40.8456,-74.6989,Mt. Olive TNR Project,NJ,7836
 1095,Flanders,US,NJ839,40.8456,-74.6989,St. Huberts EAC,NJ,7836
-1096,Chertsey,CA,QC105,46.05,-73.733333,Chats sans toi-t,QC,J0K 3K0
 1097,Budd Lake,US,NJ431,40.8741,-74.7409,"North Jersey Guinea Pig and Hamster Rescue, Inc.",NJ,7828
 1098,South Plainfield,US,NJ421,40.5811,-74.4147,Forever Families for Felines,NJ,7080
 1099,South Plainfield,US,NJ685,40.5811,-74.4147,Happy Paws Rescue Inc.,NJ,7080
@@ -1137,7 +1105,6 @@
 1135,Old Bridge,US,NJ728,40.3986,-74.3307,Happy Homes Animal Rescue,NJ,8857
 1136,Tinton Falls,US,NJ02,40.2098,-74.0529,AHS-Tinton Falls,NJ,7753
 1137,New Brunswick ,US,NJ880,40.4861,-74.4522,Hugs and Hope For Homeless Pets,NJ,8903
-1138,Levis,CA,QC108,46.804,-71.175,Refuge Blitz,QC,G6V 7M5
 1139,Lake Ariel,US,PA362,41.4536,-75.384,Scranton Area Advocates For DAWGS,PA,18436
 1140,Somerset,US,NJ350,40.5029,-74.4984,Paws and Whiskers,NJ,8873
 1141,Somerset,US,NJ440,40.5029,-74.4984,HOMELESS HEARTS DOG RESCUE,NJ,8873
@@ -1162,7 +1129,6 @@
 1160,Manalapan,US,NJ405,40.3084,-74.3254,Hope For Animals,NJ,7726
 1161,Manalapan,US,NJ552,40.3084,-74.3254,Cuddly Creatures Inc. Animal Rescue and Adoptions,NJ,7726
 1162,Manalapan,US,NJ554,40.3084,-74.3254,Italian Greyhound Rescue Network-NJ/Eastern PA,NJ,7726
-1163,Casselman,CA,ON505,45.316667,-75.083333,Freedom Dog Rescue,ON,K0A 1M0
 1164,Cresco,US,PA850,41.1452,-75.2525,Twenty Paws Rescue,PA,18326
 1165,Watertown,US,NY33,43.9731,-75.9128,Jefferson County S.P.C.A.,NY,13601
 1166,Freehold,US,NJ05,40.2478,-74.2761,Adopt-a-Pet,NJ,7728
@@ -1172,8 +1138,6 @@
 1170,Whitehouse Station,US,NJ137,40.595,-74.7671,Adopt A Setter,NJ,8889
 1171,Whitehouse,US,NJ704,40.595,-74.7671,Friends of Animal Control Solutions,NJ,8889
 1172,Whitehouse Station,US,NJ878,40.595,-74.7671,The Chicken Refuge,NJ,8889
-1173,Florenceville,CA,NB19,46.165,-67.56,DunRoamin' Stray and Rescue,NB,E7L 1Y8
-1174,Arthurette,CA,NB21,46.165,-67.56,Victoria County S.P.C.A.,NB,E7H 4C2
 1175,East Stroudsburg,US,PA584,41.0145,-75.197,Animals Cant Talk Rescue and Adoption Inc.,PA,18301
 1176,Stroudsburg,US,PA681,41.0145,-75.197,Pocono Animal Welfare Society,PA,18301
 1177,Binghamton,US,NY966,42.144,-75.8838,Pibbles & More Animal Rescue,NY,13901
@@ -1232,7 +1196,6 @@
 1230,Montrose,US,PA803,41.8327,-75.8769,True Friends Animal Welfare Center,PA,18801
 1231,Hightstown,US,NJ825,40.2658,-74.5315,For The Love of Birds,NJ,8520
 1232,Hightstown,US,NJ864,40.2658,-74.5315,All God's Creatures Inc.,NJ,8520
-1233,Oxford Station,CA,QC39,44.757229,-75.740633,Merlins Hope Chow Chow/ Chinese  Shar-Pei Rescue,QC,K0G 1T0
 1234,Roosevelt,US,NJ568,40.22,-74.4736,All 4 The Dogs Rescue,NJ,8555
 1235,Flemington,US,NJ202,40.5145,-74.8514,Watchung Mountain Poodle Club Rescue,NJ,8822
 1236,Flemington,US,NJ785,40.5145,-74.8514,FurryTail Endings Canine Rescue,NJ,8822
@@ -1266,8 +1229,6 @@
 1264,Milford,US,NJ573,40.5838,-75.0517,Addison Rescue,NJ,8848
 1265,Phillipsburg,US,NJ457,40.6911,-75.1688,Tri State Weimaraner Rescue Inc,NJ,8865
 1266,Phillipsburg,US,NJ606,40.6911,-75.1688,Crossed Paws Rescue,NJ,8865
-1267,Shelburne,CA,NS29,43.766667,-65.31666700000001,PET Projects,NS,B0T 1W0
-1268,Osgoode,CA,ON432,45.133333,-75.6,Sit With Me Rescue,ON,K0A 2W0
 1269,Toms River,US,NJ784,39.9694,-74.2526,Lost Dog Search and Rescue,NJ,8757
 1270,Baldwinsville,US,NY712,43.1605,-76.3122,National Brittany Rescue & Adoption Network,NY,13027
 1271,Pennington,US,NJ48,40.3309,-74.7854,Animal Allies,NJ,8534
@@ -1275,7 +1236,6 @@
 1273,Frenchtown,US,NJ738,40.5191,-75.0234,Another Chance 4 Dogs,NJ,8825
 1274,Hamilton,US,NJ83,40.2392,-74.6954,Pet Rescue of Mercer,NJ,8619
 1275,Marcellus,US,NY660,42.9835,-76.3386,Lake Country Veterinary Clinic,NY,13108
-1276,Carlsbad Springs,CA,ON403,45.366667,-75.466667,Keshet Kennels/Rescue,ON,K0A 1K0
 1277,Blakeslee,US,PA437,41.0987,-75.5991,Happy Dog Rescue (hdrescue2@gmail.com),PA,18610
 1278,Easton,US,PA08,40.6864,-75.2411,The Center for Animal Health & Welfare,PA,18042
 1279,Ewing,US,NJ776,40.2537,-74.7629,ARF of Mercer,NJ,8638
@@ -1298,7 +1258,6 @@
 1296,Bath,US,PA944,40.7529,-75.3911,"Fureverhomes Doberman Rescue, Inc.",PA,18014
 1297,Bordentown,US,NJ503,40.1385,-74.7055,Bordentown City Cats,NJ,8505
 1298,Waretown,US,NJ711,39.8019,-74.1959,Love Pups Pet Rescue,NJ,8758
-1299,Fredericton,CA,NB17,45.966667,-66.65,"CARMA, Fredericton Chapter",NB,E3B 1K8
 1300,Point Pleasant,US,PA734,40.4225,-75.0667,Lulu's Rescue,PA,18950
 1301,New Hope,US,PA631,40.3563,-74.9911,Focus on Homeless Animals,PA,18938
 1302,New Hope,US,PA86,40.3563,-74.9911,Bucks County SPCA Lahaska,PA,18938
@@ -1308,8 +1267,6 @@
 1306,Yardley,US,PA793,40.2153,-74.8283,Four the Paws,PA,19067
 1307,Yardley,US,PA1025,40.2153,-74.8283,Joyce's Voice for Cats,PA,19067
 1308,Ithaca,US,NY591,42.3692,-76.3552,Cayuga Dog Rescue,NY,14817
-1309,Orleans,CA,ON543,45.481,-75.508,Cherish Cat Rescue,ON,K4A 3E3
-1310,Nepean,CA,ON40,45.2753,-75.7209,Cat-A-Match Rescue,ON,K2J 0P9
 1311,Oswego,US,NY212,43.4463,-76.4981,Oswego County Humane Society Inc.,NY,13126
 1312,Oswego,US,NY46,43.4463,-76.4981,Oswego Animal Shelter,NY,13126
 1313,Port Treverton,US,PA425,41.275,-75.8909,Far Point Collie Rescue,PA,18704
@@ -1320,15 +1277,9 @@
 1318,Browns Mills,US,NJ647,39.9649,-74.5694,Ark of Promise Rescue,NJ,8015
 1319,Browns Mills,US,NJ808,39.9649,-74.5694,Sammi's Voice Pit Bull Rescue,NJ,8015
 1320,Wilkes Barre,US,PA182,41.2348,-75.8885,SPCA of Luzerne County,PA,18702
-1321,Ottawa,CA,ON199,45.363,-75.689,Minpinerie Dog Rescue Group,ON,K1V 6V6
-1322,Ottawa,CA,ON551,45.363,-75.689,Animals in Need of a New Address,ON,K1V 0L3
-1323,Ottawa,CA,ON270,45.396,-75.66199999999998,Catahoula Rescue Inc. (Ontario),ON,K1H 6S6
-1324,Ottawa,CA,ON451,45.396,-75.66199999999998,Ottawa Pet Rat Rescue,ON,K1H 1A1
 1325,Florence,US,NJ654,40.1128,-74.8016,Helping All Little Things,NJ,8518
 1326,Dallas,US,PA700,41.3333,-75.9652,Blue Chip Farm,PA,18612
 1327,Bethlehem,US,PA648,40.6056,-75.3831,Lehigh Absolutely Purrfect,PA,18015
-1328,Nepean,CA,ON262,45.339,-75.726,Tiny Paws Dog Rescue Canada,ON,K2G 4A5
-1329,Ottawa,CA,ON423,45.399,-75.684,Ontario Aussie Rescue,ON,K1S 4P3
 1330,Lehigh Valley,US,PA456,40.6425,-75.4325,Harnessed to Hope Northern Breed Rescue,PA,18002
 1331,Penndel,US,PA188,40.1747,-74.9229,Bingos Foundation,PA,19047
 1332,Ithaca,US,NY132,42.4486,-76.486,SPCA of Tompkins County,NY,14850
@@ -1338,8 +1289,6 @@
 1336,Furlong,US,PA183,40.2902,-75.0795,Save The Cats Inc.,PA,18925
 1337,Furlong,US,PA779,40.2902,-75.0795,Dutch Country Animal Rescue - PA,PA,18925
 1338,Walnutport,US,PA508,40.7599,-75.5693,Furry Feet Rescue,PA,18088
-1339,Ottawa,CA,ON118,45.375,-75.744,Friends of Abandoned Pets,ON,K2A 4E4
-1340,Ottawa,CA,ON392,45.375,-75.744,New Beginnings Pet Rescue,ON,k2a 0y3
 1341,Manahawkin,US,NJ417,39.7081,-74.2602,Homeless Paws,NJ,8050
 1342,Richboro,US,PA524,40.2167,-75.0049,Royce's Rescue,PA,18954
 1343,Doylestown,US,PA604,40.3155,-75.1276,Almost Home Dog Rescue,PA,18901
@@ -1347,7 +1296,6 @@
 1345,Churchville,US,PA463,40.1891,-75.0059,Susans Cats and Kittens,PA,18966
 1346,Southampton,US,PA765,40.1891,-75.0059,Tails of Love Animal Rescue,PA,18966
 1347,Southampton,US,PA872,40.1891,-75.0059,Bella-Reed Pit Bull Rescue,PA,18966
-1348,Ottawa,CA,ON159,45.316,-75.829,Cat Rescue Network,ON,K2H 7A3
 1349,Spencer,US,NY1241,42.2468,-76.477,"Second Chance Thoroughbreds, Inc.",NY,14883
 1350,Allentown,US,PA31,40.5885,-75.4674,Lehigh County Humane Society,PA,18103
 1351,Allentown,US,PA535,40.5885,-75.4674,Itty Bitty Kitty,PA,18103
@@ -1373,20 +1321,14 @@
 1371,Warminster,US,PA531,40.2065,-75.0872,Cat Tales Inc,PA,18974
 1372,Warminster,US,PA544,40.2065,-75.0872,"Animal Friends Furever,Inc.",PA,18974
 1373,Warrington,US,PA06,40.2443,-75.1352,Brookline Labrador Rescue,PA,18976
-1374,Gananoque,CA,ON141,44.233333,-76.5,Gananoque and District Humane Society,ON,K7M 8M9
 1375,Allentown,US,PA177,40.6039,-75.5269,Linda Anns Greyhound Rescue Inc.,PA,18104
 1376,Allentown,US,PA288,40.6039,-75.5269,SPICER Special Pets In Caring Environments Rescue,PA,18104
 1377,Allentown,US,PA347,40.6039,-75.5269,Ratbone Rescues - Northeast Region,PA,18104
 1378,Schnecksville,US,PA718,40.6703,-75.6052,Starting Over Animal Rescue,PA,18078
 1379,Willingboro,US,NJ100,40.0276,-74.8836,Burlington County Animal Alliance,NJ,8046
 1380,Chalfont,US,PA776,40.2853,-75.2089,Tiny Miracles Rescue,PA,18914
-1381,Stittsville,CA,ON422,45.277,-75.945,Ottawa Stray Cat Rescue,ON,K2S 1K1
-1382,Gatineau,CA,QC01,45.43333300000001,-75.833333,SPCA of Western Quebec,QC,J9H 5E1
 1383,Huntingdon Valley,US,PA892,40.1299,-75.0611,"Philly Pug & Short Nose Rescue, Inc.",PA,19006
 1384,Nesquehoning,US,PA937,40.8597,-75.8105,Pawsitively Purrfect Rescue,PA,18240
-1385,Perth,CA,ON419,44.9,-76.25,Poet's Vision Aussie Rescue,ON,K7H 3C7
-1386,Perth,CA,ON472,44.9,-76.25,Marshall's Dog Rescue,ON,K7H 3C3
-1387,Wakefield,CA,QC116,45.499769,-75.802503,Petalia Cat Garden Shelter,QC,J0X 3G0
 1388,Germansville,US,PA127,40.7204,-75.7053,"Forgotten Felines and Fidos, Inc.",PA,18053
 1389,Colmar,US,PA16,40.2662,-75.2471,Stray Cat Blues Inc.,PA,18915
 1390,Colmar,US,PA919,40.2662,-75.2471,Dog Town Rescue,PA,18915
@@ -1430,7 +1372,6 @@
 1428,Marlton,US,NJ856,39.8907,-74.9107,Dream Home Rescue,NJ,8053
 1429,Harleysville,US,PA352,40.2664,-75.388,Rockys Friends,PA,19438
 1430,Harleysville,US,PA849,40.2664,-75.388,PAWSibilities Animal Rescue,PA,19438
-1431,Chelsea,CA,QC129,45.576,-75.8824,Save a Pet,QC,J9B 2J7
 1432,Blue Bell,US,PA878,40.154,-75.273,Mid Atlantic Jack Rescue,PA,19422
 1433,Kempton,US,PA452,40.6406,-75.8044,Maranatha Farm's Animal Sanctuary & Treatment Center,PA,19529
 1434,Cherry Hill,US,NJ774,39.9317,-75.0197,Camden Companions Animal Rescue,NJ,8002
@@ -1481,7 +1422,6 @@
 1479,King of Prussia,US,PA1035,40.0981,-75.3709,1Love4Animals inc.,PA,19406
 1480,Philadelphia,US,PA908,39.94,-75.1763,City of Elderly Love,PA,19146
 1481,Lindenwold,US,NJ65,39.8083,-75.001,Animal Adoption Center,NJ,8021
-1482,Dsl De Drummond,CA,NB20,47.05,-67.733333,Valley SPCA La Vallee Inc.,NB,E3Y 1X4
 1483,Horseheads,US,NY1346,42.1737,-76.8328,Horseheads Community Animal Shelter,NY,14845
 1484,Bellmawr,US,NJ800,39.8689,-75.0954,The Riley Rescue,NJ,8031
 1485,Philadelphia,US,PA1036,39.9197,-75.1631,Stray Cat Relief Fund,PA,19148
@@ -1536,7 +1476,6 @@
 1534,Paoli,US,PA960,40.0416,-75.4853,DogsHome,PA,19301
 1535,Mount Royal,US,NJ468,39.8101,-75.2062,South Jersey  Rescue,NJ,8061
 1536,Mount Royal,US,NJ773,39.8101,-75.2062,Mulligan Animal Rescue Inc.,NJ,8061
-1537,Arnprior,CA,ON145,45.43333300000001,-76.35,Arnprior and District Humane Society,ON,K7S 3H2
 1538,Ventnor City,US,NJ234,39.341,-74.4825,Penny Angels Beagle Rescue,NJ,8406
 1539,Essington,US,PA940,39.8648,-75.2981,"Peace, Love and Doggie Paws Rescue",PA,19029
 1540,Temple,US,PA02,40.4109,-75.9105,"One By One, Inc.",PA,19560
@@ -1582,7 +1521,6 @@
 1580,Vineland,US,NJ841,39.4648,-74.9974,Kizzy's Place,NJ,8361
 1581,Wilmington,US,DE48,39.8174,-75.5046,Hopeful Hearts Dog Rescue,DE,19810
 1582,Danville,US,PA537,40.9774,-76.6076,PSPCA Danville Branch,PA,17821
-1583,Bristol,CA,QC78,45.60061500000001,-76.479607,Animal Aide Pontiac,QC,J0X 1G0
 1584,Wernersville,US,PA429,40.3232,-76.0879,"Good Dog Adoption Agency, Inc.",PA,19565
 1585,Tioga,US,PA551,41.9078,-77.1358,Second Chance Animal Sanctuaries,PA,16946
 1586,Chadds Ford,US,PA163,39.8583,-75.6058,Rescue Animal Placements (RAP),PA,19317
@@ -1608,8 +1546,6 @@
 1606,Ocean View,US,NJ862,39.1988,-74.7393,Almost Home Animal Rescue of South Jersey,NJ,8230
 1607,Wilmington,US,DE03,39.737,-75.5508,Delaware Humane Association,DE,19801
 1608,Wilmington,US,DE36,39.7431,-75.5883,Save the Animals Adoption Center,DE,19805
-1609,Belleville,CA,ON414,44.166667,-77.383333,Keeshond Rescue Ontario Inc.,ON,K8P 2L6
-1610,Belleville,CA,ON506,44.166667,-77.383333,Leap of Faith Furry Pawz Rescue,ON,K8P 2Z1
 1611,Rochester,US,NY958,43.146,-77.5078,"Nuts for Mutts Rescue, Inc.",NY,14625
 1612,Myerstown,US,PA81,40.386,-76.3158,Humane Society of Lebanon County,PA,17067
 1613,Watsontown,US,PA690,41.0848,-76.8612,Kats by Keithan,PA,17777
@@ -1655,7 +1591,6 @@
 1653,Newark,US,DE41,39.6384,-75.6944,Delaware Alliance for Animal Welfare Group Inc,DE,19702
 1654,Rochester,US,NY1403,43.1687,-77.6822,Pets Stop Here Inc,NY,14606
 1655,Kirkwood,US,DE08,39.6133,-75.6859,Dumpster Cats Rescue League/Kitten Placement,DE,19701
-1656,Stirling,CA,ON402,44.3,-77.55,Brenhill Kennel German Shepherd Rescue,ON,k0k 3e0
 1657,Rochester,US,NY23,43.2114,-77.7004,G.R.A.S.P. Inc.,NY,14626
 1658,Quentin,US,PA628,40.2794,-76.4386,Angels Among Us Animal Sanctuary,PA,17083
 1659,Conesus,US,NY705,42.7159,-77.681,SusieQ Dog ResQ,NY,14435
@@ -1687,7 +1622,6 @@
 1685,Columbia,US,PA696,40.042,-76.485,Columbia Animal Hospital,PA,17512
 1686,Elizabethtown,US,PA758,40.159,-76.6039,2nd Chance 4 Life Rescue,PA,17022
 1687,Elizabethtown,US,PA833,40.159,-76.6039,PittiesLovePeace,PA,17022
-1688,Colborne,CA,ON559,44.0,-77.883333,K9 Crusaders,ON,K0K 1S0
 1689,Harrisburg,US,PA256,40.3326,-76.7837,BunnyPeople,PA,17112
 1690,Harrisburg,US,PA894,40.3326,-76.7837,Pawsitively Pom Rescue Inc.,PA,17112
 1691,Port Deposit,US,MD476,39.6175,-76.0784,Keller's Cause,MD,21904
@@ -1708,23 +1642,17 @@
 1706,York,US,PA380,39.9713,-76.6804,Appalachian Cat Rescue,PA,17402
 1707,York,US,PA577,39.9713,-76.6804,Coast to Coast Dachshund Rescue PA-NJ-MD-DE,PA,17402
 1708,York,US,PA747,39.9713,-76.6804,East York Veterinary Center,PA,17402
-1709,Miramichi,CA,NB16,47.0,-65.56666700000001,SPCA Miramichi,NB,E1V 3M3
 1710,Pylesville,US,MD376,39.6977,-76.42399999999998,gRATitude Rat Rescue,MD,21132
 1711,Batavia,US,NY555,42.9981,-78.1878,Volunteers For Animals / Genesee County Animal Shelter,NY,14021
 1712,Lewisberry,US,PA949,40.1323,-76.8772,Loving Care Cat Rescue of Central PA,PA,17339
 1713,Albion,US,NY432,43.2306,-78.21300000000002,People for Animal Welfare Society/Paws,NY,14411
 1714,Albion,US,NY1401,43.2306,-78.21300000000002,MAD Rescue of WNY,NY,14411
-1715,Dartmouth,CA,NS48,44.70399999999999,-63.608,Homeward Bound City Pound,NS,B3B 1W2
-1716,Amherst,CA,NS11,45.816667,-64.233333,Lillian Allbon Shelter,NS,B4H 3Y4
 1717,Grantville,US,PA133,40.2207,-77.0025,The Dogs Den,PA,17055
 1718,Harrisburg,US,PA267,40.2207,-77.0025,Catahoula Rescue Inc. NorthEast,PA,17055
 1719,Mechanicsburg,US,PA511,40.2207,-77.0025,Homeward Bound Animal Rescue,PA,17055
 1720,Mechanicsburg,US,PA644,40.2207,-77.0025,Worthy Tails Animal Rescue,PA,17055
 1721,Mechanicsburg,US,PA829,40.2207,-77.0025,"Im-Paws-Able Dog Rescue, Inc",PA,17055
-1722,Bancroft,CA,ON350,45.05,-77.85,HOME AGAIN,ON,K0L 1C0
 1723,Bel Air,US,MD191,39.5337,-76.3466,"Noble Equine Rescue and Sanctuary, Inc.",MD,21014
-1724,Dartmouth,CA,NS28,44.673,-63.532,Healing Animal SCARS - Sonya's Cat & Animal Rescue Society,NS,B2W 4L4
-1725,Dartmouth,CA,NS69,44.707,-63.543,Good Bones Dog Rescue,NS,B2X 2W1
 1726,Henderson,US,MD463,39.0763,-75.764,New Chances,MD,21640
 1727,York,US,PA979,39.9492,-76.8018,Feline Solutions Inc,PA,17408
 1728,Belfast,US,NY315,42.2065,-78.1356,Southern Tier Animal Rescue  Inc ( S.T.A.R. ),NY,14739
@@ -1741,7 +1669,6 @@
 1739,Fallston,US,MD61,39.5244,-76.4297,Humane Society of Harford County,MD,21047
 1740,Fallston,US,MD63,39.5244,-76.4297,"Fallston Animal Rescue Movement, Inc.",MD,21047
 1741,Varysburg,US,NY1198,42.7335,-78.3085,Roanchar Ranch Draft Horse Rescue,NY,14167
-1742,Port Hope,CA,ON57,43.95,-78.3,Northumberland Humane Society,ON,L1A 4A4
 1743,Dillsburg,US,PA255,40.0983,-77.0262,Canine Rescue of Central PA Inc.,PA,17019
 1744,Dillsburg,US,PA93,40.0983,-77.0262,Helen Krause Organization (HOKAFI),PA,17019
 1745,Medina,US,NY386,43.2124,-78.3842,Saving Animals Gently on Earth,NY,14103
@@ -1771,7 +1698,6 @@
 1769,Rock Hall,US,MD438,39.1374,-76.236,Eastern Shore Rabbit Rescue and Education Center,MD,21661
 1770,Seaford,US,DE29,38.658,-75.5407,"Homeless Cat Helpers, Inc.",DE,19973
 1771,Seaford,US,DE35,38.658,-75.5407,Changing Fates Equine Rescue of Delaware Inc.,DE,19973
-1772,Head of Chezzetcook,CA,NS63,44.75,-63.25,Marley's Hope Dog Rescue Society,NS,B0J 1N0
 1773,Delevan,US,NY1294,42.4827,-78.4934,"A Place For Cats, Inc.",NY,14042
 1774,Lutherville,US,MD245,39.4371,-76.6327,Pet Rescue of Maryland,MD,21093
 1775,Towson,US,MD296,39.4155,-76.6094,Maryland Pet Match Rescue,MD,21284
@@ -1789,7 +1715,6 @@
 1787,Baltimore,US,MD253,39.2854,-76.54,MAS Rescue,MD,21224
 1788,State College,US,PA402,40.8035,-77.89699999999998,Fondas Foundlings,PA,16803
 1789,State College,US,PA462,40.8035,-77.89699999999998,Beagle911 Refuge,PA,16803
-1790,Omemee,CA,ON333,44.3,-78.55,Freedom Valley Horse Rescue,ON,K0L 2W0
 1791,Baltimore,US,MD86,39.3716,-76.6717,Adopt a Homeless Animal Rescue,MD,21209
 1792,Federalsburg,US,MD471,38.709,-75.7844,KittyLoveKuwait,MD,21632
 1793,Baltimore,US,MD100,39.3313,-76.6378,The Maryland SPCA,MD,21211
@@ -1807,8 +1732,6 @@
 1805,Reisterstown,US,MD286,39.4565,-76.8191,MidAtlantic,MD,21136
 1806,Reisterstown,US,MD77,39.4565,-76.8191,Association for Animal Rights Inc.,MD,21136
 1807,East Amherst,US,NY1345,43.0293,-78.7107,Magic's Mission Beagle and Hound Rescue,NY,14051
-1808,Bowmanville,CA,ON502,43.916667,-78.68333299999998,Ruff Start New Beginnings,ON,L1C 4Z5
-1809,Bowmanville,CA,ON504,43.916667,-78.68333299999998,Benevolent Bully Rescue,ON,L1C 4S2
 1810,Ocean Pines,US,MD99,38.3271,-75.2184,Town Cats,MD,21811
 1811,Berlin,US,MD33,38.3271,-75.2184,Worcester County Humane Society,MD,21811
 1812,Gettysburg,US,PA25,39.8242,-77.21600000000002,Adams County SPCA,PA,17325
@@ -1829,7 +1752,6 @@
 1827,Chester,US,MD158,38.9563,-76.2823,Animal Resource Foundation Inc,MD,21619
 1828,Chester,US,MD384,38.9563,-76.2823,Rural Dog Rescue,MD,21619
 1829,West Seneca,US,NY318,42.8379,-78.7536,Erie County SPCA,NY,14224
-1830,Courtice,CA,ON471,43.916667,-78.766667,"Standard Poodles In Need, Rescue & Rehome",ON,L1E 2K5
 1831,Amherst,US,NY646,42.9667,-78.7988,Broken Down Dogs,NY,14226
 1832,Buffalo,US,NY1368,42.9667,-78.7988,"Pound Hounds and Friends, Inc.",NY,14226
 1833,Easton,US,MD360,38.7724,-76.0792,TomCat Solutions,MD,21601
@@ -1862,7 +1784,6 @@
 1860,Millersville,US,MD474,39.0969,-76.6208,Husky Education And Rescue Team,MD,21108
 1861,Buffalo,US,NY341,42.8851,-78.8703,City of Buffalo Animal Shelter,NY,14203
 1862,Elkridge,US,MD389,39.2019,-76.7505,"Animal Safe Haven & Adoptions, Inc.",MD,21075
-1863,Lindsay,CA,ON531,44.3558,-78.7763,Kawartha Lakes Animal Wellness Society,ON,K9V 2Z0
 1864,Buffalo,US,NY1372,42.9171,-78.8771,Against All Oddz Animal Alliance,NY,14222
 1865,Buffalo,US,NY822,42.8864,-78.8786,Educate A Bull,NY,14205
 1866,Annapolis,US,MD69,38.999,-76.5092,"Patuxent Animal Welfare Society, Inc. (PAWS)",MD,21401
@@ -1876,7 +1797,6 @@
 1874,Columbia,US,MD106,39.2053,-76.8348,Howard County Animal Control and Adoption Center,MD,21045
 1875,Columbia,US,MD25,39.2053,-76.8348,Howard County Cat Club,MD,21045
 1876,Huntingdon,US,PA145,40.495,-78.0147,Huntingdon County Humane Society,PA,16652
-1877,Whitby,CA,ON510,43.866667,-78.93333299999998,Cat Town Rescue,ON,L1N 3K9
 1878,Niagara Falls,US,NY419,43.092,-78.9653,Niagara SPCA,NY,14304
 1879,Jessup,US,MD440,39.1525,-76.7946,Sunshine's Friends Cat Rescue  Sanctuary,MD,20794
 1880,Saint Marys,US,PA413,41.4243,-78.554,Elk County Humane Society,PA,15857
@@ -1889,33 +1809,23 @@
 1887,Cambridge,US,MD299,38.5725,-76.0603,Wags & Wishes Animal Rescue,MD,21613
 1888,Mount Airy,US,MD19,39.399,-77.1196,Mid-Atlantic German Shepherd Rescue,MD,21771
 1889,Mount Airy,US,MD201,39.399,-77.1196,Darby's Place Cat Rescue,MD,21771
-1890,Port Perry,CA,ON83,44.1,-78.95,Uxbridge-Scugog Animal Control Centre,ON,L9L 1B2
 1891,Derby,US,NY1342,42.6923,-78.9779,Hamburg Mutts for Freedom,NY,14047
 1892,Chambersburg,US,PA632,39.9375911,-77.6611022,"Mastiffs To Mutts, Inc.",PA,17202
 1893,Libertytown,US,MD387,39.485,-77.2406,The Foxie G Foundation,MD,21762
 1894,Chambersburg,US,PA445,39.9276,-77.6598,Rescue Me - Yorkie Rescue,PA,17201
 1895,Chambersburg,US,PA78,39.9276,-77.6598,"Cumberland Valley Animal Shelter, Inc.",PA,17201
 1896,Clearfield,US,PA218,41.0216,-78.4403,Clearfield County SPCA,PA,16830
-1897,Ajax,CA,ON347,43.85,-79.033333,Ajax Pet Care Rescue,ON,L1S 2E2
-1898,Ajax,CA,ON545,43.85,-79.033333,Canine Haven Rescue,ON,L1T 1V8
-1899,Pickering,CA,ON226,43.866667,-79.033333,Pickering Animal Services,ON,L1V 6K7
-1900,Pickering,CA,ON51,43.866667,-79.033333,Action Volunteers for Animals - Durham Region,ON,L1V 1S6
-1901,Pickering,CA,ON387,43.866667,-79.033333,S.A.I.N.T.  Rescue and Adoption,ON,L1V 1S6
-1902,Pickering,CA,ON517,43.866667,-79.033333,Firefighter Dog Rescue,ON,L1V 3L9
 1903,Laurel,US,MD454,39.0992,-76.8486,Laurel Cats,MD,20725
 1904,Thurmont,US,MD442,39.6065,-77.4051,Cuddles Cat Rescue,MD,21788
 1905,Waynesboro,US,PA109,39.7708,-77.5809,Antietam Humane Society Inc.,PA,17268
 1906,Bowie,US,MD443,38.9778,-76.7428,"Cause for Paws Cares, Inc",MD,20715
 1907,Bowie,US,MD21,39.0067,-76.7794,SPCA Humane Society of Prince Georges County MD,MD,20718
 1908,Bowie,US,MD213,39.0067,-76.7794,MJs Animal Sanctuary Inc.,MD,20718
-1909,Niagara Falls,CA,ON305,43.08,-79.098,Blue Collared Canines,ON,L2G 6X6
 1910,Harwood,US,MD67,38.8691,-76.627,Rude Ranch Animal Rescue,MD,20776
 1911,New Market,US,MD150,39.3825,-77.2697,"Pets-4-Pets Cats Rescue, Inc.",MD,21774
 1912,Monrovia,US,MD308,39.3448,-77.2464,New Beginnings German Shorthaired Pointer Rescue,MD,21770
 1913,Silver Spring,US,MD295,39.1061,-76.9952,MASTER,MD,20905
 1914,Silver Spring,US,MD368,39.1061,-76.9952,Dogs XL Rescue,MD,20905
-1915,Uxbridge,CA,ON440,44.1,-79.116667,Uxbridge Cat Rescue,ON,L9P 1S9
-1916,Uxbridge,CA,ON483,44.1,-79.116667,Life's Been Ruff Pet Rescue,ON,L9P 1R2
 1917,Greenbelt,US,MD003,39.0044,-76.8758,Partnership for Animal Welfare (PAW),MD,20768
 1918,Princess Anne,US,MD144,38.2074,-75.7199,Humane Society of Somerset County,MD,21853
 1919,Greenbelt,US,MD243,38.9981,-76.8797,City of Greenbelt  Animal Control,MD,20770
@@ -1930,28 +1840,13 @@
 1928,Frederick,US,MD179,39.4094,-77.3923,www.smallangelsrescue.org,MD,21703
 1929,Frederick,US,MD298,39.4094,-77.3923,Lonely Hearts Animal Rescue - K9 rescue,MD,21703
 1930,Frederick,US,MD196,39.4142,-77.4108,Animal Welfare League of Frederick County,MD,21705
-1931,St. Catharines,CA,ON11,43.166667,-79.25,Niagara Action For Animals,ON,L2P 1W4
-1932,St. Catharines,CA,ON457,43.166667,-79.25,Pets Alive Niagara,ON,L2R 7J9
-1933,Port Colborne,CA,ON516,42.883333,-79.233333,Port Colborne Feline Initiative,ON,L3K 5V8
-1934,Toronto,CA,ON55,43.74800000000001,-79.248,Action Volunteers for Animals - Toronto Central,ON,M1J 3K3
-1935,Welland,CA,ON463,42.983333,-79.25,Niagara Pet Foster Network,ON,L3B 4H6
 1936,Clarksburg,US,MD363,39.253,-77.2775,Jasmine's House,MD,20871
 1937,Derwood,US,MD423,39.1329,-77.1452,Montgomery County Animal Services and Adoption Ctr.,MD,20855
-1938,Ballantrae,CA,ON281,43.997,-79.23,HATTON DOG RESCUE,ON,L4A 7X4
-1939,Stouffville,CA,ON367,43.997,-79.23,After The Track Greyhound Adoption,ON,L4A 7X4
-1940,Scarborough,CA,ON237,43.74,-79.26,A Dog's Best Friend,ON,M1K 3G5
-1941,Scarborough,CA,ON549,43.74,-79.26,Safehome Animal Rescue,ON,M1K 2H9
 1942,Silver Spring,US,MD49,39.042,-77.0447,Roxie's Fund Inc.,MD,20902
-1943,Toronto,CA,ON134,43.695,-79.265,Jack Russell Terrier Rescue Ontario (JRTRO),ON,M1N 3T7
 1944,Owings,US,MD283,38.6934,-76.6091,Freedom Hill Horse Rescue,MD,20736
 1945,Chesapeake Beach,US,MD477,38.6246,-76.5237,Mabel's Orphaned Angels Rescue ,MD,20732
 1946,Upper Marlboro,US,MD247,38.8274,-76.7963,Prince Georges County Animal Management Division,MD,20772
-1947,Scarborough,CA,ON174,43.761,-79.271,For the Animals,ON,M1P 1X8
-1948,Scarborough,CA,ON456,43.761,-79.271,Cause 4 Paws,ON,M1P 4Z7
-1949,Markham,CA,ON479,43.882,-79.259,Underdog Railroad Canada,ON,L3P 2S7
 1950,Washington Grove,US,MD04,39.1397,-77.1756,Montgomery County SPCA,MD,20880
-1951,Pefferlaw,CA,ON464,44.316667,-79.2,Little RES Q,ON,L0E 1N0
-1952,Toronto,CA,ON116,43.68,-79.294,Beaches Animal Hospital,ON,M4E 1G8
 1953,Mount Rainier,US,MD48,38.9425,-76.9652,Alley Cat Rescue Inc,MD,20712
 1954,Gaithersburg,US,MD255,39.1433,-77.2017,Animal Welfare League of Montgomery County,MD,20898
 1955,Silver Spring,US,MD270,38.9906,-77.0264,Lizzys Lodge,MD,20918
@@ -1959,11 +1854,7 @@
 1957,Altoona,US,PA187,40.4975,-78.3917,Central PA Humane Society,PA,16602
 1958,Hagerstown,US,MD432,39.6448,-77.7188,For Otis Sake,MD,21742
 1959,Kensington,US,MD316,39.0284,-77.0773,Rock Creek Cats,MD,20895
-1960,Brechin,CA,ON276,44.533333,-79.166667,Ramara Township Canine Control,ON,L0K 1B0
-1961,Fonthill,CA,ON460,43.042262,-79.30924399999998,Niagara Spay Neuter Assistance Program Inc.,ON,L0S 1E0
 1962,Washington,US,DC21,38.9782,-77.0282,OneDogAtATimeDC,DC,20012
-1963,Toronto,CA,ON430,43.69529,-79.31853000000002,TEAM Dog Rescue,ON,M4C 1H0
-1964,Toronto,CA,ON485,43.69529,-79.31853000000002,Team Cat Rescue,ON,M4C 1H0
 1965,Hagerstown,US,MD101,39.6345,-77.73100000000002,Humane Society of Washington County,MD,21740
 1966,Hagerstown,US,MD292,39.6345,-77.73100000000002,Tri-State All Breed Rescue,MD,21740
 1967,Rockville,US,MD349,39.0469,-77.1257,Mutts Matter Rescue,MD,20852
@@ -1973,16 +1864,13 @@
 1971,Germantown,US,MD40,39.1731,-77.2719,NoVa Rottweiler Rescue league Inc.,MD,20875
 1972,Germantown,US,MD184,39.1704,-77.2731,Shingilana Rescued Felines,MD,20874
 1973,Germantown,US,MD425,39.1704,-77.2731,Lost and Found Horse Rescue Foundation,MD,20874
-1974,Zephyr,CA,ON509,44.2,-79.266667,Donna's Canine Kitchen,ON,L0E 1T0
 1975,Falls Creek,US,PA706,41.1427,-78.8061,Gateway Humane Society Inc.,PA,15840
 1976,Huntingtown,US,MD411,38.6078,-76.6074,Puppy Paws Rescue,MD,20639
-1977,Markham,CA,ON205,43.838,-79.34100000000002,North Toronto Cat Rescue,ON,L3R 9A8
 1978,Washington,US,DC03,38.9011,-76.9921,Humane Rescue Alliance,DC,20002
 1979,Gaithersburg,US,MD206,39.1127,-77.2421,Annies Orphans,MD,20878
 1980,Falconer,US,NY521,42.119,-79.1993,Dawns Canine Rescue,NY,14733
 1981,Bethesda,US,MD166,38.9806,-77.1006,Best DAWG Rescue Inc.,MD,20827
 1982,Mayo,US,MD50,38.9806,-77.1006,MidAtlantic Samoyed Rescue,MD,20827
-1983,Toronto,CA,ON254,43.645,-79.373,TAILS FROM GREECE RESCUE,ON,M5E 1W5
 1984,Washington,US,DC15,38.8832,-76.9941,Capital Cats,DC,20003
 1985,Bethesda,US,DC04,38.9191,-77.0382,Alley Cat Allies,DC,20009
 1986,Washington,US,DC22,38.9348,-77.0598,City Dogs Rescue & City Kitties,DC,20008
@@ -1991,9 +1879,6 @@
 1989,Washington,US,DC26,38.9067,-77.0284,DC PAWS Rescue,DC,20026
 1990,Potomac,US,MD250,39.041,-77.1928,PetConnect Rescue,MD,20854
 1991,Potomac,US,MD410,39.041,-77.1928,"Home At Last Sanctuary, Inc",MD,20854
-1992,Toronto,CA,ON49,43.78,-79.381,"Canadian Dachshund Rescue, Ontario",ON,M2K 2K7
-1993,Wainfleet,CA,ON461,42.93333300000001,-79.383333,Beaver Creek Farm Sanctuary,ON,L0S 1V0
-1994,Toronto,CA,ON557,43.663,-79.39699999999998,Emma's Dog Rescue,ON,M5S 2X8
 1995,Port Republic,US,MD181,38.5007,-76.5248,Friends of Felines,MD,20676
 1996,Washington,US,DC19,38.9142,-77.0748,K-9 Lifesavers,DC,20007
 1997,Washington,US,DC20,38.9142,-77.0748,Lucky Dog Animal Rescue,DC,20007
@@ -2139,22 +2024,18 @@
 2137,Ocean Shores,US,WA219,47.0344,-124.1582,North Beach PAWS,WA,98569
 2138,Bellingham,US,WA25,48.6289,-122.4905,Whatcom Voice of the Animals,WA,98225
 2139,Bellingham,US,WA519,48.6289,-122.4905,Happy Tails Happy Homes,WA,98228
-2140,Victoria,CA,BC189,48.44300000000001,-123.321,Mex-Can Pet Partners,BC,V8R 1V5
 2141,Friday Harbor,US,WA162,48.5376,-123.055,Animal Protection Society - Friday Harbor,WA,98250
 2142,Wenatchee,US,WA139,47.4236,-120.3092,Wenatchee Valley Humane Society,WA,98807
 2143,Bellingham,US,WA474,48.6909,-122.3991,Bel-West Cat Rescue & Adoption,WA,98226
 2144,Bellingham,US,WA7,48.6909,-122.3991,Whatcom Humane Society,WA,98226
 2145,Yakima,US,WA632,46.5065,-120.5982,All Mutts Great and Small,WA,98908
-2146,Victoria,CA,BC208,48.44600000000001,-123.511,Mexpup Canada Animal Rescue Society,BC,V9B 4T7
 2147,Yakima,US,WA175,46.6025,-120.4665,Yakima Valley Pet Rescue,WA,98901
 2148,Yakima,US,WA193,46.6025,-120.4665,Barks R Us Rescue,WA,98901
 2149,Yakima,US,WA447,46.6025,-120.4665,Wonder Pets Rescue,WA,98901
 2150,Eastsound,US,WA221,48.6943,-122.9079,Orcas Animal Protection Society,WA,98245
-2151,Victoria,CA,BC173,48.557,-123.383,Angels Under Our Wings Cocker Spaniel Rescue,BC,V8Y 1W8
 2152,Bellingham,US,WA15,48.7597,-122.4869,Alternative Humane Society of Whatcom County,WA,98227
 2153,Union Gap,US,WA403,46.4568,-120.558,Wags To Riches Animal Rescue and Sanctuary,WA,98903
 2154,Long Beach,US,WA255,46.4944,-124.0256,SPCHS,WA,98640
-2155,Saanichton,CA,BC144,48.60947,-123.402085,Victoria Pet Adoption Society,BC,V8M 1S8
 2156,St. Helens,US,OR06,45.8712,-122.8709,Columbia Humane Society,OR,97051
 2157,Clatskanie,US,OR187,45.9908,-123.3364,Jack Russell Rescue Oregon Washington & Idaho,OR,97016
 2158,Ferndale,US,WA580,48.8271,-122.6036,Rescued Hearts Northwest,WA,98248
@@ -2182,18 +2063,8 @@
 2180,Hood River,US,OR245,45.6707,-121.5383,Purrfect Fit Cat Adoptions,OR,97031
 2181,Hood River,US,OR259,45.6707,-121.5383,B.E. Mine Cat Adoption,OR,97031
 2182,Hood River,US,OR348,45.6707,-121.5383,All Animal Care Clinic,OR,97031
-2183,Abbotsford,CA,BC188,49.05,-122.283333,Dachshund and  Friends Rescue Team,BC,V2S 6P3
-2184,Abbotsford,CA,BC43,49.05,-122.283333,BC SPCA Abbotsford Branch,BC,V2S 7M6
-2185,SaltSpring Island,CA,BC125,48.85,-123.5,BC SPCA Salt Spring Island Branch,BC,V8K 2W2
-2186,Duncan,CA,BC153,48.783333,-123.7,Faunadael Pet Rescue,BC,V9L 6B1
-2187,Duncan,CA,BC179,48.783333,-123.7,Cowichan Cat Rescue,BC,V9L 3Y1
-2188,Duncan,CA,BC21,48.783333,-123.7,BC SPCA Cowichan & District Branch,BC,V9L 6B1
-2189,South Surrey,CA,BC220,49.03853,-122.78322,RESCUtE,BC,V4A 2B1
-2190,Langley,CA,BC73,49.074,-122.595,Langley Animal Protection Society,BC,V2Z 2M8
-2191,Chilliwack,CA,BC107,49.083333,-122.033333,German Shepherd Rescue of BC,BC,V2R 4P3
 2192,Portland,US,OR50,45.5674,-122.6504,Oregon Humane Society,OR,97211
 2193,Portland,US,OR345,45.5674,-122.6504,One Tail at a Time PDX,OR,97211
-2194,Delta,CA,BC151,49.024,-123.061,Tsawwassen Animal Hospital,BC,V4L 2B4
 2195,Portland,US,OR40,45.5435,-122.5632,NW Pom Rescue,OR,97220
 2196,Portland,US,OR285,45.5334,-122.6044,My Way Home Dog Rescue,OR,97213
 2197,Portland,US,OR329,45.5294,-122.6416,Enzo's Acres,OR,97232
@@ -2205,22 +2076,14 @@
 2203,Portland,US,OR289,45.5433,-122.8296,4 Paws Haven,OR,97229
 2204,Sunnyside,US,WA641,46.334,-120.0281,Pet Health Clinic,WA,98944
 2205,Portland,US,OR297,45.5127,-122.6428,Pound to Posh Dog Rescue,OR,97214
-2206,Mission,CA,BC11,49.15,-122.316667,TnT Sharpei Rescue,BC,V2V 3Z3
-2207,Mission,CA,BC119,49.15,-122.316667,S.A.I.N.T.S.,BC,V2V 6B2
-2208,Mission,CA,BC207,49.15,-122.316667,Dogway Dog Rescue Society,BC,V4S 1H2
-2209,Surrey,CA,BC182,49.128,-122.767,New Stride Thoroughbred Adoption Society,BC,V3S 1G4
-2210,Surrey,CA,BC29,49.128,-122.767,Surrey BC SPCA Education and Adoption Centre,BC,V3S 3L4
-2211,Langley,CA,BC254,49.151,-122.54,Loved At Last Dog Rescue,BC,V4W 1M6
 2212,Portland,US,OR361,45.4983,-122.6913,Dream Team Angels Rescue,OR,97239
 2213,Portland,US,OR191,45.5333,-122.9631,Oregon Weimaraner Rescue,OR,97124
 2214,Portland,US,OR246,45.4959,-122.7252,The Rescue Faerie,OR,97221
 2215,Portland,US,OR96,45.4959,-122.7252,Animal Aid Inc.,OR,97221
 2216,Portland,US,OR71,45.4826,-122.599,Family Dogs New Life Shelter,OR,97206
-2217,Langley,CA,BC81,49.153792,-122.6417846,BC Chihuahua Rescue,BC,V2Y 0A5
 2218,Portland,US,OR141,45.4991,-122.7692,Northwest Animal Companions,OR,97225
 2219,Portland,US,OR300,45.4824,-122.6399,Underdog Railroad Rescue,OR,97202
 2220,Portland,US,OR248,45.4733,-122.5572,"Rose City Fox Terrier Rescue, Inc.",OR,97266
-2221,Chilliwack,CA,BC185,49.166667,-121.95,Carried Through Animal Rescue and Education,BC,V2R 1S8
 2222,Portland,US,OR109,45.4914,-122.774,Golden Bond Rescue of Oregon,OR,97298
 2223,Hillsboro,US,OR31,45.5078,-122.9534,Bonnie L Hays Small Animal Shelter of Washington County,OR,97123
 2224,Hillsboro,US,OR304,45.5078,-122.9534,Cat's Cradle Rescue,OR,97123
@@ -2228,56 +2091,34 @@
 2226,The Dalles,US,OR346,45.5905,-121.1919,"Fur Footed Rescue, Inc.",OR,97058
 2227,Banks,US,OR268,45.529,-123.121,National Great Pyrenees Rescue,OR,97106
 2228,Beaverton,US,OR19,45.4712,-122.8049,Indigo Rescue,OR,97005
-2229,Maple Ridge,CA,BC136,49.198,-122.489,Katies Place,BC,V2W 1A4
-2230,Maple Ridge,CA,BC32,49.198,-122.489,BC SPCA Maple Ridge Branch,BC,V2W 1G6
-2231,Delta,CA,BC114,49.146,-122.974,Delta Community Animal Shelter,BC,V4G 1C1
 2232,Wishram,US,WA369,45.6575,-120.9656,D.O.G (Dogs of the Gorge),WA,98673
 2233,Hillsboro,US,OR89,45.4702,-122.8544,Oregon Friends of Shelter Animals (OFOSA),OR,97007
 2234,Beaverton,US,OR336,45.4702,-122.8544,Right Start Animal Rescue,OR,97007
-2235,Surrey,CA,BC132,49.191,-122.811,SARA Society-Save Animals through Rescue & Adoption,BC,v3r 2m9
-2236,Surrey,CA,BC260,49.191,-122.811,PB  Chi Dog Rescue Society,BC,V3R 1M8
-2237,Langley,CA,BC122,49.188,-122.846,TLC Pet Adoptions,BC,V3T 1V5
 2238,Portland,US,OR170,45.4428,-122.7746,Col Potter Cairn Rescue Network-NW,OR,97223
 2239,Portland,US,OR48,45.4428,-122.7746,Little Orphan Animals - Admin.,OR,97223
 2240,Portland,US,OR294,45.4428,-122.7746,Deaf Dogs of Oregon,OR,97223
 2241,Clackamas,US,OR183,45.4159,-122.5292,Clackamas County Dog Services,OR,97015
 2242,Clackamas,US,OR325,45.4159,-122.5292,Operation Safe Canine Animal Rescue,OR,97015
 2243,Lake Oswego,US,OR67,45.4058,-122.6781,"Project POOCH, Inc.",OR,97034
-2244,Richmond,CA,BC262,49.18600000000001,-123.114,Homes for Rescues,BC,V6X 4A3
-2245,Burnaby,CA,BC250,49.231,-122.929,South Burnaby Veterinary Hospital,BC,V3N 1B6
-2246,Pitt Meadows,CA,BC229,49.27,-122.686,L.E.A.S.H. Animal Welfare Society,BC,V3Y 2S5
-2247,Richmond,CA,BC261,49.19600000000001,-123.171,West Coast Pet Project,BC,V7B 1C9
 2248,Tualatin,US,OR208,45.37,-122.7683,Oregon Dog Rescue,OR,97062
-2249,Coquitlam,CA,BC45,49.274,-122.759,BC SPCA Tri-cities Education & Adoption Centre,BC,V3B 7N2
 2250,Oregon City,US,OR343,45.3397,-122.5767,"FurFriends Animal Rescue, Inc.",OR,97045
-2251,Vancouver,CA,BC172,49.244,-123.04,Dhana Metta Rescue Society,BC,V5R 3B9
 2252,Sherwood,US,OR07,45.3582,-122.8306,Cat Adoption Team,OR,97140
 2253,Sherwood,US,OR243,45.3582,-122.8306,Born Again Pit Bull Rescue,OR,97140
 2254,Sherwood,US,OR335,45.3582,-122.8306,Cat Alliance Team Sanctuary,OR,97140
-2255,Vancouver,CA,BC257,49.235,-123.149,Save A Life Society,BC,V6M 4H6
-2256,Burnaby,CA,BC30,49.268,-122.977,BC SPCA Burnaby Branch,BC,V5B 3A6
-2257,Vancouver,CA,BC101,49.24800000000001,-123.109,HugABull Advocacy and Rescue Society,BC,V5Y 1W8
 2258,Moses Lake,US,WA287,47.1515,-119.3074,Daze of Camelot Animal Sanctuary,WA,98837
 2259,Moses Lake,US,WA370,47.1515,-119.3074,Grant County Animal Outreach,WA,98837
-2260,Vancouver,CA,BC199,49.25100000000001,-123.168,Vancouver Shar Pei Rescue,BC,V6L 1V7
-2261,Vancouver,CA,BC08,49.276,-123.09,City of Vancouver Animal Services,BC,V6A 3L8
 2262,Wilsonville,US,OR288,45.3079,-122.758,Meow Village,OR,97070
 2263,Prosser,US,WA280,46.2015,-119.7625,Out West Pet Rescue,WA,99350
 2264,Prosser,US,WA324,46.2015,-119.7625,A Paw Up Rescue,WA,99350
-2265,Vancouver,CA,BC244,49.303,-123.145,Big and Small Rescue,BC,V6G 2Z6
 2266,Newberg,US,OR79,45.309,-122.9725,Newberg Animal Shelter,OR,97132
-2267,North Vancouver,CA,BC253,49.32,-123.057,The One Dog Rescue,BC,V7L 4S7
 2268,Okanogan,US,WA638,48.404,-119.6037,Okanogan Regional Spay & Neuter Project (OK-SNIP),WA,98840
 2269,Carlton,US,OR355,45.2896,-123.1789,Willamette Valley Ferret Shelter,OR,97111
-2270,West Vancouver,CA,BC243,49.341,-123.263,A Voice4paws Canine Rescue,BC,V7W 2Y1
-2271,Hope,CA,BC218,49.383333,-121.433333,Our Last Hope Animal Rescue,BC,V0X 1L0
 2272,Tillamook,US,OR172,45.4488,-123.8412,United Paws,OR,97141
 2273,Tillamook,US,OR82,45.4488,-123.8412,Tillamook Animal Shelter Inc.,OR,97141
 2274,Tillamook,US,OR362,45.4488,-123.8412,"Tillamook County Animal Aid, Inc.",OR,97141
 2275,Othello,US,WA52,46.8261,-119.1742,Adams County Pet Rescue,WA,99344
 2276,Benton City,US,WA209,46.2573,-119.4824,WASHINGTON BOXER RESCUE,WA,99320
 2277,Benton City,US,WA642,46.2573,-119.4824,The Pit Bull Pen,WA,99320
-2278,New Westminster,CA,BC105,49.487,-122.925,New Westminster Animal Shelter,BC,V3M 5B5
 2279,McMinnville,US,OR213,45.2039,-123.2091,Mastiff Rescue Oregon,OR,97128
 2280,McMinnville,US,OR238,45.2039,-123.2091,Homeward Bound Pets,OR,97128
 2281,West Richland,US,WA02,46.3044,-119.3618,Pet Over Population Prevention (POPP),WA,99353
@@ -2286,7 +2127,6 @@
 2284,West Richland,US,WA653,46.3044,-119.3618,HART (Hearthfire Animal Rescue Team),WA,99353
 2285,Sheridan,US,OR295,45.117,-123.3904,Harmony New Beginnings Animal Rescue,OR,97378
 2286,Sheridan,US,OR310,45.117,-123.3904,St. Martin's Animal Rescue,OR,97378
-2287,Sechelt,CA,BC26,49.4562,-123.6936,BC SPCA Sunshine Coast Branch,BC,V0N 3A1
 2288,Silverton,US,OR358,45.0056,-122.7773,Shepherds Without Borders ,OR,97381
 2289,Kennewick,US,WA07,46.2118,-119.1687,Benton-Franklin Humane Society,WA,99336
 2290,Pasco,US,WA552,46.2695,-119.1067,Pet Medical Center of Pasco,WA,99301
@@ -2294,14 +2134,11 @@
 2292,Salem,US,OR177,44.9274,-122.9789,Marion County Dog Shelter,OR,97301
 2293,Salem,US,OR35,44.9274,-122.9789,Willamette Humane Society,OR,97301
 2294,Salem,US,OR301,44.9274,-122.9789,Second Chance Salem,OR,97301
-2295,Squamish,CA,BC240,49.699,-123.1525,Rosier Days Dog Rescue,BC,V8B 0C2
-2296,Qualicum Beach,CA,BC255,49.3519,-124.387,Island Pacific Dog Rescue Society,BC,V9K 2T1
 2297,Salem,US,OR80,44.9046,-123.0473,Northwest Airedale Terrier Rescue,OR,97302
 2298,Salem,US,OR299,44.9046,-123.0473,Salem Dogs,OR,97302
 2299,Salem,US,OR324,44.8713,-123.0456,Coalition Advocating for Animals (CAFA),OR,97306
 2300,Hermiston,US,OR103,45.8404,-119.2824,Humane Society of Eastern Oregon  Pet Rescue,OR,97838
 2301,Hermiston,US,OR291,45.8404,-119.2824,Fuzzball Animal Rescue,OR,97838
-2302,Port Alberni,CA,BC233,49.233333,-124.8,BC SPCA Alberni-Clayoquot Branch,BC,V9Y 8G7
 2303,Albany,US,OR107,44.6561,-123.0772,"K-9 Homefinders & Rescue, Inc.",OR,97321
 2304,Albany,US,OR351,44.63646370000001,-123.0185732,One Voice 4 Paws,OR,97322
 2305,Albany,US,OR359,44.63646370000001,-123.0185732,4 The Cats Oregon,OR,97322
@@ -2311,14 +2148,10 @@
 2309,Philomath,US,OR85,44.5435,-123.4049,Senior Dog Rescue of Oregon,OR,97370
 2310,Pendleton,US,OR194,45.6695,-118.7935,Pioneer Humane Society / Pendleton Animal Welfare Shelter (PAWS),OR,97801
 2311,Foster,US,OR97,44.4072,-122.6115,Kitty Angel Team Adoption,OR,97345
-2312,Comox,CA,BC241,49.666667,-124.916667,BC SPCA Comox Valley and District Branch,BC,V9M 7Z8
 2313,Newport,US,OR169,44.642,-124.0504,Central Coast Humane Society,OR,97365
 2314,Newport,US,OR60,44.642,-124.0504,Lincoln County Animal Shelter,OR,97365
-2315,Powell River,CA,BC01,49.866667,-124.55,BC SPCA Powell River Branch,BC,V8A 1W5
-2316,Courtenay,CA,BC171,49.68333300000001,-125.0,Kitty Cat PALS,BC,V9N 7P1
 2317,Terrebonne,US,OR340,44.3479,-121.1916,"Lucky Dawg Rescue, Rehabilitation, Rehoming",OR,97760
 2318,Redmond,US,OR05,44.2752,-121.19,BrightSide Animal Center (Formerly Humane Society of Redmond),OR,97756
-2319,Kelowna,CA,BC234,49.839,-119.445,BC SPCA Kelowna Branch,BC,V1W 4M7
 2320,Walla Walla,US,WA309,45.8348,-118.1706,Blue Mountain Humane Society,WA,99362
 2321,Prineville,US,OR12,44.2924,-120.8098,Oregon Ferret Shelter,OR,97754
 2322,Prineville,US,OR23,44.2924,-120.8098,The Humane Society of the Ochocos,OR,97754
@@ -2350,10 +2183,8 @@
 2348,Spokane Valley,US,WA203,47.6629,-117.2196,Julias Jungle,WA,99216
 2349,Spokane Valley,US,WA178,47.645,-117.1985,Partners For Pets,WA,99037
 2350,Creswell,US,OR267,43.9127,-123.0281,Red Barn Rabbit Rescue,OR,97426
-2351,Trail,CA,BC64,49.1,-117.7,BC SPCA Trail Regional Branch,BC,V1R 4L7
 2352,Newport,US,WA582,48.1853,-117.154,Angel Paws of Pend Oreille County,WA,99156
 2353,Florence,US,OR356,44.0034,-124.0783,Loved Again Pets,OR,97439
-2354,Vernon,CA,BC22,50.266667,-119.266667,BC SPCA Vernon & District Branch,BC,V1T 6M2
 2355,Post Falls,US,ID127,47.7125,-116.9446,Power of the Paw,ID,83877
 2356,Hauser,US,ID115,47.7148,-116.9304,"Double J Dog Ranch, Inc.",ID,83854
 2357,Moscow,US,ID30,46.7327,-116.9636,Humane Society of the Palouse,ID,83843
@@ -2366,12 +2197,9 @@
 2364,St. Maries,US,ID25,47.3025,-116.5927,Hope's Haven Animal Shelter,ID,83861
 2365,Reedsport,US,OR223,43.6908,-124.0957,Reedsport K9 Shelter,OR,97467
 2366,Oakland,US,OR198,43.5553,-123.5539,Dogue de Bordeaux Rescue,OR,97462
-2367,Salmon Arm,CA,BC39,50.7,-119.266667,BC SPCA Shuswap Branch,BC,V1E 4P9
-2368,Nelson,CA,BC232,49.483333,-117.283333,BC SPCA Nelson Branch,BC,V1L 6B5
 2369,Ponderay,US,ID31,48.3056,-116.5328,Panhandle Animal Shelter,ID,83852
 2370,Baker City,US,OR148,44.7729,-117.8284,Best Friends of Baker Inc.,OR,97814
 2371,Baker City,US,OR274,44.7729,-117.8284,New Hope For Eastern Oregon Animals,OR,97814
-2372,Barriere,CA,BC239,51.18333300000001,-120.116667,Pommy & Pals Dog Rescue,BC,V0E 1E0
 2373,Kellogg,US,ID35,47.5358,-116.1225,Shoshone Pet Rescue (SPR),ID,83837
 2374,Kellogg,US,ID140,47.5358,-116.1225,"Silver Valley Cat Wranglers, Inc.",ID,83837
 2375,Coos Bay,US,OR156,43.3679,-124.2436,Coos County Animal Shelter,OR,97420
@@ -2383,7 +2211,6 @@
 2381,Libby,US,MT14,48.4588,-115.82,Kootenai Pets for Life Inc.,MT,59935
 2382,Libby,US,MT56,48.389,-115.5374,Pet Connection Rescue & Sanctuary,MT,59923
 2383,Thompson Falls,US,MT62,47.5962,-115.3476,Thompson River Animal Care Shelter,MT,59873
-2384,Williams Lake,CA,BC242,52.133333,-122.15,BC SPCA Williams Lake and District Branch,BC,V2G 2V7
 2385,Rogue River,US,OR344,42.4776,-123.1336,Miss Gabriel Foundation,OR,97537
 2386,Ontario,US,OR357,44.0553,-117.0,Ontario Feral Cat Project,OR,97914
 2387,Grants Pass,US,OR138,42.4608,-123.346,Josephine County Animal Control,OR,97526
@@ -2423,27 +2250,17 @@
 2421,Boise,US,ID138,43.5891,-116.1949,Idaho Saint Bernard Rescue,ID,83706
 2422,Crescent City,US,CA1128,41.7705,-124.185,Humane Society of Del Norte,CA,95531
 2423,Crescent city,US,CA1358,41.7705,-124.185,Del Norte County Animal Control,CA,95531
-2424,Pincher Creek,CA,AB125,49.483333,-113.95,A Better Chance Animal Rescue,AB,T0K 1W0
 2425,Alturas,US,CA700,41.4905,-120.5479,High Plateau Humane Society,CA,96101
 2426,Mt. Shasta,US,CA150,41.3165,-122.3186,Siskiyou Humane Society Inc.,CA,96067
 2427,Salmon,US,ID74,45.1776,-113.8996,Lemhi County Humane Society Inc.,ID,83467
 2428,Challis,US,ID146,44.5049,-114.2312,Heart of Idaho Animal Sanctuary,ID,83226
 2429,McArthur,US,CA1267,41.0494,-121.401,SNIPPP,CA,96056
-2430,High River,CA,AB123,50.583333,-113.866667,No Borders Animal Rescue Society (NOBARS),AB,T1V 1N6
-2431,Calgary,CA,AB110,50.932,-114.108,Against All Odds Rabbit Rescue,AB,T2W 3P8
-2432,Calgary,CA,AB95,51.00226,-114.12576,Fur-Ever Homes Rescue Society,AB,T3E 7R3
 2433,Choteau,US,MT42,47.8139,-112.6792,Bright Eyes Care & Rehab Center,MT,59422
 2434,McKinleyville,US,CA866,40.9467,-124.101,Humboldt County Animal Shelter,CA,95519
 2435,Mckinleyville,US,CA2163,40.9467,-124.101,Redwood Pals Rescue,CA,95519
-2436,Calgary,CA,AB71,51.05,-114.083333,Little Mutts Rescue Society,AB,T2P 2J6
-2437,Calgary,CA,AB132,51.108,-114.138,Halo Husky Haven,AB,T2L 1B1
 2438,Weaverville,US,CA1807,40.7322,-122.9404,Trinity County Animal Shelter,CA,96093
-2439,Calgary,CA,AB26,51.093,-113.918,Oops-a-Dazy Rescue and Sanctuary Society,AB,T1Y 6R4
 2440,Shasta Lake,US,CA940,40.6809,-122.374,City of Shasta Lake Animal Control,CA,96019
-2441,Lethbridge,CA,AB78,49.6986222,-112.89439109999998,Windy City Canine Rescue,AB,T1K 7V5
 2442,Eureka,US,CA486,40.8107,-124.1571,Sequoia Humane Society,CA,95503
-2443,Lethbridge,CA,AB03,49.7196436,-112.82212859999998,Lethbridge & District Humane Society,AB,T1H 5E9
-2444,Taber,CA,AB56,49.699,-112.808,Taber Adoption Options,AB,T1G 1X4
 2445,Redding,US,CA520,40.614,-122.3744,Save a Dog Today (Matchmaker and Re-homing service),CA,96003
 2446,Redding,US,CA2352,40.614,-122.3744,Mutts Transport Services dba Tails of Rescue,CA,96003
 2447,Redding,US,CA790,40.5867,-122.3906,Haven Humane Society,CA,96099
@@ -2460,7 +2277,6 @@
 2458,Susanville,US,CA234,40.4166,-120.6551,Lassen Humane Society,CA,96130
 2459,Susanville,US,CA947,40.4166,-120.6551,Lassen County Animal Control,CA,96130
 2460,Helena,US,MT90,46.5928,-112.0353,Lewis & Clark Humane Society,MT,59604
-2461,Milk River,CA,AB101,49.15,-112.083333,Ridge Rescue Society,AB,T0K 1M0
 2462,Shelby,US,MT99,48.5151,-111.8478,Prairie Oasis Animal Shelter,MT,59474
 2463,Buhl,US,ID102,42.5872,-114.7259,"Magicats, Inc.",ID,83316
 2464,Winnemucca,US,NV50,40.9505,-117.7509,"City-County Animal Control Center - Winnemucca, NV",NV,89445
@@ -2468,9 +2284,6 @@
 2466,Red Bluff,US,CA1631,40.1633,-122.1757,Deserving Pets Rescue,CA,96080
 2467,Red Bluff,US,CA255,40.1633,-122.1757,Tehama County Department of Animal Services,CA,96080
 2468,Cardwell,US,MT75,45.8592,-111.9509,4 Paws Rescue,MT,59721
-2469,Sylvan Lake,CA,AB129,52.316667,-114.083333,Sylvan Lake and Area Serenity Pet Shelter Society,AB,T4S 1M4
-2470,Red Deer,CA,AB81,52.266667,-113.8,Alberta Bulldog Rescue - Red Deer,AB,T4P 2W7
-2471,Red Deer,CA,AB74,52.266667,-113.8,Red Deer & District SPCA,AB,T4P 2J1
 2472,Corning,US,CA458,39.9292,-122.1841,Second Chance Pet Rescue,CA,96021
 2473,Great Falls,US,MT103,47.5057,-111.3338,Maclean Animal Adoption Center,MT,59404
 2474,Great Falls,US,MT74,47.4922,-111.2537,Great Falls Animal Shelter,MT,59405
@@ -2478,8 +2291,6 @@
 2476,Quincy,US,CA1800,39.9302,-120.9314,Plumas County Animal Shelter,CA,95971
 2477,Quincy,US,CA194,39.9302,-120.9314,Plumas Animal Welfare Society (PAWS),CA,95971
 2478,Paradise,US,CA1675,39.7972,-121.5841,Town of Paradise Animal Shelter,CA,95969
-2479,Brooks,CA,AB04,50.583333,-111.883333,Brooks Animal Protection Society,AB,T1R 1B2
-2480,Duchess,CA,AB102,50.716667,-111.916667,Cleo's Karma Canine Rescue,AB,T0J 0Z0
 2481,Paradise,US,CA988,39.7464,-121.6361,TOPCats on the Ridge Inc.,CA,95967
 2482,Chico,US,CA1443,39.7286,-121.8364,Belleglen Sanctuary,CA,95927
 2483,Chico,US,CA2413,39.7286,-121.8364,Wags and Whiskers Pet Rescue,CA,95973
@@ -2487,7 +2298,6 @@
 2485,Chico,US,CA1112,39.7245,-121.8262,Runamuk Rescue,CA,95928
 2486,Portola,US,CA438,39.8089,-120.4969,High Sierra Animal Rescue,CA,96122
 2487,Manhattan,US,MT79,45.7764,-111.3228,Tiny Tails K-9  Rescue,MT,59741
-2488,Ponoka,CA,AB130,52.7,-113.583333,Walkin' 'N' Waggin' Surrender Shelter,AB,T4J 1C8
 2489,Oroville,US,CA594,39.5406,-121.5417,Northwest S.P.C.A.,CA,95965
 2490,Hamer,US,ID92,43.9269,-112.2052,FOR THE LOVE OF PETS FOUNDATION,ID,83425
 2491,Fort Benton,US,MT44,47.8691,-110.6464,Dedman Foundation,MT,59442
@@ -2511,12 +2321,9 @@
 2509,Colusa,US,CA995,39.2058,-122.0101,Colusa County Animal Control,CA,95932
 2510,Idaho Falls,US,ID139,43.4953,-112.0513,Snake River Animal Shelter,ID,83402
 2511,Truckee,US,CA754,39.341,-120.1869,Humane Society of Truckee-Tahoe,CA,96161
-2512,Medicine Hat,CA,AB50,50.05,-110.666667,Persian Dreams and Canine Themes Rescue Society,AB,T1B 4C7
-2513,Medicine Hat,CA,AB126,50.05,-110.666667,Alberta Pound and Rescue Centre,AB,T1A 2W2
 2514,Rexburg,US,ID51,43.8226,-111.7821,City of Rexburg Animal Shelter,ID,83440
 2515,Rexburg,US,ID85,43.8226,-111.7821,Four Paws Pet Adoptions Inc.,ID,83440
 2516,Williams,US,CA1179,39.1894,-122.4225,Caring 4 Kittens,CA,95987
-2517,Leduc,CA,AB121,53.2645,-113.5558,Heart Prints,AB,T9E 0B9
 2518,Grass Valley,US,CA1375,39.228,-121.0617,"Scooter's Pals Nevada County, Ca",CA,95945
 2519,Grass Valley,US,CA392,39.228,-121.0617,AnimalSave,CA,95945
 2520,Grass Valley,US,CA755,39.228,-121.0617,Center for Animal Protection and Education,CA,95945
@@ -2547,7 +2354,6 @@
 2545,Olivehurst,US,CA960,39.0825,-121.5504,Yuba County Animal Care Services,CA,95961
 2546,Lakeport,US,CA667,39.0521,-122.9206,Orphan Dog Rescue,CA,95453
 2547,Lakeport,US,CA1947,39.0521,-122.9206,Four-Legged Friends Pet Rescue,CA,95453
-2548,Camrose,CA,AB66,53.01666700000001,-112.833333,Collie Rescue Network Alberta,AB,T4V 2M9
 2549,Weimar,US,CA1283,39.0375,-120.9714,Angels Rescuing Kritters,CA,95736
 2550,Carson City,US,NV178,39.1693,-119.78,Reno Tahoe Rescue Society,NV,89703
 2551,Carson City,US,NV127,39.1639,-119.7664,Carson Tahoe SPCA,NV,89702
@@ -2555,10 +2361,7 @@
 2553,Carson City,US,NV190,39.1517,-119.7444,Catmandu,NV,89701
 2554,Clearlake,US,CA2308,38.9496,-122.6269,Clearlake Veterinary Clinic,CA,95422
 2555,Clearlake,US,CA2410,38.9496,-122.6269,Clearlake Animal Control,CA,95422
-2556,Edmonton,CA,AB114,53.451,-113.295,Zoes Animal Rescue Society,AB,T6L 1B1
-2557,Edmonton,CA,AB120,53.569,-113.427,The Companion Animal Welfare Society,AB,T5W 4S9
 2558,Auburn,US,CA2142,38.9601,-121.0901,1 Love Dog Rescue,CA,95602
-2559,Sherwood Park,CA,AB16,53.51666700000001,-113.316667,Northern Alberta Society for Animal Protection,AB,T8A 2G4
 2560,Lower Lake,US,CA2143,38.9056,-122.6039,Animal Refugee Response,CA,95457
 2561,Lincoln,US,CA662,38.9003,-121.2921,FieldHaven Feline Center,CA,95648
 2562,Lincoln,US,CA2373,38.9003,-121.2921,NorCal Bully Breed Rescue,CA,95648
@@ -2572,7 +2375,6 @@
 2570,Minden,US,NV83,39.0081,-119.7424,Aussie Border Collie Rescue of Northern Nevada,NV,89423
 2571,Minden,US,NV160,39.0081,-119.7424,"Two Dog Farms, Inc.",NV,89423
 2572,Pleasant Grove,US,CA147,38.8099,-121.506,German Shepherd Rescue of Sacramento Valley,CA,95668
-2573,Dawson Creek,CA,BC40,55.76666700000001,-120.233333,BC SPCA South Peace Branch,BC,V1G 3A1
 2574,South Lake Tahoe,US,CA582,38.9285,-119.9923,El Dorado Co. Animal Services - S. Lake Tahoe,CA,96150
 2575,Rocklin,US,CA1745,38.7904,-121.2397,Pit Crew Sacramento,CA,95677
 2576,Gualala,US,CA347,38.8046,-123.5548,Redwood Coast Humane Society,CA,95445
@@ -2582,7 +2384,6 @@
 2580,Roseville,US,CA2087,38.732,-121.339,Haven Dog Rescue,CA,95747
 2581,Roseville,US,CA2055,38.7308,-121.2595,Cirby Sunrise Veterinary Clinic,CA,95661
 2582,Gardnerville,US,NV46,38.8935,-119.7349,Douglas Animal Welfare Group,NV,89410
-2583,Prince Rupert,CA,BC71,54.31795,-130.28663999999998,BC SPCA Prince Rupert Branch,BC,V8J 4R8
 2584,Sacramento,US,CA1331,38.6923,-121.3472,Chows Plus,CA,95842
 2585,Sacramento,US,CA888,38.6923,-121.3472,Sacramento Sierra Norwegian Elkhound Club (SSNEC),CA,95842
 2586,Woodland,US,CA1496,38.6718,-121.7864,Rotts of Friends Animal Rescue,CA,95695
@@ -2634,7 +2435,6 @@
 2632,Santa Rosa,US,CA1276,38.4753,-122.749,Forgotten Felines of Sonoma County,CA,95403
 2633,Santa Rosa,US,CA1892,38.4753,-122.749,"Nor Cal Pom Rescue, Inc.",CA,95403
 2634,Santa Rosa,US,CA2436,38.4753,-122.749,Dogwood Animal Rescue Project,CA,95403
-2635,Egremont,CA,AB93,54.033333,-113.133333,ashrescue.org,AB,T0A 0Z0
 2636,Sacramento,US,CA2509,38.4864,-121.4034,Sacramento SPCA,CA,95828
 2637,Sacramento,US,CA1539,38.4803,-121.4456,Cosumnes River College Veterinary Technology Program,CA,95823
 2638,Monte Rio,US,CA2164,38.4707,-123.0123,Dogma Animal  Rescue,CA,95462
@@ -2660,7 +2460,6 @@
 2658,Vacaville,US,CA1586,38.3559,-121.9883,Cat Tales Rescue,CA,95696
 2659,Vacaville,US,CA162,38.3559,-121.9883,Solano County S.P.C.A.,CA,95696
 2660,Vacaville,US,CA2349,38.3559,-121.9883,Pause 4 Paws Rescue Mission,CA,95696
-2661,Fort St. John,CA,BC56,56.25,-120.85,"BC SPCA North Peace Branch, Fort St. John",BC,V1J 6P6
 2662,Bodega,US,CA2000,38.3569,-122.9255,Redwood Coast Cattledog Rescue,CA,94922
 2663,Rohnert Park,US,CA1374,38.3483,-122.6941,A Noah's B'Ark North Pet Rescue,CA,94928
 2664,Rohnert Park,US,CA522,38.3483,-122.6941,Rohnert Park Animal Shelter,CA,94928
@@ -2747,7 +2546,6 @@
 2745,San Francisco,US,CA390,37.8979,-122.5376,SaveABunny,CA,94941
 2746,Lafayette,US,CA1671,37.8962,-122.1106,Shake Wiggle N' Roll Animal Rescue,CA,94549
 2747,Lafayette,US,CA2285,37.8962,-122.1106,Underdog Animal Rescue,CA,94549
-2748,Peace River,CA,AB35,56.233333,-117.283333,Peace River SPCA,AB,T8S 1J1
 2749,Tiburon,US,CA406,37.8922,-122.4742,Marin Cat Connection,CA,94920
 2750,Berkeley,US,CA2543,37.8792,-122.2656,"Memories of Besa Rescue, Inc.",CA,94709
 2751,Sonora,US,CA1251,37.9761,-120.3808,Sonora Cat Rescue,CA,95370
@@ -2847,10 +2645,8 @@
 2845,Pinedale,US,WY45,42.8659,-109.8618,Happy Endings Animal Rescue,WY,82941
 2846,Pinedale,US,WY74,42.8659,-109.8618,Town of Pinedale Animal Control,WY,82941
 2847,San Carlos,US,CA690,37.4971,-122.2665,Homeless Cat Network,CA,94070
-2848,Lloydminster,CA,SK28,53.283333,-110.0,Coca's Promise Animal Rescue Inc.,SK,S9V 0X7
 2849,Redwood City,US,CA1028,37.4825,-122.2113,Nine Lives Foundation,CA,94063
 2850,Redwood City,US,CA94,37.4825,-122.2113,Pets In Need,CA,94063
-2851,Lac La Biche,CA,AB128,54.76666700000001,-111.966667,Lac La Biche Regional Humane Society,AB,T0A 2C0
 2852,Redwood City,US,CA264,37.4623,-122.2324,Humanimal Connection Inc.,CA,94061
 2853,Redwood City,US,CA781,37.4623,-122.2324,Pound Puppy Rescue,CA,94061
 2854,Half Moon Bay,US,CA1519,37.4629,-122.4381,Companions In Waiting,CA,94019
@@ -2923,8 +2719,6 @@
 2921,Campbell,US,CA410,37.2799,-121.9566,Itty Bitty Orphan Kitty Rescue,CA,95008
 2922,Campbell,US,CA444,37.2799,-121.9566,Bay Area Siberian Husky Rescue/Referral,CA,95008
 2923,Atwater,US,CA840,37.3492,-120.6037,Last Hope Cat Kingdom,CA,95301
-2924,Cold Lake,CA,AB23,54.26666700000001,-110.733333,Lakeland Humane Society,AB,T9M 1P1
-2925,Bonnyville,CA,AB36,54.26666700000001,-110.733333,Bonnyville District SPCA,AB,T9N 2G5
 2926,San Jose,US,CA1370,37.2579,-121.8899,"Our Pack, Inc.",CA,95118
 2927,San Jose,US,CA1791,37.2579,-121.8899,"Southern California Dachshund Relief, Inc.",CA,95118
 2928,San Jose,US,CA1052,37.2567,-121.9214,Group Education to Protect and Defend Animals,CA,95124
@@ -2934,7 +2728,6 @@
 2932,Sandy,US,UT50,40.5941,-111.8315,Sheltie Rescue of Utah,UT,84093
 2933,San Jose,US,CA1584,37.2435,-121.8292,STAR - Support Team Animal Rescue,CA,95123
 2934,San Jose,US,CA1685,37.2435,-121.8292,Lucky Paws Rescue,CA,95123
-2935,Maidstone,CA,SK27,53.1,-109.3,Lend A Paw Animal Rescue - Maidstone,SK,S0M 1M0
 2936,Los Gatos,US,CA2514,37.2267,-121.9736,Furrever Cat and Kitten Rescue,CA,95031
 2937,Coalville,US,UT68,40.7802,-111.432,Summit County Animal Control,UT,84017
 2938,Gustine,US,CA1698,37.2025,-121.0104,Tail Waggin All Breed Rescue,CA,95322
@@ -2954,7 +2747,6 @@
 2952,Los Banos,US,CA2200,37.0735,-120.8282,Kate's Rescue for Animals,CA,93635
 2953,Gilroy,US,CA2507,37.0188,-121.5789,South County Tail Waggers,CA,95020
 2954,Gilroy,US,CA2579,37.0188,-121.5789,Del Oro Foundation,CA,95020
-2955,Cando,CA,SK29,52.383333,-108.233333,Prairie Pooches Rescue,SK,S0K 0V0
 2956,Scotts Valley,US,CA1135,36.9742,-122.0297,The Rabbit Haven,CA,95067
 2957,Santa Cruz,US,CA1618,36.9742,-122.0297,Animal Shelter Relief Rescue,CA,95063
 2958,Santa Cruz,US,CA992,36.9742,-122.0297,Santa Cruz SPCA,CA,95063
@@ -2962,7 +2754,6 @@
 2960,Santa Cruz,US,CA625,36.9726,-121.9902,Santa Cruz County Animal Shelter,CA,95062
 2961,Provo,US,UT123,40.2689,-111.6537,Arctic Breeds Rescue,UT,84604
 2962,San Juan Bautista,US,CA2561,36.8634,-121.5457,Thulani Senior German Shepherd Rescue,CA,95045
-2963,North Battleford,CA,SK14,52.783333,-108.283333,Battlefords Humane Society,SK,S9A 2M7
 2964,Hollister,US,CA1549,36.8525,-121.4006,"ACGSR, Inc",CA,95024
 2965,Hollister,US,CA288,36.8523,-121.3926,Rhodesian Ridgeback Rescue of Northern California,CA,95023
 2966,Hollister,US,CA290,36.8523,-121.3926,Pet Friends,CA,95023
@@ -2994,17 +2785,11 @@
 2992,Sheridan,US,WY52,44.7785,-106.9721,Herding Rescue Dogs of Wyoming,WY,82801
 2993,Sheridan,US,WY62,44.7785,-106.9721,Second Chance Sheridan Cat Rescue,WY,82801
 2994,Kingsburg,US,CA1727,36.5195,-119.5551,Pawsitive Connections,CA,93631
-2995,Meadow Lake,CA,SK12,54.13333299999999,-108.433333,Meadow Lake & District Humane Society,SK,S0M 1V0
-2996,Saskatoon,CA,SK26,52.14,-106.682,Size Small Dog Rescue,SK,S7L 3K9
-2997,Saskatoon,CA,SK36,52.14,-106.682,Adopt a Paw Pet Haven Inc.,SK,S7L 7J2
 2998,Duchesne,US,UT148,40.1633,-110.4011,Duchesne County Animal Control ,UT,84021
 2999,Hanford,US,CA944,36.33,-119.6515,Kings County Animal Services,CA,93230
-3000,Saskatoon,CA,SK01,52.155,-106.637,Saskatoon SPCA,SK,S7K 3S9
 3001,Lemoore,US,CA889,36.2974,-119.7891,Kings SPCA,CA,93245
 3002,Lemoore,US,CA1005,36.2974,-119.7891,Stonecliffe Animal Rescue,CA,93245
 3003,Lemoore,US,CA2291,36.2974,-119.7891,Valley Animal Haven,CA,93245
-3004,Saskatoon,CA,SK02,52.106,-106.596,New Hope Dog Rescue,SK,s7h 3a1
-3005,Saskatoon,CA,SK04,52.106,-106.596,SCAT Street Cat Rescue Program,SK,S7H 2V7
 3006,Visalia,US,CA492,36.33,-119.2594,Tulare County Animal Services,CA,93292
 3007,Visalia,US,CA414,36.3123,-119.3164,Valley Oak SPCA,CA,93277
 3008,Visalia,US,CA929,36.3123,-119.3164,Love of Animals Inc.,CA,93277
@@ -3015,11 +2800,9 @@
 3013,Tulare,US,CA2099,36.2034,-119.331,Tulare Animal Services,CA,93274
 3014,Rock Springs,US,WY03,41.5511,-108.5547,Red Desert Humane Society,WY,82901
 3015,Rock Springs,US,WY68,41.5511,-108.5547,Rock Springs Animal Control,WY,82901
-3016,Shell Lake,CA,SK31,53.3,-107.116667,Collie Rescue Network Saskatchewan,SK,S0J 2G0
 3017,LINDSAY,US,CA1655,36.2087,-119.0983,CENTRAL VALLEY RESCUE RAILROAD,CA,93247
 3018,Vernal,US,UT44,40.463,-109.5787,Uintah Animal Shelter,UT,84078
 3019,Vernal,US,UT192,40.463,-109.5787,Ashley Valley Community Cats,UT,84078
-3020,High Level,CA,AB103,58.51666700000001,-117.133333,Northern Lights Regional Humane Society,AB,T0H 1Z0
 3021,Parowan,US,UT168,37.8422,-112.8272,Parowan Animal Shelter/Parowan Animal Assistance League,UT,84761
 3022,Cedar City,US,UT91,37.7111,-113.0425,CEDAR ANIMAL RESCUE,UT,84720
 3023,Cedar City,US,UT158,37.6775,-113.0611,Iron County Animal Shelter,UT,84721
@@ -3032,9 +2815,6 @@
 3030,Atascadero,US,CA1771,35.4803,-120.6696,Woods Humane Society North County,CA,93422
 3031,Wasco,US,CA1181,35.5984,-119.323,Wasco Animal Shelter,CA,93280
 3032,Ivins,US,UT74,37.1686,-113.6786,Ivins Animal Shelter & Adoption Center serving Ivins and Santa Clara,UT,84738
-3033,Regina,CA,SK39,50.416,-104.62,Waggy Tails Pet Rescue Inc,SK,S4S 5P8
-3034,Regina,CA,SK11,50.445,-104.62,Regina Humane Society,SK,S4P 3G7
-3035,Regina,CA,SK38,50.42,-104.539,Prairie Sky Dog Rescue,SK,S4V 1W1
 3036,Rawlins,US,WY79,41.7832,-107.22,Rawlins Rochelle Animal Shelter,WY,82301
 3037,Shafter,US,CA620,35.4918,-119.2366,Shafter City Animal Control,CA,93263
 3038,Pahrump,US,NV157,36.2086,-115.9841,Furgotten Friends Dog Rescue,NV,89048
@@ -3044,7 +2824,6 @@
 3042,St. George,US,UT177,37.1054,-113.5778,RSQ DOGS,UT,84790
 3043,Gillette,US,WY37,44.2888,-105.4908,City/County Animal Shelter,WY,82716
 3044,Washington,US,UT08,37.1318,-113.5178,Washington City Animal Shelter,UT,84780
-3045,Humboldt ,CA,SK21,52.2,-105.116667,Humboldt & District SPCA,SK,S0K 2A0
 3046,Casper,US,WY11,42.8507,-106.3213,Metro Animal Services,WY,82601
 3047,San Luis Obispo,US,CA991,35.2844,-120.6847,Woods Humane Society,CA,93405
 3048,La Verkin,US,UT176,37.2011,-113.2689,LaVerkin Animal Shelter,UT,84745
@@ -3091,7 +2870,6 @@
 3089,Las Vegas,US,NV205,36.1148,-115.2199,Mayte's Rescue,NV,89103
 3090,Las Vegas,US,NV125,36.12084960000001,-115.15731809999998,Homeward Bound Cat Adoptions,NV,89169
 3091,Williston,US,ND31,48.4164,-103.8381,"Guardian GSD Rescue, NW ND/MT",ND,58801
-3092,Weyburn,CA,SK22,49.68333300000001,-103.866667,Weyburn Humane Society Inc.,SK,S4H 2L3
 3093,Las Vegas,US,NV140,36.0823,-115.212,Doberman Rescue of Nevada,NV,89118
 3094,Las Vegas,US,NV22,36.0648,-115.257,Heaven Can Wait Animal Society,NV,89113
 3095,Las Vegas,US,NV15,36.1197,-115.0929,Adopt A Rescue Pet,NV,89121
@@ -3572,7 +3350,6 @@
 3570,Fort Collins,US,CO44,40.5853,-105.0839,Larimer Humane Society,CO,80527
 3571,Fort Collins,US,CO461,40.5853,-105.0839,Bounce Animal Rescue,CO,80527
 3572,Crested Butte ,US,CO478,38.8231,-106.8908,Oh Be Dogful Rescue,CO,81224
-3573,Hay River,CA,NT05,60.853,-115.759,Hay River Animal Shelter,NT,X0E 0R6
 3574,Fort Collins,US,CO324,40.5444,-105.1093,All Aboard Animal Rescue,CO,80526
 3575,Fort Collins,US,CO65,40.5444,-105.1093,Dalmatian Rescue of Colorado,CO,80526
 3576,Fort Collins,US,CO214,40.5951,-105.0607,Fort Collins Cat Rescue & Spay/Neuter Clinic,CO,80524
@@ -3970,8 +3747,6 @@
 3968,Phoenix,US,AZ380,33.5821,-112.0094,AZ Prussian Snailhound Dog Rescue,AZ,85028
 3969,Phoenix,US,AZ550,33.5821,-112.0094,Home Fur Good Animal Rescue,AZ,85028
 3970,Phoenix,US,AZ570,33.5821,-112.0094,Bully Pride of Arizona Bully Breed Advocacy,AZ,85028
-3971,Yellowknife,CA,NT01,62.452,-114.378,NWT SPCA,NT,X1A 2W5
-3972,Fort Smith,CA,NT02,62.452,-114.378,Fort Smith Animal Society,NT,x1a 2p7
 3973,Phoenix,US,AZ615,33.5591,-112.0558,Paw Town Angels,AZ,85020
 3974,Phoenix,US,AZ173,33.5425,-112.0714,Any Rat Rescue,AZ,85053
 3975,Phoenix,US,AZ185,33.5425,-112.0714,Valley of the Sun Giant Schnauzer Rescue,AZ,85050
@@ -5634,7 +5409,6 @@
 5632,Columbia,US,MO655,38.9341,-92.3649,Save A Retriever Network,MO,65203
 5633,Andalusia,US,AL369,31.3027,-86.4775,Andalusia Area Humane Society,AL,36420
 5634,Saint Joseph,US,MO78,39.7139,-94.8617,"Friends of the Animal Shelter of St. Joseph, Inc. petforu.com",MO,64504
-5635,San Miguel De Allende,MX,MXGUA01,20.9148,-100.7591,Sociedad Protectora de Animales,GUA,37736
 5636,Alabaster,US,AL254,33.2481,-86.8177,Sanctuary Animal Rescue,AL,35007
 5637,Alabaster,US,AL268,33.2481,-86.8177,Last Chance Dog Rescue Alabama,AL,35007
 5638,Jemison,US,AL346,32.9613,-86.7306,"Joe Jackson's Dog World, Inc.",AL,35085
@@ -7766,7 +7540,6 @@
 7764,Sierra Vista,US,AZ75,31.5712,-110.2534,Sierra Vista Animal Control,AZ,85635
 7765,Nogales,US,AZ11,31.4504,-110.2149,Santa Cruz Humane Society,AZ,85621
 7766,Nogales,US,AZ418,31.4504,-110.2149,Santa Cruz County Animal Care and Control Services,AZ,85621
-7767,Cabo San Lucas,MX,MX05,23.79000092,-109.699997,Los Cabos Humane Society,BCS,23450
 7768,Harvard,US,IL215,42.4172,-88.6053,Free Spirit Siberian Rescue,IL,60033
 7769,Wonder Lake,US,IL670,42.3897,-88.3493,Turbo Kees Foundation,IL,60097
 7770,Wonder Lake,US,IL726,42.3897,-88.3493,International Street Dog Foundation,IL,60097
@@ -8894,7 +8667,6 @@
 8892,South Saint Paul,US,MN356,44.8905,-93.048,Paws First,MN,55075
 8893,Sterling Heights,US,MI849,42.6035,-82.9831,Michigan Humane Society - Petco - Sterling Heights,MI,48313
 8894,Warren,US,MI982,42.5154781,-82.9832153,Candie's Cat Adoption,MI,48088
-8895,Windsor,CA,ON556,42.243,-82.99700000000001,Safe & Sound Kitten Rescue,ON,N9G 1Z1
 8896,Eagan,US,MN324,44.8067,-93.1434,Saved By A Whisker Rescue,MN,55123
 8897,St. Paul,US,MN442,44.95,-93.0087,4 Pits Sake Rescue,MN,55119
 8898,New Market,US,MN220,44.5724,-93.35,Windmill Animal Rescue,MN,55054
@@ -9048,7 +8820,6 @@
 9046,Monroe,US,OH129,39.4425,-84.3687,The Progressive Animal Welfare Society (PAWS),OH,45050
 9047,Minnetonka,US,MN334,44.914,-93.4861,Adopt Me! Dog Rescue,MN,55345
 9048,Minnetonka,US,MN399,44.914,-93.4861,Canine Carroll,MN,55345
-9049,St Joachim,CA,ON554,42.266667,-82.633333,BBB Canine Rescue & Transport,ON,N0R 1S0
 9050,Springfield,US,OH1165,39.9104,-83.8294,Clark County SPCA Inc.,OH,45506
 9051,Springfield,US,OH1006,39.9544,-83.7813,Save a Shelter Shih Tzu (S.A.S.S.) Rescue,OH,45503
 9052,Blaine,US,MN416,45.1664,-93.2498,Tuff Start Rescue,MN,55434
@@ -9140,7 +8911,6 @@
 9138,Cincinnati,US,OH700,39.1516,-84.4288,Smiley Cat Rescue,OH,45209
 9139,Mount Vernon,US,IN99,37.9536,-87.8789,Posey Humane Society,IN,47620
 9140,Mt. Vernon,US,IN274,37.9536,-87.8789,PC Pound Puppies,IN,47620
-9141,Toronto,CA,ON173,42.966667,-82.383333,Collie Rescue Network,ON,N7S 3G9
 9142,Cincinnati,US,OH753,39.1357,-84.435,Nileydog Rescue,OH,45208
 9143,Cincinnati,US,OH1151,39.1357,-84.435,Crazy Cats Animal Rescue,OH,45208
 9144,Newport,US,KY64,39.0914,-84.4958,Stray Animal Adoption Program,KY,41072
@@ -9199,7 +8969,6 @@
 9197,Jeffersonville,US,IN208,38.301,-85.7223,J B Ogle Animal Shelter,IN,47130
 9198,Jeffersonville,US,IN436,38.301,-85.7223,Kentuckiana Animal Rescue Organization,IN,47130
 9199,Sparta,US,KY138,38.6748,-84.9044,Gallatin County Animal Shelter,KY,41086
-9200,Chatham,CA,ON384,42.4,-82.18333299999998,CK Animal Rescue,ON,N7M 2Z7
 9201,Houghton,US,MI297,47.1339,-88.5823,Copper Country Humane Society,MI,49930
 9202,Prospect,US,KY494,38.3401,-85.60799999999998,The Arrow Fund,KY,40059
 9203,Prospect,US,KY501,38.3401,-85.60799999999998,"CatHead Kitty Rescue, Inc.",KY,40059
@@ -9348,7 +9117,6 @@
 9346,Spencer,US,OH1195,41.0851,-82.0875,Ohio Humane Rescue Association,OH,44275
 9347,Dixon,US,KY342,37.5114,-87.6892,Webster County Animal Services,KY,42409
 9348,Dixon,US,KY426,37.5114,-87.6892,Molly's Mutts Animal Rescue,KY,42409
-9349,Duart,CA,ON324,42.5,-81.75,Barks and Meows Rescue,ON,N0L 1H0
 9350,Sault Sainte Marie,US,MI252,46.4755,-84.3517,Chippewa County Animal Control Shelter,MI,49783
 9351,Taylorsville,US,KY360,38.0655,-85.3772,Let Them Live Rescue,KY,40071
 9352,Sardinia,US,OH752,38.9594,-83.7931,Brown Animal Rescue,OH,45171
@@ -9439,14 +9207,12 @@
 9437,Cleveland,US,OH481,41.4505,-81.6243,Pack Pride Sanctuary,OH,44105
 9438,Lancaster,US,OH586,39.7208,-82.605,Fairfield Area Humane Society,OH,43130
 9439,Lancaster,US,OH640,39.7208,-82.605,Fairfield County Dog Shelter,OH,43130
-9440,Clinton,CA,ON284,43.616667,-81.533333,Bow Wow Rescue,ON,N0M 1L0
 9441,Garfield Heights,US,OH674,41.4158,-81.6079,Lucky Paws Animal Rescue,OH,44125
 9442,Cleveland,US,OH594,41.5862,-81.548,For the Love of Pits,OH,44119
 9443,Cleveland,US,OH1149,41.5862,-81.548,The Euclid Beach Cat Project,OH,44119
 9444,Brecksville,US,OH662,41.3221,-81.628,A-Parrot to A-Flamingo Rescue,OH,44141
 9445,Wadsworth,US,OH499,41.0304,-81.7385,Save Ohio Strays,OH,44282
 9446,Wadsworth,US,OH1071,41.0304,-81.7385,Maggies Mission,OH,44281
-9447,Ilderton,CA,ON27,43.066667,-81.4,Animal Care Centre Lobo,ON,N0M 2A0
 9448,Leitchfield,US,KY377,37.4799,-86.2999,Save Grayson County Cats,KY,42754
 9449,Leitchfield,US,KY491,37.4799,-86.2999,Leitchfield Animal Shelter,KY,42754
 9450,Cleveland,US,OH787,41.5009,-81.5566,Foster Parents For Pooches,OH,44118
@@ -9465,8 +9231,6 @@
 9463,Akron,US,OH1015,41.1452,-81.6204,Ohio Humane Association,OH,44333
 9464,Eastlake,US,OH999,41.6517,-81.4467,911 Dog Rescue Inc.,OH,44095
 9465,Willowick,US,OH1194,41.6517,-81.4467,The Tucker and Ellie Project,OH,44095
-9466,London,CA,ON204,42.968,-81.316,Animalert Pet Adoptions,ON,N6H 5C4
-9467,Lucknow,CA,ON96,43.95,-81.516667,Adopt-a-Pet/Pet Rescue,ON,N0G 2H0
 9468,Cleveland,US,OH191,41.5108,-81.4756,GRIN - Golden Retrievers In Need Rescue,OH,44124
 9469,Cleveland,US,OH52,41.5108,-81.4756,PAWS,OH,44124
 9470,Cleveland,US,OH1171,41.5108,-81.4756,House of Mews Rescue,OH,44124
@@ -9475,9 +9239,7 @@
 9473,Lexington,US,KY418,38.0909,-84.4963,Halfway Home Rescue Inc,KY,40511
 9474,Lexington,US,KY482,38.0909,-84.4963,"Hope for All Pets, Inc.",KY,40511
 9475,Waverly,US,OH397,39.1202,-83.0115,Pike County Dog Pound,OH,45690
-9476,Arva,CA,ON400,43.05,-81.283333,Paws United Dog Rescue,ON,N0M 1C0
 9477,Akron,US,OH612,41.1215,-81.57,One of a Kind Pets,OH,44313
-9478,London,CA,ON147,42.966,-81.26899999999998,Animal Outreach,ON,N6J 3J9
 9479,Gates Mills,US,OH1185,41.5329,-81.4182,Second Chance Animal Rescue,OH,44040
 9480,Paris,US,KY01,38.203,-84.2464,Paris Animal Welfare Society,KY,40361
 9481,Paris,US,KY395,38.203,-84.2464,Bourbon County Rescue,KY,40361
@@ -9487,12 +9249,8 @@
 9485,Lexington,US,KY142,38.0492,-84.5003,The Haven for Dogs Inc.,KY,40522
 9486,Lexington,US,KY96,38.0492,-84.5003,Bluegrass Shih Tzu Rescue Inc.,KY,40591
 9487,Lexington,US,KY422,38.0492,-84.4987,Paws 4 the Cause,KY,40508
-9488,London,CA,ON144,42.965,-81.237,The Animal Rescue Foundation of Ontario,ON,N6C 3G7
-9489,London,CA,ON337,42.983333,-81.233333,Hollys Hope Cat Rescue,ON,N5Z 4L7
 9490,Twinsburg,US,OH19,41.3242,-81.4548,Humane Society of Summit County,OH,44087
 9491,Lexington,US,KY407,38.0613,-84.4588,"Kentucky S.A.V.E., Inc.",KY,40505
-9492,Port Stanley,CA,ON560,42.666667,-81.216667,Port Stanley Cat Rescue,ON,N5L 1G8
-9493,London,CA,ON478,42.986,-81.226,Hoppy Hearts Rabbit Rescue,ON,N6B 2H8
 9494,Mentor,US,OH109,41.6885,-81.3381,Adopt-Aluv Rescue,OH,44060
 9495,Mentor,US,OH328,41.6885,-81.3381,Cherished Cockers Rescue,OH,44060
 9496,Mentor,US,OH500,41.6885,-81.3381,Canine Cuties,OH,44060
@@ -9521,7 +9279,6 @@
 9519,Lexington,US,KY481,37.9664,-84.4735,Lexington Pit Crew,KY,40515
 9520,Coshocton ,US,OH1178,40.2716,-81.8527,Coshocton County Humane Society,OH,43812
 9521,Tracy,US,MN272,44.2366,-95.6206,Tracy Area Animal Rescue,MN,56175
-9522,St Marys,CA,ON190,43.266667,-81.133333,Kismutt Small Dog Rescue,ON,N4X 1C7
 9523,Streetsboro,US,OH51,41.2443,-81.3388,GSP Care of Ohio Rescue Inc.,OH,44241
 9524,Slayton,US,MN396,43.9915,-95.7444,Margo's Menagerie,MN,56172
 9525,New Lexington,US,OH260,39.718,-82.2095,Perry County Dog Shelter,OH,43764
@@ -9905,17 +9662,13 @@
 9903,Brookville,US,PA917,41.1601,-79.0803,"Willow Run Sanctuary & Adoptions, Inc..",PA,15825
 9904,Punxsutawney,US,PA998,40.945,-78.9751,Just Us For the Animals,PA,15767
 9905,Franklin,US,WV123,38.6439,-79.3299,Pendleton Animal Welfare Shelter,WV,26807
-9906,Vienna,CA,ON260,42.68333300000001,-80.8,Helping Paws Rescue,ON,N0J 1Z0
 9907,Cumberland,US,MD394,39.6379,-78.7879,Ali Oop Adoptions,MD,21502
 9908,Sherman,US,NY1010,42.1609,-79.5965,"Little Angels Animal Sanctuary, Inc",NY,14781
-9909,Delhi,CA,ON518,42.85,-80.5,Taffy's Legacy Canine Rescue and Rehabilitation,ON,N4B 2W6
 9910,Westfield,US,NY323,42.3262,-79.5689,Northern Chautauqua Canine Rescue Inc.,NY,14787
 9911,Westfield,US,NY726,42.3262,-79.5689,Westfield Stray Cat Rescue,NY,14787
-9912,Simcoe,CA,ON401,42.833333,-80.3,Ontario Bloodhound Rescue,ON,N3Y 4K6
 9913,Harrisonburg,US,VA149,38.4434,-78.8728,Rockingham-Harrisonburg SPCA,VA,22801
 9914,Harrisonburg,US,VA175,38.4434,-78.8728,Cat's Cradle of the Shenandoah Valley,VA,22801
 9915,Harrisonburg,US,VA732,38.4367,-78.874,Anicira Veterinary Center,VA,22802
-9916,Woodstock,CA,ON548,43.133333,-80.75,Change For Paws,ON,N4S 4L8
 9917,Staunton,US,VA127,38.1564,-79.0777,Chesapeake Area Alaskan Malamute Protection,VA,24401
 9918,Staunton,US,VA197,38.1564,-79.0777,Augusta Regional SPCA,VA,24401
 9919,Staunton,US,VA632,38.1564,-79.0777,Virginia Paws for Pits,VA,24401
@@ -9925,82 +9678,24 @@
 9923,Dunkirk,US,NY1011,42.4673,-79.3371,Canine Rest Stop,NY,14048
 9924,Dunkirk,US,NY1014,42.4673,-79.3371,Bloodhound Network of WNY,NY,14048
 9925,Dunkirk,US,NY1205,42.4673,-79.3371,The Lakeshore Humane Society,NY,14048
-9926,Drumbo,CA,ON426,43.233333,-80.55,Pound Dog Rescue,ON,N0J 1G0
-9927,Brantford,CA,ON535,43.1301,-80.2644,Hearts to Homes Feline Rescue & Sanctuary,ON,N3T 0G4
 9928,Bentonville,US,VA737,38.8276,-78.3181,Martin's Dog Farm Rescue,VA,22610
-9929,Arthur,CA,ON313,43.4,-80.65,Dog Speed Animal Rescue Society,ON,N0B 1G0
-9930,Hamilton,CA,ON491,43.11600000000001,-79.828,Hamilton Burlington SPCA,ON,L8W 3V9
-9931,Cambridge,CA,ON416,43.366927,-80.306983,Rescue Dogs Match,ON,N1R 8J6
-9932,Cambridge,CA,ON280,43.402016,-80.358024,Grand River All Breed Rescue,ON,N3H 5M2
-9933,Hamilton,CA,ON394,43.226224,-79.865593,Ladybird Animal Sanctuary,ON,L9A 0A6
-9934,Hamilton,CA,ON277,43.25899999999999,-79.923,SunriseHaven Rescue,ON,L8S 2W8
-9935,Hamilton,CA,ON544,43.25899999999999,-79.923,Hammer City Paws Rescue,ON,L8S 3E2
 9936,Ruckersville,US,VA270,38.2395,-78.3976,Madison-Greene Humane Society,VA,22968
 9937,Ruckersville,US,VA781,38.2395,-78.3976,Houses of Wood and Straw,VA,22968
-9938,Cambridge,CA,ON79,43.43189,-80.30781999999998,Rabbit Rescue Inc.,ON,N3C 0E6
 9939,Charlottesville,US,VA558,38.073,-78.4887,Blue Ridge Dog Rescue,VA,22901
 9940,Charlottesville,US,VA96,38.073,-78.4887,Charlottesville-Albemarle SPCA,VA,22901
-9941,Hamilton,CA,ON447,43.26300000000001,-79.83800000000002,Pariah INDog Rescue,ON,L8L 5G4
-9942,Stoney Creek,CA,ON104,43.216,-79.742,AARF - Animal Angel Rescue Foundation,ON,L8G 3H1
-9943,Hamilton,CA,ON169,43.216,-79.742,The Pride Rescue,ON,L8G 2G2
-9944,Hamilton,CA,ON247,43.257,-79.8,Ugly Mutts Dog Rescue,ON,L8H 4K1
-9945,Hamilton,CA,ON496,43.257,-79.8,Pantry Four Paws,ON,L8H 5N7
 9946,Charlottesville,US,VA465,38.0292,-78.4769,Extra Mile Dog Rescue,VA,22905
 9947,Charlottesville,US,VA493,38.0292,-78.4769,Voices for Animals,VA,22905
-9948,Waterdown,CA,ON130,43.333333,-79.883333,Animal Adoptions of Flamborough Inc.,ON,L0R 2H0
-9949,Burlington,CA,ON119,43.346,-79.847,Abandoned Cats Rescue,ON,L7M 4A3
-9950,Guelph,CA,ON436,43.55,-80.25,Save Me Rescue,ON,N1H 5K2
-9951,Guelph,CA,ON513,43.55,-80.25,Northern Dogs Project - IFAW,ON,N1H 2G6
-9952,Guelph,CA,ON558,43.55,-80.25,SaFeMEOW,ON,N1E 4Y1
 9953,Culpeper,US,VA121,38.4741,-78.0091,Humane Society of Culpeper,VA,22701
 9954,Culpeper,US,VA410,38.4741,-78.0091,Culpeper County Animal Shelter,VA,22701
 9955,Culpeper,US,VA615,38.4741,-78.0091,Culpeper Felines & Friends,VA,22701
 9956,Culpeper,US,VA767,38.4741,-78.0091,Forgotten Felines of Culpeper,VA,22701
-9957,Burlington,CA,ON448,43.40464,-79.79759,Travelers Animal Rescue,ON,L7L 7L2
 9958,Orange,US,VA123,38.2448,-78.1024,Orange County Animal Shelter,VA,22960
-9959,Barrie,CA,ON71,43.39100000000001,-79.681,Furry Friends Shelter Inc,ON,L4N 5R8
-9960,Oakville,CA,ON377,43.428,-79.75399999999998,A Dog's Dream Rescue,ON,L6H 1K4
-9961,Oakville,CA,ON388,43.428,-79.75399999999998,Ninth Life Cat Rescue,ON,L6H 5K9
-9962,Oakville,CA,ON522,43.43,-79.686,Niagara Dog Rescue,ON,L6L 3C9
-9963,Oakville,CA,ON391,43.475,-79.707,Oakville & Milton Humane Society,ON,L6J 7S8
 9964,Troy,US,VA125,37.9435,-78.2355,Fluvanna SPCA,VA,22974
 9965,Troy,US,VA655,37.9435,-78.2355,Green Dogs Unleashed,VA,22974
-9966,Mississauga,CA,ON405,43.511,-79.62899999999998,Canadian Chinchilla Rescue,ON,L5J 2E3
-9967,Mississauga,CA,ON525,43.595,-79.743,DIBS Rescue,ON,L5N 7S7
-9968,Mississauga,CA,ON107,43.56,-79.65,Mississauga Humane Society,ON,L5C 2M1
-9969,Mississauga,CA,ON180,43.56,-79.65,City of Mississauga Animal Services,ON,L5C 4H4
-9970,Brampton,CA,ON449,43.67100000000001,-79.753,Paws and Tails Adoptions,ON,L6Y 1T9
-9971,Mississauga,CA,ON54,43.601000000000006,-79.593,Action Volunteers for Animals - Toronto West,ON,L4Y 3T6
-9972,Neustadt,CA,ON469,44.083333,-81.0,Angel Arms Rescue,ON,N0G 2M0
-9973,Etobicoke,CA,ON60,43.628,-79.523,Adopt-a-Dog/Save-a-Life,ON,M8Z 4L5
 9974,Mineral,US,VA115,37.9918,-77.89699999999998,Louisa County Animal Shelter,VA,23117
-9975,Etobicoke,CA,ON527,43.635,-79.494,Dogs Unlimited Rescue Toronto,ON,M8Y 1S3
-9976,Etobicoke,CA,ON29,43.655,-79.512,Toronto Cat Rescue,ON,M8X 1Y3
-9977,Etobicoke,CA,ON493,43.655,-79.512,Black Dog Rescue,ON,M8X 1B3
-9978,East Garafraxa,CA,ON10,43.91817,-80.10410999999998,Cats Anonymous,ON,L9W 7J1
 9979,Louisa,US,VA109,37.8378,-77.9588,Animal Connections,VA,23093
 9980,Louisa,US,VA182,37.8378,-77.9588,Louisa Humane Society,VA,23093
 9981,Louisa,US,VA776,37.8378,-77.9588,Animal Care Assistance Program (ACAP),VA,23093
-9982,Toronto,CA,ON76,43.662,-79.468,Abbey Cat Adoptions,ON,M6P 1P3
-9983,Toronto,CA,ON46,43.697,-79.533,Etobicoke Humane Society,ON,M9P 3B6
-9984,Toronto,CA,ON532,43.6408,-79.4146,All Humane Kind,ON,M6K 3M4
-9985,Toronto,CA,ON233,43.678,-79.487,Homeward Bound Rescue,ON,M6N 4R8
-9986,Toronto,CA,ON209,43.659,-79.433,SOS Quebec Ontario Dog Rescue,ON,M6K 2G3
-9987,Toronto,CA,ON552,43.659,-79.433,Paws Across the Water,ON,M6K 1C6
-9988,York,CA,ON550,43.68600000000001,-79.45100000000002,Free Korean Dogs ,ON,M6E 3L8
-9989,Palgrave,CA,ON521,43.874332,-79.731646,Haven of the Heart,ON,L0N 1P0
-9990,Bolton,CA,ON484,43.883333,-79.733333,Our Angels Dog Rescue,ON,L7E 5R7
-9991,Vaughan,CA,ON389,43.88,-79.497,Vaughan Animal Services,ON,L6A 1T1
-9992,Tottenham,CA,ON523,44.016667,-79.81666700000002,Blue Diamond Rescue,ON,L0G 1W0
-9993,Richmond Hill,CA,ON170,43.865,-79.434,"Forgotten Ones Cat Rescue & Adoption Inc.,",ON,L4C 9S3
-9994,Alliston,CA,ON172,44.083333,-79.783333,Alliston & District Humane Society,ON,L0G 1A0
-9995,Collingwood,CA,ON45,44.50471,-80.25327,Georgian Triangle Humane Society,ON,L9Y 0W1
-9996,Newmarket,CA,ON511,44.05,-79.442,Country K9,ON,L3Y 2J3
-9997,Barrie,CA,ON263,44.4107,-79.6997,Precious Paws Rescue,ON,L4M 4Y9
-9998,Keswick,CA,ON53,44.25,-79.466667,Georgina Animal Shelter and Adoption Centre,ON,L4P 3G1
-9999,Gravenhurst,CA,ON528,44.9139,-79.3937,Cottage Paws Rescue,ON,P1P 0A1
-10000,Huntsville,CA,ON376,45.333333,-79.216667,Muskoka Animal Rescue,ON,P1H 2E1
-10001,Sundridge,CA,ON482,45.766667,-79.4,Almaguin Pet Rescue,ON,P0A 1Z0
 10002,Wahoo,US,NE80,41.2042,-96.6323,SCLP Pet Rescue,NE,68066
 10003,Columbus,US,NE79,41.4408,-97.3599,"Bright Futures Pet Adoption & Rescue, Inc.",NE,68601
 10004,Fremont,US,NE141,41.4501,-96.5059,FurEver Home Inc,NE,68025
@@ -10079,8 +9774,6 @@
 10077,Thief River Falls,US,MN102,48.1187,-96.1717,Pennington County Humane Society,MN,56701
 10078,Virginia,US,MN397,47.5193,-92.5371,Mesabi Humane Society,MN,55792
 10079,Baudette,US,MN277,48.6638,-94.5159,Lake of the Woods Humane Society,MN,56623
-10080,Steinbach,CA,MB38,49.5345,-96.6883,Steinbach and Area Animal Rescue,MB,R5G 2B2
-10081,New Bothwell,CA,MB18,49.583333,-96.883333,Manitoba Great Pyrenees Rescue,MB,R0A 1C0
 10082,Ashland,US,VA118,37.7485,-77.4778,Hanover Humane Society,VA,23005
 10083,Ashland,US,VA231,37.7485,-77.4778,Hickory Hill K-9 Rescue,VA,23005
 10084,Ashland,US,VA293,37.7485,-77.4778,B.A.R.K. (Bandit's Adoption & Rescue of K-9s),VA,23005
@@ -10105,24 +9798,7 @@
 10103,Eagle Mountain,US,UT202,40.3141169,-112.006882,Celestial Zoo Pet Rescue,UT,84005
 10104,Redding,US,CA579,40.585,-122.3911,Homeward Bound CSP Inc.,CA,96049
 10105,Chico,US,CA1986,39.7245,-121.8262,City of Chico Animal Shelter,CA,95928
-10106,Winnipeg,CA,MB37,49.903,-97.31,Free and Alive Rescue,MB,R2Y 1X3
-10107,Winnipeg,CA,MB40,49.903,-97.31,Cupcakes Pommy and Friends Rescue and Rehabilitation,MB,R2Y 1X3
-10108,Winnipeg,CA,MB11,49.8840735,-97.2610004,Hull's Haven Border Collie Rescue,MB,R3J 1W8
-10109,Winnipeg,CA,MB19,49.907,-97.23700000000001,Cat Tails Rescue,MB,R2R 0X4
-10110,Stony Mountain,CA,MB34,50.633,-96.986,Before the Bridge Senior K9 Rescue,MB,R0C 3A0
-10111,Winnipeg,CA,MB12,49.896,-97.189,Winnipeg Animal Services Agency,MB,R3E 3N8
-10112,Winnipeg,CA,MB29,49.886,-97.186,Earthdog Terrier Rescue of Manitoba,MB,R3G 3A2
-10113,Winnipeg,CA,MB30,49.861999999999995,-97.176,Jenn's Furry Friends Rescue,MB,R3M 0S7
-10114,Winnipeg,CA,MB27,49.88,-97.155,Manitoba All Shepherd Rescue,MB,R3C 0Z3
-10115,Winnipeg,CA,MB41,49.928999999999995,-97.13799999999999,Funds for Pets Rescue,MB,R2V 3P4
-10116,Winnipeg,CA,MB04,49.883333,-97.15,Winnipeg Pet Rescue Shelter,MB,R3K 0Y1
-10117,Winnipeg,CA,MB43,49.815,-97.17200000000001,Popcorns  and Binkies Rescue Haven,MB,R3T 3C9
-10118,Winnipeg,CA,MB13,49.912,-97.086,Manitoba Pug Rescue,MB,R2L 1Y5
-10119,Winnipeg,CA,MB35,49.93,-97.07799999999999,Winnipeg Giant Breed Rescue,MB,R2G 1V8
-10120,Winnipeg,CA,MB25,49.836000000000006,-97.10700000000001,Manitoba Underdogs Rescue,MB,R2M 2K2
-10121,Winnipeg,CA,MB42,49.846000000000004,-97.06700000000001,Rescue Siamese,MB,R2J 2H2
 10122,Meadow Vista,US,CA1006,39.0054,-121.0351,Divine Intervention,CA,95722
-10123,Oakbank,CA,MB39,49.95,-96.85,Homeless and Injured Animal Rescue of Canada (HIARC),MB,R0E 1J1
 10124,Englewood,US,CO488,39.6464,-104.9863,All Paws Matter Rescue,CO,80110
 10125,Fresno,US,CA2587,36.7478,-119.7714,Chasing Tails,CA,93729
 10126,Pahrump,US,NV199,36.295,-116.04,Desert Haven Animal Society,NV,89060
