@@ -1,8 +1,8 @@
 // API key
-const API_KEY = "pk.eyJ1IjoibWFycmlvdHQiLCJhIjoiY2tobmlvODhwMDBmNjJ5cDZ4a3p0NXM1eSJ9.VI10ZBv3wdgLH5wpLoSTCA";
+const API_KEY = "pk.eyJ1Ijoic2FidWRvdSIsImEiOiJja2hwa2RnOHYwOHU1MnpwMnFzeTZ3MnZpIn0.K-Ers9gKI6Orjmd7w4TEuw";
 
-d3.json("/api/cities", function(cities) { 
-  console.log(cities);
+d3.json("/api/shelters", function(shelters) { 
+  console.log(shelters);
 
   var myMap = L.map("map", {
     center: [37.09, -95.71],
@@ -18,9 +18,9 @@ d3.json("/api/cities", function(cities) {
     accessToken: API_KEY
   }).addTo(myMap);
 
-  cities.forEach(city => {
-    L.marker([city.latitude, city.longitude])
-      .bindPopup("<h1>" + city.name + "</h1>")
+  shelters.forEach(national => {
+    L.marker([national.latitude, national.longitude])
+      .bindPopup("<h1>" + national.city + "</h1>")
       .addTo(myMap);
   });
 });

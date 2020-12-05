@@ -11,7 +11,8 @@ def index():
 
 @app.route("/api/shelters")
 def shelters():
-    return pd.read_sql_table("shelters", engine).to_json(orient="records")
+    print(pd.read_sql_table("national", engine).to_json(orient="records"))
+    return pd.read_sql_table("national", engine).to_json(orient="records")
 
 if __name__ == "__main__":
     app.run(debug=True)
