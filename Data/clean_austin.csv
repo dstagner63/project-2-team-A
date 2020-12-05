@@ -27643,7 +27643,7 @@
 27645,A719940,Cat,Transfer
 27646,A721880,Dog,Adoption
 27647,A733740,Cat,Transfer
-27648,A504723,Dog,Rto-Adopt
+27648,A504723,Dog,Return to Owner
 27649,A717655,Dog,Return to Owner
 27650,A704918,Cat,Adoption
 27651,A594793,Dog,Return to Owner
@@ -28103,7 +28103,7 @@
 28105,A749311,Cat,Transfer
 28106,A703238,Dog,Transfer
 28107,A751246,Dog,Transfer
-28108,A755274,Dog,Rto-Adopt
+28108,A755274,Dog,Return to Owner
 28109,A750796,Dog,Transfer
 28110,A720611,Dog,Adoption
 28111,A721909,Dog,Adoption
@@ -28283,7 +28283,7 @@
 28285,A370507,Cat,Adoption
 28286,A732536,Cat,Adoption
 28287,A707812,Dog,Transfer
-28288,A762623,Dog,Rto-Adopt
+28288,A762623,Dog,Return to Owner
 28289,A702553,Dog,Euthanasia
 28290,A721094,Dog,Return to Owner
 28291,A703352,Dog,Return to Owner
@@ -29092,7 +29092,7 @@
 29094,A707116,Dog,Transfer
 29095,A732682,Cat,Transfer
 29096,A752550,Cat,Transfer
-29097,A757584,Dog,Rto-Adopt
+29097,A757584,Dog,Return to Owner
 29098,A707480,Dog,Return to Owner
 29099,A748761,Cat,Transfer
 29100,A736577,Dog,Adoption
@@ -29105,7 +29105,7 @@
 29107,A735302,Dog,Return to Owner
 29108,A737703,Dog,Adoption
 29109,A726884,Dog,Adoption
-29110,A718613,Dog,Rto-Adopt
+29110,A718613,Dog,Return to Owner
 29111,A700825,Dog,Transfer
 29112,A632706,Dog,Return to Owner
 29113,A751240,Cat,Adoption
@@ -29371,7 +29371,7 @@
 29374,A703284,Dog,Transfer
 29375,A755475,Cat,Adoption
 29376,A733140,Dog,Adoption
-29377,A747348,Dog,Rto-Adopt
+29377,A747348,Dog,Return to Owner
 29378,A761721,Dog,Adoption
 29379,A716000,Cat,Transfer
 29380,A724250,Cat,Adoption
@@ -29455,7 +29455,7 @@
 29458,A743021,Dog,Adoption
 29459,A726561,Cat,Died
 29460,A725526,Cat,Adoption
-29461,A744185,Cat,Rto-Adopt
+29461,A744185,Cat,Return to Owner
 29462,A716511,Dog,Transfer
 29463,A729105,Cat,Return to Owner
 29464,A740303,Cat,Transfer
@@ -29657,7 +29657,7 @@
 29660,A743116,Dog,Return to Owner
 29661,A736676,Cat,Adoption
 29662,A709261,Cat,Adoption
-29663,A697790,Cat,Rto-Adopt
+29663,A697790,Cat,Return to Owner
 29664,A739771,Dog,Transfer
 29665,A742352,Dog,Adoption
 29666,A703959,Cat,Transfer
@@ -30066,7 +30066,7 @@
 30069,A671013,Cat,Adoption
 30070,A709390,Dog,Transfer
 30071,A760826,Cat,Adoption
-30072,A751130,Dog,Rto-Adopt
+30072,A751130,Dog,Return to Owner
 30073,A718749,Dog,Adoption
 30074,A669855,Dog,Return to Owner
 30075,A714692,Dog,Return to Owner
@@ -30184,7 +30184,7 @@
 30187,A727325,Dog,Adoption
 30188,A735183,Cat,Transfer
 30189,A702494,Dog,Transfer
-30190,A757386,Dog,Rto-Adopt
+30190,A757386,Dog,Return to Owner
 30191,A748688,Cat,Adoption
 30192,A749532,Cat,Adoption
 30193,A707005,Dog,Adoption
@@ -30341,7 +30341,7 @@
 30344,A748111,Dog,Adoption
 30345,A732428,Dog,Return to Owner
 30346,A744167,Dog,Return to Owner
-30347,A742245,Cat,Rto-Adopt
+30347,A742245,Cat,Return to Owner
 30348,A704174,Dog,Return to Owner
 30349,A708146,Cat,Adoption
 30350,A745243,Dog,Return to Owner
@@ -30452,7 +30452,7 @@
 30455,A706960,Dog,Adoption
 30456,A752811,Cat,Adoption
 30457,A721114,Cat,Transfer
-30458,A754983,Dog,Rto-Adopt
+30458,A754983,Dog,Return to Owner
 30459,A712121,Dog,Adoption
 30460,A709752,Cat,Adoption
 30461,A758017,Dog,Adoption
@@ -30834,7 +30834,7 @@
 30837,A693923,Dog,Return to Owner
 30838,A748570,Cat,Transfer
 30839,A719299,Cat,Transfer
-30840,A759536,Cat,Rto-Adopt
+30840,A759536,Cat,Return to Owner
 30841,A708214,Dog,Adoption
 30842,A696993,Dog,Adoption
 30843,A753780,Cat,Adoption
@@ -30849,7 +30849,7 @@
 30852,A752431,Cat,Transfer
 30853,A709076,Cat,Euthanasia
 30854,A733677,Dog,Adoption
-30855,A597335,Dog,Rto-Adopt
+30855,A597335,Dog,Return to Owner
 30856,A717420,Dog,Transfer
 30857,A737061,Cat,Adoption
 30858,A751184,Dog,Adoption
@@ -30871,7 +30871,7 @@
 30874,A735999,Dog,Adoption
 30875,A703403,Cat,Adoption
 30876,A708688,Dog,Adoption
-30877,A759531,Dog,Rto-Adopt
+30877,A759531,Dog,Return to Owner
 30878,A758807,Cat,Transfer
 30879,A718993,Dog,Adoption
 30880,A710991,Dog,Adoption
@@ -31381,7 +31381,7 @@
 31384,A727465,Cat,Transfer
 31385,A737519,Cat,Adoption
 31386,A735041,Dog,Transfer
-31387,A754263,Dog,Rto-Adopt
+31387,A754263,Dog,Return to Owner
 31388,A733024,Bird,Adoption
 31389,A707904,Dog,Adoption
 31390,A751003,Other,Euthanasia
@@ -31750,7 +31750,7 @@
 31753,A708677,Dog,Return to Owner
 31754,A746313,Cat,Transfer
 31755,A757268,Dog,Transfer
-31756,A549633,Dog,Rto-Adopt
+31756,A549633,Dog,Return to Owner
 31757,A754472,Dog,Adoption
 31758,A751882,Dog,Adoption
 31759,A733327,Cat,Adoption
@@ -32200,7 +32200,7 @@
 32203,A760583,Dog,Transfer
 32204,A705195,Cat,Adoption
 32205,A747195,Cat,Adoption
-32206,A746605,Dog,Rto-Adopt
+32206,A746605,Dog,Return to Owner
 32207,A713961,Dog,Adoption
 32208,A741787,Dog,Adoption
 32209,A665993,Dog,Adoption
@@ -32243,7 +32243,7 @@
 32246,A724679,Cat,Adoption
 32247,A728754,Other,Euthanasia
 32248,A727217,Cat,Adoption
-32249,A646990,Dog,Rto-Adopt
+32249,A646990,Dog,Return to Owner
 32250,A705907,Dog,Return to Owner
 32251,A708296,Cat,Adoption
 32252,A701644,Cat,Transfer
@@ -32331,7 +32331,7 @@
 32334,A708754,Cat,Transfer
 32335,A727602,Cat,Transfer
 32336,A737128,Dog,Transfer
-32337,A748664,Cat,Rto-Adopt
+32337,A748664,Cat,Return to Owner
 32338,A719515,Cat,Adoption
 32339,A699995,Other,Euthanasia
 32340,A716530,Cat,Transfer
@@ -32962,7 +32962,7 @@
 32965,A751274,Dog,Return to Owner
 32966,A750352,Dog,Adoption
 32967,A752721,Other,Died
-32968,A761359,Dog,Rto-Adopt
+32968,A761359,Dog,Return to Owner
 32969,A700728,Dog,Adoption
 32970,A712827,Dog,Adoption
 32971,A716656,Dog,Return to Owner
@@ -33011,7 +33011,7 @@
 33014,A734391,Dog,Adoption
 33015,A705388,Cat,Euthanasia
 33016,A738494,Dog,Return to Owner
-33017,A752617,Cat,Rto-Adopt
+33017,A752617,Cat,Return to Owner
 33018,A757203,Cat,Adoption
 33019,A755764,Dog,Adoption
 33020,A720939,Dog,Adoption
@@ -33913,7 +33913,7 @@
 33916,A759818,Cat,Adoption
 33917,A722827,Other,Euthanasia
 33918,A752967,Dog,Adoption
-33919,A568109,Dog,Rto-Adopt
+33919,A568109,Dog,Return to Owner
 33920,A706047,Dog,Return to Owner
 33921,A719925,Dog,Adoption
 33922,A716419,Cat,Transfer
@@ -34170,7 +34170,7 @@
 34173,A747778,Cat,Transfer
 34174,A728589,Cat,Adoption
 34175,A728334,Dog,Adoption
-34176,A759955,Dog,Rto-Adopt
+34176,A759955,Dog,Return to Owner
 34177,A755509,Dog,Adoption
 34178,A707868,Cat,Transfer
 34179,A736803,Cat,Transfer
@@ -35509,7 +35509,7 @@
 35512,A733326,Cat,Transfer
 35513,A723685,Cat,Transfer
 35514,A733250,Dog,Return to Owner
-35515,A740118,Dog,Rto-Adopt
+35515,A740118,Dog,Return to Owner
 35516,A713180,Cat,Transfer
 35517,A720551,Other,Euthanasia
 35518,A703543,Dog,Return to Owner
@@ -35854,7 +35854,7 @@
 35857,A712784,Dog,Return to Owner
 35858,A696976,Cat,Adoption
 35859,A725891,Dog,Adoption
-35860,A746326,Dog,Rto-Adopt
+35860,A746326,Dog,Return to Owner
 35861,A702925,Dog,Adoption
 35862,A716145,Dog,Return to Owner
 35863,A713852,Cat,Adoption
@@ -36091,7 +36091,7 @@
 36094,A738337,Dog,Adoption
 36095,A739312,Dog,Adoption
 36096,A744969,Dog,Adoption
-36097,A687107,Dog,Rto-Adopt
+36097,A687107,Dog,Return to Owner
 36098,A748992,Dog,Return to Owner
 36099,A724326,Dog,Adoption
 36100,A747087,Cat,Transfer
@@ -36290,7 +36290,7 @@
 36293,A722562,Dog,Return to Owner
 36294,A708327,Cat,Adoption
 36295,A713186,Dog,Transfer
-36296,A755227,Cat,Rto-Adopt
+36296,A755227,Cat,Return to Owner
 36297,A734583,Dog,Return to Owner
 36298,A709315,Cat,Transfer
 36299,A719218,Cat,Transfer
@@ -36434,7 +36434,7 @@
 36437,A740458,Dog,Return to Owner
 36438,A759426,Cat,Transfer
 36439,A718232,Cat,Transfer
-36440,A745728,Cat,Rto-Adopt
+36440,A745728,Cat,Return to Owner
 36441,A709998,Dog,Transfer
 36442,A726876,Dog,Adoption
 36443,A759795,Cat,Transfer
@@ -37495,7 +37495,7 @@
 37498,A754979,Dog,Adoption
 37499,A726300,Dog,Transfer
 37500,A738858,Cat,Transfer
-37501,A748222,Cat,Rto-Adopt
+37501,A748222,Cat,Return to Owner
 37502,A753007,Dog,Adoption
 37503,A601331,Cat,Transfer
 37504,A716119,Cat,Transfer
@@ -37777,7 +37777,7 @@
 37780,A714081,Dog,Return to Owner
 37781,A750536,Dog,Adoption
 37782,A751206,Cat,Adoption
-37783,A759934,Dog,Rto-Adopt
+37783,A759934,Dog,Return to Owner
 37784,A704131,Dog,Return to Owner
 37785,A672608,Dog,Transfer
 37786,A719533,Dog,Adoption
@@ -38222,7 +38222,7 @@
 38225,A746889,Dog,Transfer
 38226,A752260,Other,Euthanasia
 38227,A704238,Dog,Adoption
-38228,A759417,Dog,Rto-Adopt
+38228,A759417,Dog,Return to Owner
 38229,A739821,Cat,Transfer
 38230,A754556,Dog,Transfer
 38231,A737079,Dog,Transfer
@@ -38441,7 +38441,7 @@
 38444,A726449,Dog,Transfer
 38445,A732421,Cat,Transfer
 38446,A719903,Dog,Adoption
-38447,A763593,Dog,Rto-Adopt
+38447,A763593,Dog,Return to Owner
 38448,A704456,Cat,Adoption
 38449,A727439,Cat,Transfer
 38450,A710513,Cat,Transfer
@@ -39165,7 +39165,7 @@
 39168,A758058,Dog,Return to Owner
 39169,A708791,Dog,Adoption
 39170,A741979,Dog,Adoption
-39171,A753696,Dog,Rto-Adopt
+39171,A753696,Dog,Return to Owner
 39172,A743663,Dog,Adoption
 39173,A749328,Cat,Transfer
 39174,A722998,Other,Euthanasia
@@ -39562,7 +39562,7 @@
 39565,A747235,Dog,Adoption
 39566,A759316,Cat,Adoption
 39567,A680865,Dog,Transfer
-39568,A746171,Cat,Rto-Adopt
+39568,A746171,Cat,Return to Owner
 39569,A739583,Dog,Adoption
 39570,A736602,Dog,Adoption
 39571,A741225,Other,Adoption
@@ -39648,7 +39648,7 @@
 39651,A752913,Dog,Adoption
 39652,A348272,Dog,Adoption
 39653,A745612,Cat,Adoption
-39654,A750904,Dog,Rto-Adopt
+39654,A750904,Dog,Return to Owner
 39655,A753096,Cat,Transfer
 39656,A747800,Cat,Return to Owner
 39657,A735611,Cat,Adoption
@@ -40278,7 +40278,7 @@
 40281,A763377,Dog,Return to Owner
 40282,A723069,Dog,Transfer
 40283,A760868,Cat,Adoption
-40284,A756749,Dog,Rto-Adopt
+40284,A756749,Dog,Return to Owner
 40285,A706391,Cat,Transfer
 40286,A739614,Dog,Adoption
 40287,A719263,Dog,Adoption
@@ -40503,7 +40503,7 @@
 40506,A732793,Cat,Adoption
 40507,A718759,Cat,Transfer
 40508,A752437,Cat,Transfer
-40509,A759194,Cat,Rto-Adopt
+40509,A759194,Cat,Return to Owner
 40510,A726249,Cat,Adoption
 40511,A748798,Other,Euthanasia
 40512,A754855,Dog,Adoption
@@ -42796,7 +42796,7 @@
 42799,A729611,Other,Adoption
 42800,A756211,Dog,Adoption
 42801,A727821,Dog,Adoption
-42802,A742283,Dog,Rto-Adopt
+42802,A742283,Dog,Return to Owner
 42803,A727731,Cat,Adoption
 42804,A731922,Dog,Euthanasia
 42805,A746903,Dog,Adoption
@@ -43736,7 +43736,7 @@
 43739,A705631,Dog,Transfer
 43740,A721686,Dog,Transfer
 43741,A722768,Dog,Adoption
-43742,A595045,Dog,Rto-Adopt
+43742,A595045,Dog,Return to Owner
 43743,A719658,Cat,Adoption
 43744,A752435,Dog,Adoption
 43745,A713772,Cat,Transfer
@@ -43811,7 +43811,7 @@
 43814,A713831,Dog,Return to Owner
 43815,A754288,Dog,Return to Owner
 43816,A708548,Dog,Transfer
-43817,A754405,Dog,Rto-Adopt
+43817,A754405,Dog,Return to Owner
 43818,A738784,Cat,Adoption
 43819,A729227,Dog,Return to Owner
 43820,A726827,Cat,Adoption
@@ -44054,7 +44054,7 @@
 44057,A731649,Dog,Adoption
 44058,A714553,Dog,Transfer
 44059,A743422,Dog,Return to Owner
-44060,A740028,Dog,Rto-Adopt
+44060,A740028,Dog,Return to Owner
 44061,A760934,Dog,Return to Owner
 44062,A737675,Dog,Transfer
 44063,A727314,Cat,Adoption
@@ -44196,7 +44196,7 @@
 44199,A706260,Cat,Adoption
 44200,A708291,Dog,Return to Owner
 44201,A718936,Cat,Adoption
-44202,A744294,Dog,Rto-Adopt
+44202,A744294,Dog,Return to Owner
 44203,A707067,Cat,Transfer
 44204,A729445,Cat,Transfer
 44205,A707739,Cat,Transfer
@@ -44452,7 +44452,7 @@
 44455,A734361,Dog,Adoption
 44456,A731651,Dog,Return to Owner
 44457,A725687,Cat,Transfer
-44458,A749369,Dog,Rto-Adopt
+44458,A749369,Dog,Return to Owner
 44459,A738031,Dog,Return to Owner
 44460,A742716,Dog,Adoption
 44461,A718687,Dog,Adoption
@@ -44707,7 +44707,7 @@
 44710,A520337,Dog,Return to Owner
 44711,A711516,Dog,Transfer
 44712,A753638,Cat,Adoption
-44713,A616513,Dog,Rto-Adopt
+44713,A616513,Dog,Return to Owner
 44714,A741318,Dog,Transfer
 44715,A707832,Cat,Adoption
 44716,A700586,Cat,Transfer
@@ -44845,7 +44845,7 @@
 44848,A705445,Dog,Adoption
 44849,A705626,Dog,Transfer
 44850,A761973,Dog,Adoption
-44851,A740957,Dog,Rto-Adopt
+44851,A740957,Dog,Return to Owner
 44852,A756094,Cat,Adoption
 44853,A757230,Dog,Adoption
 44854,A724775,Dog,Return to Owner
@@ -45021,7 +45021,7 @@
 45024,A753490,Cat,Transfer
 45025,A728443,Cat,Transfer
 45026,A747851,Other,Euthanasia
-45027,A757376,Dog,Rto-Adopt
+45027,A757376,Dog,Return to Owner
 45028,A719650,Dog,Return to Owner
 45029,A701462,Dog,Transfer
 45030,A758167,Cat,Adoption
@@ -45130,7 +45130,7 @@
 45133,A739466,Dog,Adoption
 45134,A704190,Cat,Adoption
 45135,A737384,Dog,Return to Owner
-45136,A754935,Dog,Rto-Adopt
+45136,A754935,Dog,Return to Owner
 45137,A755018,Cat,Adoption
 45138,A735954,Dog,Adoption
 45139,A733576,Dog,Return to Owner
@@ -45897,7 +45897,7 @@
 45900,A732715,Other,Euthanasia
 45901,A712662,Dog,Adoption
 45902,A713708,Cat,Adoption
-45903,A747558,Dog,Rto-Adopt
+45903,A747558,Dog,Return to Owner
 45904,A739714,Cat,Adoption
 45905,A742703,Dog,Adoption
 45906,A739121,Dog,Return to Owner
@@ -45987,7 +45987,7 @@
 45990,A746846,Dog,Transfer
 45991,A703938,Dog,Adoption
 45992,A720764,Dog,Transfer
-45993,A757073,Dog,Rto-Adopt
+45993,A757073,Dog,Return to Owner
 45994,A738712,Cat,Adoption
 45995,A478560,Dog,Adoption
 45996,A708856,Dog,Adoption
@@ -46199,7 +46199,7 @@
 46202,A716170,Dog,Adoption
 46203,A742802,Dog,Adoption
 46204,A701525,Dog,Transfer
-46205,A745889,Dog,Rto-Adopt
+46205,A745889,Dog,Return to Owner
 46206,A753974,Cat,Adoption
 46207,A734942,Dog,Adoption
 46208,A732299,Dog,Adoption
@@ -46553,7 +46553,7 @@
 46556,A744459,Dog,Transfer
 46557,A702914,Dog,Adoption
 46558,A737270,Dog,Adoption
-46559,A731692,Dog,Rto-Adopt
+46559,A731692,Dog,Return to Owner
 46560,A746308,Dog,Return to Owner
 46561,A734652,Cat,Transfer
 46562,A718912,Other,Transfer
@@ -46630,7 +46630,7 @@
 46633,A738858,Cat,Euthanasia
 46634,A746737,Dog,Adoption
 46635,A714848,Dog,Transfer
-46636,A757381,Dog,Rto-Adopt
+46636,A757381,Dog,Return to Owner
 46637,A738655,Cat,Adoption
 46638,A748337,Dog,Adoption
 46639,A699992,Dog,Adoption
@@ -47497,7 +47497,7 @@
 47500,A749105,Dog,Return to Owner
 47501,A739078,Dog,Adoption
 47502,A715338,Cat,Died
-47503,A739871,Dog,Rto-Adopt
+47503,A739871,Dog,Return to Owner
 47504,A750607,Cat,Transfer
 47505,A763232,Other,Euthanasia
 47506,A755664,Cat,Transfer
@@ -47676,7 +47676,7 @@
 47679,A677333,Dog,Return to Owner
 47680,A686019,Dog,Return to Owner
 47681,A502862,Dog,Return to Owner
-47682,A759111,Dog,Rto-Adopt
+47682,A759111,Dog,Return to Owner
 47683,A740523,Dog,Adoption
 47684,A757598,Dog,Return to Owner
 47685,A735440,Cat,Adoption
@@ -47796,7 +47796,7 @@
 47799,A758906,Cat,Transfer
 47800,A703987,Cat,Transfer
 47801,A758576,Dog,Adoption
-47802,A751080,Dog,Rto-Adopt
+47802,A751080,Dog,Return to Owner
 47803,A723117,Dog,Return to Owner
 47804,A722555,Dog,Transfer
 47805,A718033,Dog,Return to Owner
@@ -48535,7 +48535,7 @@
 48538,A751677,Cat,Euthanasia
 48539,A705510,Cat,Transfer
 48540,A699558,Dog,Euthanasia
-48541,A738324,Dog,Rto-Adopt
+48541,A738324,Dog,Return to Owner
 48542,A753671,Dog,Transfer
 48543,A702014,Dog,Adoption
 48544,A700150,Cat,Adoption
@@ -48590,7 +48590,7 @@
 48593,A727583,Cat,Transfer
 48594,A712423,Cat,Adoption
 48595,A740150,Dog,Adoption
-48596,A744579,Dog,Rto-Adopt
+48596,A744579,Dog,Return to Owner
 48597,A726573,Cat,Adoption
 48598,A747520,Dog,Adoption
 48599,A709364,Cat,Adoption
@@ -48647,7 +48647,7 @@
 48650,A705594,Cat,Return to Owner
 48651,A707704,Cat,Transfer
 48652,A700183,Dog,Adoption
-48653,A744654,Cat,Rto-Adopt
+48653,A744654,Cat,Return to Owner
 48654,A727770,Cat,Adoption
 48655,A707736,Cat,Transfer
 48656,A719588,Cat,Transfer
@@ -48809,7 +48809,7 @@
 48812,A742500,Dog,Return to Owner
 48813,A759914,Other,Euthanasia
 48814,A721952,Dog,Transfer
-48815,A744823,Dog,Rto-Adopt
+48815,A744823,Dog,Return to Owner
 48816,A704753,Other,Euthanasia
 48817,A735937,Cat,Adoption
 48818,A726545,Dog,Transfer
@@ -49243,7 +49243,7 @@
 49246,A709830,Dog,Adoption
 49247,A758222,Cat,Transfer
 49248,A730649,Cat,Transfer
-49249,A712725,Dog,Rto-Adopt
+49249,A712725,Dog,Return to Owner
 49250,A707188,Cat,Adoption
 49251,A699834,Dog,Return to Owner
 49252,A701641,Dog,Transfer
@@ -49418,7 +49418,7 @@
 49421,A712630,Dog,Adoption
 49422,A738168,Dog,Return to Owner
 49423,A753156,Cat,Adoption
-49424,A742557,Dog,Rto-Adopt
+49424,A742557,Dog,Return to Owner
 49425,A725730,Dog,Return to Owner
 49426,A741266,Dog,Adoption
 49427,A731571,Dog,Return to Owner
@@ -49486,7 +49486,7 @@
 49489,A642622,Dog,Return to Owner
 49490,A625940,Cat,Euthanasia
 49491,A741533,Dog,Transfer
-49492,A742767,Dog,Rto-Adopt
+49492,A742767,Dog,Return to Owner
 49493,A701818,Other,Euthanasia
 49494,A726067,Cat,Transfer
 49495,A747057,Dog,Transfer
@@ -49510,7 +49510,7 @@
 49513,A708743,Other,Euthanasia
 49514,A706743,Dog,Adoption
 49515,A718170,Cat,Transfer
-49516,A763936,Dog,Rto-Adopt
+49516,A763936,Dog,Return to Owner
 49517,A751484,Dog,Adoption
 49518,A742604,Cat,Adoption
 49519,A720330,Dog,Return to Owner
@@ -49526,7 +49526,7 @@
 49529,A705684,Cat,Transfer
 49530,A741586,Dog,Adoption
 49531,A752629,Cat,Adoption
-49532,A753354,Dog,Rto-Adopt
+49532,A753354,Dog,Return to Owner
 49533,A704469,Other,Return to Owner
 49534,A732757,Cat,Adoption
 49535,A740615,Cat,Transfer
@@ -49883,7 +49883,7 @@
 49886,A732295,Dog,Return to Owner
 49887,A745357,Cat,Adoption
 49888,A756486,Dog,Return to Owner
-49889,A762363,Cat,Rto-Adopt
+49889,A762363,Cat,Return to Owner
 49890,A715371,Cat,Adoption
 49891,A712055,Dog,Adoption
 49892,A737392,Dog,Adoption
@@ -50067,7 +50067,7 @@
 50070,A712385,Cat,Transfer
 50071,A699110,Cat,Adoption
 50072,A752757,Dog,Transfer
-50073,A750942,Dog,Rto-Adopt
+50073,A750942,Dog,Return to Owner
 50074,A740897,Dog,Adoption
 50075,A750012,Dog,Transfer
 50076,A700613,Cat,Transfer
@@ -50076,7 +50076,7 @@
 50079,A731703,Dog,Transfer
 50080,A731135,Dog,Transfer
 50081,A723870,Dog,Transfer
-50082,A747907,Dog,Rto-Adopt
+50082,A747907,Dog,Return to Owner
 50083,A683020,Dog,Return to Owner
 50084,A713932,Cat,Adoption
 50085,A749003,Cat,Adoption
@@ -51537,7 +51537,7 @@
 51540,A751467,Dog,Return to Owner
 51541,A734240,Other,Adoption
 51542,A712051,Cat,Transfer
-51543,A756415,Dog,Rto-Adopt
+51543,A756415,Dog,Return to Owner
 51544,A737193,Dog,Return to Owner
 51545,A710417,Dog,Adoption
 51546,A731998,Cat,Transfer
@@ -51559,7 +51559,7 @@
 51562,A715070,Dog,Return to Owner
 51563,A721062,Other,Adoption
 51564,A734598,Cat,Adoption
-51565,A753843,Cat,Rto-Adopt
+51565,A753843,Cat,Return to Owner
 51566,A734778,Dog,Return to Owner
 51567,A756320,Dog,Transfer
 51568,A711671,Other,Adoption
@@ -52036,7 +52036,7 @@
 52039,A706126,Dog,Transfer
 52040,A717211,Dog,Transfer
 52041,A742234,Dog,Return to Owner
-52042,A694334,Dog,Rto-Adopt
+52042,A694334,Dog,Return to Owner
 52043,A712969,Dog,Adoption
 52044,A757494,Cat,Adoption
 52045,A755394,Dog,Adoption
@@ -52045,7 +52045,7 @@
 52048,A731757,Cat,Transfer
 52049,A747815,Dog,Return to Owner
 52050,A716590,Dog,Transfer
-52051,A749230,Dog,Rto-Adopt
+52051,A749230,Dog,Return to Owner
 52052,A716681,Dog,Return to Owner
 52053,A721955,Cat,Transfer
 52054,A741436,Dog,Adoption
@@ -52434,7 +52434,7 @@
 52437,A634982,Cat,Return to Owner
 52438,A721810,Cat,Euthanasia
 52439,A713040,Dog,Adoption
-52440,A758337,Dog,Rto-Adopt
+52440,A758337,Dog,Return to Owner
 52441,A716798,Cat,Transfer
 52442,A713858,Dog,Adoption
 52443,A738627,Cat,Adoption
@@ -52997,14 +52997,14 @@
 53000,A573699,Dog,Return to Owner
 53001,A759054,Dog,Transfer
 53002,A745166,Cat,Transfer
-53003,A762941,Dog,Rto-Adopt
+53003,A762941,Dog,Return to Owner
 53004,A720867,Cat,Adoption
 53005,A756071,Dog,Adoption
 53006,A727721,Cat,Adoption
 53007,A725032,Dog,Transfer
 53008,A741425,Cat,Transfer
 53009,A701299,Cat,Transfer
-53010,A750083,Dog,Rto-Adopt
+53010,A750083,Dog,Return to Owner
 53011,A692189,Cat,Transfer
 53012,A711162,Dog,Transfer
 53013,A711057,Cat,Transfer
@@ -53265,7 +53265,7 @@
 53268,A758410,Dog,Transfer
 53269,A730071,Other,Disposal
 53270,A759707,Dog,Transfer
-53271,A717193,Dog,Rto-Adopt
+53271,A717193,Dog,Return to Owner
 53272,A756038,Dog,Adoption
 53273,A749150,Cat,Transfer
 53274,A701577,Cat,Adoption
@@ -53677,7 +53677,7 @@
 53680,A750469,Dog,Transfer
 53681,A726326,Dog,Adoption
 53682,A737273,Dog,Transfer
-53683,A693774,Cat,Rto-Adopt
+53683,A693774,Cat,Return to Owner
 53684,A750284,Cat,Adoption
 53685,A713930,Cat,Adoption
 53686,A678294,Dog,Return to Owner
@@ -53792,7 +53792,7 @@
 53795,A744152,Other,Euthanasia
 53796,A760091,Dog,Transfer
 53797,A703983,Dog,Adoption
-53798,A707181,Dog,Rto-Adopt
+53798,A707181,Dog,Return to Owner
 53799,A720826,Dog,Adoption
 53800,A568123,Dog,Return to Owner
 53801,A733779,Dog,Return to Owner
@@ -53948,7 +53948,7 @@
 53951,A707560,Cat,Transfer
 53952,A730273,Dog,Adoption
 53953,A752747,Cat,Transfer
-53954,A761901,Dog,Rto-Adopt
+53954,A761901,Dog,Return to Owner
 53955,A752587,Cat,Adoption
 53956,A746797,Dog,Return to Owner
 53957,A761019,Cat,Transfer
@@ -54764,7 +54764,7 @@
 54767,A737579,Cat,Transfer
 54768,A754428,Other,Euthanasia
 54769,A758874,Dog,Transfer
-54770,A756402,Dog,Rto-Adopt
+54770,A756402,Dog,Return to Owner
 54771,A754902,Dog,Adoption
 54772,A717842,Dog,Adoption
 54773,A715346,Dog,Adoption
@@ -54850,7 +54850,7 @@
 54853,A736479,Dog,Return to Owner
 54854,A735442,Cat,Adoption
 54855,A737072,Dog,Adoption
-54856,A763298,Dog,Rto-Adopt
+54856,A763298,Dog,Return to Owner
 54857,A731100,Dog,Adoption
 54858,A707712,Cat,Adoption
 54859,A698528,Cat,Adoption
@@ -54914,7 +54914,7 @@
 54917,A690574,Dog,Return to Owner
 54918,A760438,Dog,Transfer
 54919,A760352,Dog,Adoption
-54920,A750810,Dog,Rto-Adopt
+54920,A750810,Dog,Return to Owner
 54921,A715831,Dog,Adoption
 54922,A700550,Dog,Adoption
 54923,A738172,Dog,Transfer
@@ -55273,7 +55273,7 @@
 55276,A741011,Dog,Return to Owner
 55277,A731870,Dog,Adoption
 55278,A715199,Cat,Transfer
-55279,A743311,Dog,Rto-Adopt
+55279,A743311,Dog,Return to Owner
 55280,A733300,Cat,Transfer
 55281,A751071,Cat,Transfer
 55282,A709825,Dog,Euthanasia
@@ -56180,7 +56180,7 @@
 56183,A761239,Dog,Return to Owner
 56184,A711139,Other,Disposal
 56185,A760013,Other,Euthanasia
-56186,A751116,Cat,Rto-Adopt
+56186,A751116,Cat,Return to Owner
 56187,A736030,Cat,Transfer
 56188,A760469,Dog,Adoption
 56189,A739186,Cat,Adoption
@@ -57103,7 +57103,7 @@
 57106,A706489,Cat,Transfer
 57107,A704146,Cat,Euthanasia
 57108,A703653,Cat,Adoption
-57109,A745071,Dog,Rto-Adopt
+57109,A745071,Dog,Return to Owner
 57110,A728261,Dog,Return to Owner
 57111,A751825,Cat,Adoption
 57112,A727179,Dog,Adoption
@@ -57778,7 +57778,7 @@
 57781,A579598,Dog,Return to Owner
 57782,A743769,Dog,Adoption
 57783,A720475,Dog,Adoption
-57784,A749906,Dog,Rto-Adopt
+57784,A749906,Dog,Return to Owner
 57785,A691584,Dog,Transfer
 57786,A746469,Dog,Adoption
 57787,A732516,Dog,Adoption
@@ -58691,7 +58691,7 @@
 58694,A730927,Cat,Transfer
 58695,A741096,Dog,Adoption
 58696,A750065,Dog,Adoption
-58697,A748310,Dog,Rto-Adopt
+58697,A748310,Dog,Return to Owner
 58698,A738320,Dog,Return to Owner
 58699,A709813,Cat,Transfer
 58700,A751537,Dog,Adoption
@@ -59152,7 +59152,7 @@
 59155,A722020,Dog,Return to Owner
 59156,A737711,Dog,Return to Owner
 59157,A665661,Cat,Return to Owner
-59158,A744567,Dog,Rto-Adopt
+59158,A744567,Dog,Return to Owner
 59159,A736619,Cat,Adoption
 59160,A707387,Cat,Transfer
 59161,A711421,Cat,Transfer
@@ -59232,7 +59232,7 @@
 59235,A761712,Dog,Adoption
 59236,A755724,Cat,Transfer
 59237,A743183,Dog,Return to Owner
-59238,A737779,Dog,Rto-Adopt
+59238,A737779,Dog,Return to Owner
 59239,A730668,Dog,Transfer
 59240,A763939,Dog,Adoption
 59241,A664941,Dog,Adoption
@@ -59897,7 +59897,7 @@
 59900,A718358,Cat,Adoption
 59901,A654853,Dog,Adoption
 59902,A711078,Dog,Return to Owner
-59903,A747430,Cat,Rto-Adopt
+59903,A747430,Cat,Return to Owner
 59904,A709905,Cat,Died
 59905,A717707,Cat,Transfer
 59906,A701589,Dog,Return to Owner
@@ -60202,7 +60202,7 @@
 60205,A735605,Cat,Transfer
 60206,A711063,Dog,Transfer
 60207,A706605,Dog,Adoption
-60208,A763549,Dog,Rto-Adopt
+60208,A763549,Dog,Return to Owner
 60209,A757431,Cat,Transfer
 60210,A718606,Dog,Adoption
 60211,A756507,Other,Adoption
@@ -60263,7 +60263,7 @@
 60266,A743887,Dog,Adoption
 60267,A748851,Cat,Transfer
 60268,A708352,Cat,Transfer
-60269,A762082,Cat,Rto-Adopt
+60269,A762082,Cat,Return to Owner
 60270,A711140,Dog,Transfer
 60271,A758890,Dog,Return to Owner
 60272,A726617,Cat,Adoption
@@ -60342,7 +60342,7 @@
 60345,A746339,Other,Disposal
 60346,A734824,Cat,Transfer
 60347,A703175,Dog,Adoption
-60348,A752074,Dog,Rto-Adopt
+60348,A752074,Dog,Return to Owner
 60349,A740399,Dog,Adoption
 60350,A732667,Dog,Adoption
 60351,A734801,Dog,Adoption
@@ -60639,7 +60639,7 @@
 60642,A722461,Other,Euthanasia
 60643,A710491,Cat,Adoption
 60644,A701653,Dog,Adoption
-60645,A749302,Cat,Rto-Adopt
+60645,A749302,Cat,Return to Owner
 60646,A737207,Cat,Transfer
 60647,A407156,Dog,Return to Owner
 60648,A749386,Cat,Euthanasia
@@ -61237,7 +61237,7 @@
 61240,A706339,Dog,Adoption
 61241,A731644,Dog,Adoption
 61242,A707143,Dog,Transfer
-61243,A746625,Dog,Rto-Adopt
+61243,A746625,Dog,Return to Owner
 61244,A707817,Cat,Transfer
 61245,A712183,Dog,Adoption
 61246,A711020,Dog,Transfer
@@ -61302,7 +61302,7 @@
 61305,A713135,Cat,Transfer
 61306,A733547,Dog,Adoption
 61307,A739609,Dog,Adoption
-61308,A763496,Cat,Rto-Adopt
+61308,A763496,Cat,Return to Owner
 61309,A761228,Dog,Return to Owner
 61310,A739147,Dog,Transfer
 61311,A720387,Cat,Adoption
@@ -61359,7 +61359,7 @@
 61362,A703057,Dog,Euthanasia
 61363,A701768,Cat,Adoption
 61364,A721829,Dog,Return to Owner
-61365,A747652,Dog,Rto-Adopt
+61365,A747652,Dog,Return to Owner
 61366,A702957,Cat,Transfer
 61367,A706279,Cat,Adoption
 61368,A707296,Dog,Adoption
@@ -62174,7 +62174,7 @@
 62177,A719777,Dog,Adoption
 62178,A697537,Dog,Adoption
 62179,A747105,Dog,Return to Owner
-62180,A747391,Dog,Rto-Adopt
+62180,A747391,Dog,Return to Owner
 62181,A739539,Cat,Adoption
 62182,A747133,Dog,Return to Owner
 62183,A714705,Cat,Transfer
@@ -62933,7 +62933,7 @@
 62936,A743280,Dog,Return to Owner
 62937,A763352,Dog,Return to Owner
 62938,A759926,Cat,Adoption
-62939,A762037,Dog,Rto-Adopt
+62939,A762037,Dog,Return to Owner
 62940,A733552,Cat,Transfer
 62941,A743730,Cat,Euthanasia
 62942,A759483,Dog,Transfer
@@ -62973,7 +62973,7 @@
 62976,A740484,Dog,Adoption
 62977,A750234,Cat,Transfer
 62978,A707987,Dog,Return to Owner
-62979,A742163,Dog,Rto-Adopt
+62979,A742163,Dog,Return to Owner
 62980,A754182,Cat,Transfer
 62981,A716115,Dog,Adoption
 62982,A715677,Cat,Adoption
@@ -63895,7 +63895,7 @@
 63898,A762409,Dog,Transfer
 63899,A674746,Dog,Euthanasia
 63900,A755808,Cat,Transfer
-63901,A755197,Dog,Rto-Adopt
+63901,A755197,Dog,Return to Owner
 63902,A735697,Cat,Transfer
 63903,A715624,Dog,Adoption
 63904,A707240,Cat,Transfer
@@ -64005,7 +64005,7 @@
 64008,A702300,Cat,Return to Owner
 64009,A729400,Cat,Transfer
 64010,A721587,Dog,Adoption
-64011,A756352,Dog,Rto-Adopt
+64011,A756352,Dog,Return to Owner
 64012,A760219,Dog,Transfer
 64013,A709568,Dog,Adoption
 64014,A755196,Dog,Return to Owner
@@ -64235,7 +64235,7 @@
 64238,A701655,Cat,Transfer
 64239,A683108,Dog,Return to Owner
 64240,A728894,Cat,Adoption
-64241,A747387,Dog,Rto-Adopt
+64241,A747387,Dog,Return to Owner
 64242,A740386,Dog,Adoption
 64243,A710134,Dog,Transfer
 64244,A702070,Cat,Transfer
@@ -64775,7 +64775,7 @@
 64779,A705999,Dog,Adoption
 64780,A729946,Dog,Adoption
 64781,A744623,Cat,Transfer
-64782,A729260,Dog,Rto-Adopt
+64782,A729260,Dog,Return to Owner
 64783,A744819,Cat,Adoption
 64784,A730943,Cat,Transfer
 64785,A757934,Cat,Adoption
@@ -64915,7 +64915,7 @@
 64919,A762291,Dog,Adoption
 64920,A764103,Dog,Adoption
 64921,A734204,Dog,Transfer
-64922,A745658,Dog,Rto-Adopt
+64922,A745658,Dog,Return to Owner
 64923,A739645,Dog,Return to Owner
 64924,A754205,Cat,Transfer
 64925,A744430,Dog,Adoption
@@ -65039,7 +65039,7 @@
 65043,A716704,Cat,Transfer
 65044,A704733,Cat,Adoption
 65045,A746203,Dog,Return to Owner
-65046,A381217,Dog,Rto-Adopt
+65046,A381217,Dog,Return to Owner
 65047,A714539,Dog,Adoption
 65048,A715876,Dog,Adoption
 65049,A703902,Dog,Transfer
@@ -65375,7 +65375,7 @@
 65379,A707410,Dog,Adoption
 65380,A704945,Dog,Return to Owner
 65381,A745851,Dog,Return to Owner
-65382,A753195,Dog,Rto-Adopt
+65382,A753195,Dog,Return to Owner
 65383,A697854,Dog,Adoption
 65384,A724769,Cat,Adoption
 65385,A728797,Other,Adoption
@@ -66765,7 +66765,7 @@
 66769,A748200,Cat,Adoption
 66770,A708684,Cat,Transfer
 66771,A728277,Dog,Transfer
-66772,A627967,Dog,Rto-Adopt
+66772,A627967,Dog,Return to Owner
 66773,A760341,Dog,Adoption
 66774,A763205,Dog,Adoption
 66775,A735118,Other,Euthanasia
@@ -66791,7 +66791,7 @@
 66795,A745159,Other,Euthanasia
 66796,A715488,Dog,Transfer
 66797,A720499,Dog,Transfer
-66798,A746153,Dog,Rto-Adopt
+66798,A746153,Dog,Return to Owner
 66799,A705134,Cat,Adoption
 66800,A709611,Dog,Transfer
 66801,A754440,Dog,Return to Owner
@@ -67502,7 +67502,7 @@
 67506,A732079,Dog,Adoption
 67507,A761711,Dog,Adoption
 67508,A708191,Cat,Adoption
-67509,A756995,Dog,Rto-Adopt
+67509,A756995,Dog,Return to Owner
 67510,A746862,Dog,Adoption
 67511,A714171,Cat,Transfer
 67512,A735096,Cat,Transfer
@@ -68208,7 +68208,7 @@
 68212,A698351,Cat,Adoption
 68213,A715808,Cat,Adoption
 68214,A704792,Cat,Adoption
-68215,A758346,Dog,Rto-Adopt
+68215,A758346,Dog,Return to Owner
 68216,A745107,Cat,Return to Owner
 68217,A709720,Dog,Transfer
 68218,A718800,Cat,Return to Owner
@@ -68816,7 +68816,7 @@
 68821,A752121,Dog,Adoption
 68822,A720941,Dog,Adoption
 68823,A743805,Dog,Adoption
-68824,A720304,Dog,Rto-Adopt
+68824,A720304,Dog,Return to Owner
 68825,A714177,Cat,Transfer
 68826,A700747,Cat,Transfer
 68827,A730746,Other,Euthanasia
@@ -69113,7 +69113,7 @@
 69118,A720527,Dog,Transfer
 69119,A718498,Dog,Return to Owner
 69120,A730977,Dog,Adoption
-69121,A747585,Dog,Rto-Adopt
+69121,A747585,Dog,Return to Owner
 69122,A711968,Dog,Adoption
 69123,A744058,Cat,Return to Owner
 69124,A712266,Other,Died
@@ -69752,7 +69752,7 @@
 69757,A681486,Dog,Adoption
 69758,A736419,Cat,Transfer
 69759,A695189,Dog,Return to Owner
-69760,A752883,Dog,Rto-Adopt
+69760,A752883,Dog,Return to Owner
 69761,A725384,Cat,Return to Owner
 69762,A727748,Cat,Adoption
 69763,A715572,Dog,Adoption
@@ -70251,7 +70251,7 @@
 70257,A763761,Cat,Transfer
 70258,A726309,Dog,Adoption
 70259,A740468,Cat,Transfer
-70260,A744587,Cat,Rto-Adopt
+70260,A744587,Cat,Return to Owner
 70261,A745188,Cat,Euthanasia
 70262,A752077,Other,Adoption
 70263,A710026,Dog,Adoption
@@ -70527,7 +70527,7 @@
 70533,A721385,Dog,Return to Owner
 70534,A719755,Other,Euthanasia
 70535,A751885,Cat,Adoption
-70536,A748210,Dog,Rto-Adopt
+70536,A748210,Dog,Return to Owner
 70537,A725667,Dog,Adoption
 70538,A751057,Cat,Adoption
 70539,A669900,Dog,Adoption
@@ -70703,7 +70703,7 @@
 70709,A748757,Cat,Transfer
 70710,A719102,Cat,Adoption
 70711,A693269,Dog,Adoption
-70712,A754262,Dog,Rto-Adopt
+70712,A754262,Dog,Return to Owner
 70713,A737853,Dog,Transfer
 70714,A714333,Cat,Transfer
 70715,A748665,Other,Euthanasia
@@ -70904,7 +70904,7 @@
 70910,A716919,Cat,Adoption
 70911,A703994,Cat,Euthanasia
 70912,A729988,Cat,Return to Owner
-70913,A744934,Dog,Rto-Adopt
+70913,A744934,Dog,Return to Owner
 70914,A754840,Dog,Return to Owner
 70915,A746917,Dog,Adoption
 70916,A665874,Dog,Return to Owner
@@ -71634,7 +71634,7 @@
 71640,A715207,Dog,Return to Owner
 71641,A742641,Dog,Return to Owner
 71642,A731914,Other,Euthanasia
-71643,A753552,Cat,Rto-Adopt
+71643,A753552,Cat,Return to Owner
 71644,A702646,Cat,Adoption
 71645,A731091,Dog,Return to Owner
 71646,A714299,Dog,Return to Owner
@@ -71650,7 +71650,7 @@
 71656,A734310,Dog,Return to Owner
 71657,A731076,Cat,Adoption
 71658,A756864,Other,Adoption
-71659,A730326,Dog,Rto-Adopt
+71659,A730326,Dog,Return to Owner
 71660,A741440,Dog,Adoption
 71661,A738152,Dog,Return to Owner
 71662,A701870,Other,Euthanasia
@@ -72817,7 +72817,7 @@
 72824,A754341,Dog,Transfer
 72825,A727066,Dog,Transfer
 72826,A670656,Cat,Adoption
-72827,A760882,Dog,Rto-Adopt
+72827,A760882,Dog,Return to Owner
 72828,A742350,Dog,Adoption
 72829,A741041,Dog,Return to Owner
 72830,A709755,Dog,Transfer
@@ -72972,7 +72972,7 @@
 72979,A733669,Cat,Adoption
 72980,A742610,Cat,Adoption
 72981,A753536,Cat,Adoption
-72982,A752679,Dog,Rto-Adopt
+72982,A752679,Dog,Return to Owner
 72983,A701176,Dog,Return to Owner
 72984,A595963,Dog,Return to Owner
 72985,A711019,Dog,Transfer
@@ -73378,7 +73378,7 @@
 73385,A753737,Cat,Adoption
 73386,A717111,Dog,Adoption
 73387,A718991,Dog,Adoption
-73388,A755592,Cat,Rto-Adopt
+73388,A755592,Cat,Return to Owner
 73389,A743485,Dog,Adoption
 73390,A705174,Dog,Adoption
 73391,A712448,Dog,Adoption
@@ -73576,7 +73576,7 @@
 73583,A710108,Cat,Adoption
 73584,A734079,Cat,Adoption
 73585,A717926,Dog,Adoption
-73586,A751478,Cat,Rto-Adopt
+73586,A751478,Cat,Return to Owner
 73587,A717548,Cat,Transfer
 73588,A727837,Dog,Transfer
 73589,A723676,Cat,Transfer
@@ -74477,7 +74477,7 @@
 74484,A712540,Dog,Adoption
 74485,A735030,Dog,Adoption
 74486,A740026,Other,Adoption
-74487,A752179,Dog,Rto-Adopt
+74487,A752179,Dog,Return to Owner
 74488,A757081,Dog,Transfer
 74489,A669680,Dog,Return to Owner
 74490,A721667,Dog,Euthanasia
@@ -74898,7 +74898,7 @@
 74905,A710571,Cat,Transfer
 74906,A727509,Cat,Transfer
 74907,A734839,Dog,Adoption
-74908,A749083,Cat,Rto-Adopt
+74908,A749083,Cat,Return to Owner
 74909,A757110,Dog,Adoption
 74910,A679284,Dog,Return to Owner
 74911,A751925,Other,Transfer
@@ -74943,7 +74943,7 @@
 74950,A745614,Other,Transfer
 74951,A757715,Dog,Return to Owner
 74952,A712958,Cat,Transfer
-74953,A754845,Dog,Rto-Adopt
+74953,A754845,Dog,Return to Owner
 74954,A663436,Dog,Return to Owner
 74955,A744710,Dog,Return to Owner
 74956,A705521,Dog,Return to Owner
@@ -75362,7 +75362,7 @@
 75369,A702417,Dog,Adoption
 75370,A716821,Dog,Return to Owner
 75371,A749754,Cat,Transfer
-75372,A754617,Dog,Rto-Adopt
+75372,A754617,Dog,Return to Owner
 75373,A707834,Dog,Adoption
 75374,A759181,Cat,Transfer
 75375,A714959,Dog,Adoption
@@ -75823,7 +75823,7 @@
 75830,A708175,Cat,Adoption
 75831,A743628,Dog,Return to Owner
 75832,A719768,Dog,Transfer
-75833,A746487,Dog,Rto-Adopt
+75833,A746487,Dog,Return to Owner
 75834,A666362,Dog,Return to Owner
 75835,A711837,Dog,Transfer
 75836,A715513,Cat,Adoption
@@ -76201,7 +76201,7 @@
 76208,A720974,Dog,Adoption
 76209,A735036,Cat,Transfer
 76210,A696957,Dog,Adoption
-76211,A760960,Dog,Rto-Adopt
+76211,A760960,Dog,Return to Owner
 76212,A725715,Dog,Adoption
 76213,A710859,Dog,Transfer
 76214,A735071,Dog,Return to Owner
@@ -76427,7 +76427,7 @@
 76434,A729644,Dog,Adoption
 76435,A720219,Dog,Transfer
 76436,A756998,Dog,Return to Owner
-76437,A747869,Dog,Rto-Adopt
+76437,A747869,Dog,Return to Owner
 76438,A707372,Cat,Transfer
 76439,A757534,Dog,Transfer
 76440,A734048,Other,Euthanasia
@@ -76641,7 +76641,7 @@
 76648,A764093,Cat,Adoption
 76649,A764257,Dog,Transfer
 76650,A762457,Dog,Adoption
-76651,A758055,Dog,Rto-Adopt
+76651,A758055,Dog,Return to Owner
 76652,A764104,Dog,Adoption
 76653,A692599,Dog,Return to Owner
 76654,A764122,Cat,Adoption
@@ -76700,7 +76700,7 @@
 76707,A746674,Dog,Return to Owner
 76708,A678294,Dog,Return to Owner
 76711,A733262,Dog,Return to Owner
-76712,A734132,Dog,Rto-Adopt
+76712,A734132,Dog,Return to Owner
 76713,A764230,Cat,Return to Owner
 76714,A694578,Dog,Return to Owner
 76715,A763596,Dog,Adoption
@@ -77015,7 +77015,7 @@
 77025,A764675,Dog,Adoption
 77026,A764478,Dog,Adoption
 77027,A764465,Dog,Adoption
-77028,A764502,Dog,Rto-Adopt
+77028,A764502,Dog,Return to Owner
 77029,A764456,Dog,Adoption
 77030,A764463,Dog,Adoption
 77031,A764464,Dog,Adoption
@@ -77077,7 +77077,7 @@
 77087,A740766,Dog,Adoption
 77088,A764568,Cat,Transfer
 77089,A764600,Cat,Transfer
-77090,A763040,Cat,Rto-Adopt
+77090,A763040,Cat,Return to Owner
 77091,A764571,Cat,Transfer
 77092,A764062,Dog,Transfer
 77093,A764570,Cat,Transfer
@@ -77213,7 +77213,7 @@
 77223,A764761,Dog,Transfer
 77224,A763539,Cat,Adoption
 77225,A764765,Cat,Adoption
-77226,A764649,Cat,Rto-Adopt
+77226,A764649,Cat,Return to Owner
 77227,A764871,Other,Transfer
 77228,A764426,Cat,Return to Owner
 77229,A758743,Dog,Adoption
@@ -77230,7 +77230,7 @@
 77240,A764494,Dog,Adoption
 77241,A764489,Dog,Adoption
 77242,A763836,Dog,Adoption
-77243,A764769,Cat,Rto-Adopt
+77243,A764769,Cat,Return to Owner
 77244,A764607,Dog,Transfer
 77245,A763413,Cat,Transfer
 77246,A762848,Cat,Transfer
@@ -77278,9 +77278,9 @@
 77288,A761490,Dog,Transfer
 77289,A759999,Dog,Transfer
 77290,A764832,Dog,Transfer
-77291,A565694,Dog,Rto-Adopt
+77291,A565694,Dog,Return to Owner
 77292,A759997,Dog,Transfer
-77293,A764039,Cat,Rto-Adopt
+77293,A764039,Cat,Return to Owner
 77294,A583005,Dog,Transfer
 77295,A763918,Dog,Adoption
 77296,A609226,Dog,Transfer
@@ -77336,7 +77336,7 @@
 77346,A764750,Cat,Adoption
 77347,A764742,Dog,Adoption
 77348,A764997,Dog,Return to Owner
-77349,A759097,Dog,Rto-Adopt
+77349,A759097,Dog,Return to Owner
 77350,A763648,Dog,Adoption
 77351,A698837,Cat,Adoption
 77352,A759097,Dog,Return to Owner
@@ -77420,7 +77420,7 @@
 77430,A764986,Dog,Adoption
 77431,A764831,Dog,Adoption
 77432,A755962,Dog,Adoption
-77433,A765125,Cat,Rto-Adopt
+77433,A765125,Cat,Return to Owner
 77434,A738073,Dog,Adoption
 77435,A764977,Dog,Adoption
 77436,A764729,Dog,Adoption
@@ -77505,7 +77505,7 @@
 77515,A765053,Dog,Transfer
 77516,A765054,Dog,Transfer
 77517,A765057,Dog,Transfer
-77518,A764943,Dog,Rto-Adopt
+77518,A764943,Dog,Return to Owner
 77519,A765260,Dog,Return to Owner
 77520,A765259,Dog,Return to Owner
 77521,A762461,Dog,Return to Owner
@@ -77611,7 +77611,7 @@
 77621,A765079,Dog,Transfer
 77622,A763973,Dog,Adoption
 77623,A765046,Dog,Transfer
-77624,A764533,Dog,Rto-Adopt
+77624,A764533,Dog,Return to Owner
 77625,A742163,Dog,Return to Owner
 77626,A765179,Dog,Adoption
 77627,A746134,Dog,Return to Owner
@@ -77686,7 +77686,7 @@
 77696,A764207,Dog,Adoption
 77697,A765187,Dog,Adoption
 77698,A765294,Dog,Return to Owner
-77699,A765250,Dog,Rto-Adopt
+77699,A765250,Dog,Return to Owner
 77700,A763668,Cat,Adoption
 77701,A765219,Dog,Adoption
 77702,A765432,Cat,Return to Owner
@@ -77695,7 +77695,7 @@
 77705,A465849,Dog,Return to Owner
 77706,A763798,Dog,Adoption
 77707,A764556,Dog,Return to Owner
-77708,A765251,Dog,Rto-Adopt
+77708,A765251,Dog,Return to Owner
 77709,A764754,Cat,Adoption
 77710,A765177,Dog,Adoption
 77711,A765232,Cat,Adoption
@@ -77747,7 +77747,7 @@
 77757,A756697,Dog,Adoption
 77758,A765296,Dog,Adoption
 77759,A765226,Cat,Adoption
-77760,A763834,Cat,Rto-Adopt
+77760,A763834,Cat,Return to Owner
 77761,A765487,Dog,Adoption
 77762,A761286,Cat,Adoption
 77763,A764737,Cat,Transfer
@@ -77767,7 +77767,7 @@
 77777,A765523,Dog,Return to Owner
 77778,A763700,Cat,Adoption
 77779,A763701,Cat,Adoption
-77780,A765273,Cat,Rto-Adopt
+77780,A765273,Cat,Return to Owner
 77781,A765284,Dog,Return to Owner
 77782,A764471,Dog,Transfer
 77783,A764716,Dog,Transfer
@@ -77804,7 +77804,7 @@
 77814,A765548,Dog,Return to Owner
 77815,A765236,Dog,Adoption
 77816,A765080,Cat,Return to Owner
-77817,A765312,Cat,Rto-Adopt
+77817,A765312,Cat,Return to Owner
 77818,A765434,Dog,Return to Owner
 77819,A743705,Dog,Adoption
 77820,A755462,Dog,Adoption
@@ -77812,7 +77812,7 @@
 77822,A765126,Dog,Adoption
 77823,A757746,Dog,Transfer
 77824,A761962,Dog,Transfer
-77825,A755464,Dog,Rto-Adopt
+77825,A755464,Dog,Return to Owner
 77826,A765384,Dog,Adoption
 77827,A761082,Other,Adoption
 77828,A765413,Cat,Transfer
@@ -78100,7 +78100,7 @@
 78110,A758529,Dog,Return to Owner
 78111,A765781,Dog,Return to Owner
 78112,A763750,Other,Adoption
-78113,A718223,Dog,Rto-Adopt
+78113,A718223,Dog,Return to Owner
 78114,A765914,Cat,Euthanasia
 78115,A765676,Dog,Adoption
 78116,A765734,Dog,Adoption
