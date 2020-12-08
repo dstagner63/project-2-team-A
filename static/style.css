@@ -10,7 +10,6 @@ body {
     margin: 0;
   }
   
-  #map,
   body,
   html {
     height: 100%;
@@ -20,9 +19,16 @@ body {
     text-align: center;
   }
   
+/*MAP CONTAINER*/
+#map_container {
+	position: relative;
+}
+
+
+
 
 /*footer*/
-footer {
+.footer {
     background-color: white;
     border-top-style: solid;
     border-top-width: 5px;
