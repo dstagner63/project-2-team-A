@@ -18,9 +18,9 @@ d3.json("/api/shelters", function(shelters) {
     accessToken: API_KEY
   }).addTo(myMap);
 
-  shelters.forEach(national => {
-    L.marker([national.latitude, national.longitude])
-      .bindPopup("<h1>" + national.city + "</h1>")
-      .addTo(myMap);
-  });
+  // shelters.forEach(national => {
+  //   L.marker([national.latitude, national.longitude])
+  //     .bindPopup("<h1>" + national.city + "</h1>")
+  //     .addTo(myMap);
+  // });
 });
