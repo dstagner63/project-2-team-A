@@ -12,4 +12,5 @@ html {
 h1 {
   text-align: center;
 }
-  
+
+.map-container{height: 500px}
