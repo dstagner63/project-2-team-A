@@ -1,10 +1,11 @@
 // API key
-const API_KEY = "pk.eyJ1Ijoic2FidWRvdSIsImEiOiJja2hwa2RnOHYwOHU1MnpwMnFzeTZ3MnZpIn0.K-Ers9gKI6Orjmd7w4TEuw";
+//const API_KEY = "pk.eyJ1Ijoic2FidWRvdSIsImEiOiJja2hwa2RnOHYwOHU1MnpwMnFzeTZ3MnZpIn0.K-Ers9gKI6Orjmd7w4TEuw";
 
-d3.json("/api/shelters", function(shelters) { 
-  console.log(shelters);
+d3.json("/api/austin", function(austin) { 
+  console.log(austin);
+})
 
-// Create an array of each country's numbers
+// Create an array of each animal's numbers
 var dog = Object.values(austin.dog);
 var cat = Object.values(austin.cat);
 var other = Object.values(austin.other);
@@ -14,8 +15,8 @@ var labels = Object.keys(austin.dog);
 
 // Display the default plot
 function init() {
-  var data = [{
-    values: us,
+  var austin = [{
+    values: dog,
     labels: labels,
     type: "pie"
   }];
@@ -25,36 +26,36 @@ function init() {
     width: 800
   };
 
-  Plotly.newPlot("pie", data, layout);
+  Plotly.newPlot("pie", austin, layout);
 }
 
-// On change to the DOM, call getData()
-d3.selectAll("#selDataset").on("change", getData);
+// // On change to the DOM, call getData()
+// d3.selectAll("#selDataset").on("change", getData);
 
-// Function called by DOM changes
-function getData() {
-  var dropdownMenu = d3.select("#selDataset");
-  // Assign the value of the dropdown menu option to a variable
-  var dataset = dropdownMenu.property("value");
-  // Initialize an empty array for the country's data
-  var data = [];
+// // Function called by DOM changes
+// function getData() {
+//   var dropdownMenu = d3.select("#selDataset");
+//   // Assign the value of the dropdown menu option to a variable
+//   var dataset = dropdownMenu.property("value");
+//   // Initialize an empty array for the country's data
+//   var data = [];
 
-  if (dataset == 'us') {
-      data = us;
-  }
-  else if (dataset == 'uk') {
-      data = uk;
-  }
-  else if (dataset == 'canada') {
-      data = canada;
-  }
-  // Call function to update the chart
-  updatePlotly(data);
-}
+//   if (dataset == 'us') {
+//       data = us;
+//   }
+//   else if (dataset == 'uk') {
+//       data = uk;
+//   }
+//   else if (dataset == 'canada') {
+//       data = canada;
+//   }
+//   // Call function to update the chart
+//   updatePlotly(data);
+// }
 
-// Update the restyled plot's values
-function updatePlotly(newdata) {
-  Plotly.restyle("pie", "values", [newdata]);
-}
+// // Update the restyled plot's values
+// function updatePlotly(newdata) {
+//   Plotly.restyle("pie", "values", [newdata]);
+// }
 
-init();
+// init();
