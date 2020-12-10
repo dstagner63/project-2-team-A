@@ -3,7 +3,33 @@
 
 d3.json("/api/austin", function(austin) { 
   console.log(austin);
+
 })
+var austin = "/api/austin";
+console.log("austin");
+var animal = Object.values(austin.animal_type);
+var outcome = Object.values(austin.outcome_type);
+var labels = Object.keys(austin.outcome_type)
+
+console.log(animal);
+
+// Display the plot
+function init() {
+  var austin = [{
+    values: outcome,
+    labels: labels,
+    type: "pie"
+  }];
+
+  var layout = {
+    height: 600,
+    width: 800
+  };
+
+  Plotly.newPlot("pie", austin, layout);
+}
+
+
 
 // // Create an array of each animal's numbers
 // var dog = Object.values(austin.dog);
