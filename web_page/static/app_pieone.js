@@ -1,12 +1,13 @@
 // API key
 //const API_KEY = "pk.eyJ1Ijoic2FidWRvdSIsImEiOiJja2hwa2RnOHYwOHU1MnpwMnFzeTZ3MnZpIn0.K-Ers9gKI6Orjmd7w4TEuw";
 
-d3.json("/api/austin", function(austin) { 
-  console.log(austin);
+// d3.json("/api/austin", function(austin) { 
+//   console.log(austin);
 
-})
-var austin = "/api/austin";
-console.log("austin");
+// })
+
+var austin = "austin_data.js";
+console.log(austin);
 var animal = Object.values(austin.animal_type);
 var outcome = Object.values(austin.outcome_type);
 var labels = Object.keys(austin.outcome_type)

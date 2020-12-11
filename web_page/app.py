@@ -5,6 +5,10 @@ from sqlalchemy import create_engine
 app = Flask(__name__)
 engine = create_engine("sqlite:///data/shelters.sqlite")
 
+
+
+
+
 @app.route("/")
 def index():
     return render_template("index.html")
@@ -15,6 +19,8 @@ def national():
 
 @app.route("/api/austin")
 def austin():
+    austin = df.groupby("austin")["outcome_type"].count()
+    print(austin)
     return pd.read_sql_table("austin", engine).to_json(orient="records")
 
 @app.route("/api/sonoma")
