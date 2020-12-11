@@ -6,16 +6,13 @@ app = Flask(__name__)
 engine = create_engine("sqlite:///data/shelters.sqlite")
 
 
-
-
-
 @app.route("/")
 def index():
     return render_template("index.html")
 
 @app.route("/api/national")
 def national():
-    return pd.read_sql_table("national", engine).to_json(orient="records")
+    return pd.read_sql_table("national", engine).head(500).to_json(orient="records")
 
 @app.route("/api/austin")
 def austin():
@@ -26,8 +23,8 @@ def austin():
 
 @app.route("/api/sonoma")
 def sonoma():
-    sonoma = pd.read_sql_table("sonoma", engine).groupby("Outcome Type")["Animal ID"].count().reset_index()
-    sonoma.rename(columns={"Animal ID": "count"}, inplace=True)
+    sonoma = pd.read_sql_table("sonoma", engine).groupby("outcome_type")["animal_ids"].count().reset_index()
+    sonoma.rename(columns={"animal_ids": "count"}, inplace=True)
     print(sonoma)
     return sonoma.to_json(orient="records")
 

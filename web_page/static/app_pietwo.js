@@ -1,19 +1,19 @@
 sonomaData = []
 d3.json("/api/sonoma", function(sonoma) { 
   console.log(sonoma);
-  var labels = sonoma.map(type => type.OutcomeType);
+  var labels = sonoma.map(type => type.outcome_type);
   var outcome = sonoma.map(type => type.count);
   sonomaData = [{
     values: outcome,
     labels: labels,
     type: "pie"
   }];
-  init();
+  make_sonoma_plot();
 })
 
 
 // Display the plot
-function init() {
+function make_sonoma_plot() {
   console.log("hi")
 
   var layout = {

@@ -10,12 +10,12 @@ d3.json("/api/austin", function(austin) {
     labels: labels,
     type: "pie"
   }];
-  init();
+  make_austin_plot();
 })
 
 
 // Display the plot
-function init() {
+function make_austin_plot() {
   console.log("hi")
 
   var layout = {

@@ -1,4 +1,4 @@
-,Animal ID,Type,Outcome Type
+,animal_ids,type,outcome_type
 0,A395686,Dog,Return To Owner
 1,A379968,Dog,Transfer
 2,A374010,Cat,Adoption
@@ -82,7 +82,7 @@
 80,A312718,Cat,Adoption
 81,A399510,Dog,Transfer
 82,A400271,Cat,Adoption
-83,A354761,Dog,Return to Owner
+83,A354761,Dog,Return To Owner
 84,A389164,Dog,Adoption
 85,A328035,Dog,Return To Owner
 86,A395510,Dog,Adoption
@@ -136,7 +136,7 @@
 135,A400481,Cat,Euthanasia
 136,A394232,Dog,Transfer
 137,A397695,Cat,Adoption
-138,A395094,Dog,Return to Owner
+138,A395094,Dog,Return To Owner
 139,A394300,Dog,Transfer
 140,A285149,Dog,Euthanasia
 141,A308888,Cat,Adoption
@@ -456,7 +456,7 @@
 456,A362780,Dog,Adoption
 457,A367977,Dog,Return To Owner
 458,A373937,Dog,Transfer
-459,A382440,Dog,Return to Owner
+459,A382440,Dog,Return To Owner
 460,A399070,Other,Transfer
 461,A376279,Dog,Return To Owner
 462,A394398,Dog,Transfer
@@ -491,7 +491,7 @@
 491,A229901,Dog,Return To Owner
 492,A384459,Dog,Return To Owner
 493,A390358,Dog,Return To Owner
-494,A242054,Dog,Return to Owner
+494,A242054,Dog,Return To Owner
 495,A240360,Dog,Transfer
 496,A393451,Other,Transfer
 497,A327026,Dog,Adoption
@@ -657,7 +657,7 @@
 662,A389039,Dog,Return To Owner
 663,A389855,Dog,Euthanasia
 664,A395334,Dog,Return To Owner
-665,A395956,Dog,Return to Owner
+665,A395956,Dog,Return To Owner
 666,A386012,Dog,Return To Owner
 667,A395262,Dog,Return To Owner
 668,A344118,Dog,Return To Owner
@@ -1062,7 +1062,7 @@
 1074,A300244,Dog,Adoption
 1075,A400205,Cat,Adoption
 1076,A374241,Cat,Euthanasia
-1077,A396122,Cat,Return to Owner
+1077,A396122,Cat,Return To Owner
 1078,A395158,Dog,Transfer
 1079,A324636,Cat,Adoption
 1080,A314349,Dog,Return To Owner
@@ -1084,7 +1084,7 @@
 1096,A395478,Dog,Transfer
 1097,A339886,Dog,Adoption
 1098,A375150,Dog,Adoption
-1099,A229011,Dog,Return to Owner
+1099,A229011,Dog,Return To Owner
 1100,A396124,Cat,Euthanasia
 1101,A395608,Cat,Euthanasia
 1102,A287825,Dog,Return To Owner
@@ -1480,7 +1480,7 @@
 1495,A397410,Dog,Return To Owner
 1496,A400865,Dog,Return To Owner
 1497,A400965,Dog,Return To Owner
-1498,A386179,Dog,Return to Owner
+1498,A386179,Dog,Return To Owner
 1499,A394233,Dog,Transfer
 1500,A401032,Cat,Euthanasia
 1501,A260838,Dog,Return To Owner
@@ -1689,7 +1689,7 @@
 1705,A366523,Dog,Return To Owner
 1706,A397523,Dog,Return To Owner
 1707,A397557,Cat,Euthanasia
-1708,A397543,Dog,Return to Owner
+1708,A397543,Dog,Return To Owner
 1709,A392113,Cat,Transfer
 1710,A386629,Dog,Transfer
 1711,A335534,Cat,Transfer
@@ -2071,7 +2071,7 @@
 2089,A397539,Cat,Adoption
 2090,A399192,Dog,Return To Owner
 2091,A345856,Dog,Return To Owner
-2092,A399192,Dog,Return to Owner
+2092,A399192,Dog,Return To Owner
 2093,A387099,Dog,Return To Owner
 2094,A399522,Cat,Return To Owner
 2095,A347442,Dog,Transfer
@@ -2134,7 +2134,7 @@
 2155,A398346,Dog,Transfer
 2156,A399940,Cat,Transfer
 2157,A308846,Other,Transfer
-2158,A400037,Cat,Return to Owner
+2158,A400037,Cat,Return To Owner
 2159,A399478,Cat,Transfer
 2160,A238390,Cat,Euthanasia
 2161,A379607,Dog,Transfer
@@ -2217,7 +2217,7 @@
 2243,A400151,Cat,Transfer
 2244,A401128,Cat,Died
 2245,A401220,Dog,Return To Owner
-2246,A400635,Cat,Return to Owner
+2246,A400635,Cat,Return To Owner
 2247,A357516,Other,Transfer
 2248,A278689,Dog,Return To Owner
 2249,A387040,Dog,Return To Owner
@@ -2359,7 +2359,7 @@
 2394,A355894,Dog,Transfer
 2395,A313783,Dog,Adoption
 2396,A305294,Other,Transfer
-2397,A340382,Dog,Return to Owner
+2397,A340382,Dog,Return To Owner
 2398,A400091,Dog,Transfer
 2399,A400333,Other,Transfer
 2400,A322727,Dog,Transfer
@@ -3200,7 +3200,7 @@
 3277,A401505,Cat,Euthanasia
 3278,A401010,Other,Transfer
 3279,A401042,Cat,Return To Owner
-3280,A401269,Cat,Return to Owner
+3280,A401269,Cat,Return To Owner
 3281,A401009,Other,Transfer
 3283,A305089,Dog,Adoption
 3284,A324339,Cat,Transfer
