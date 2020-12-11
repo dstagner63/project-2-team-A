@@ -1,33 +1,30 @@
 // API key
 //const API_KEY = "pk.eyJ1Ijoic2FidWRvdSIsImEiOiJja2hwa2RnOHYwOHU1MnpwMnFzeTZ3MnZpIn0.K-Ers9gKI6Orjmd7w4TEuw";
-
-// d3.json("/api/austin", function(austin) { 
-//   console.log(austin);
-
-// })
-
-var austin = "austin_data.js";
-console.log(austin);
-var animal = Object.values(austin.animal_type);
-var outcome = Object.values(austin.outcome_type);
-var labels = Object.keys(austin.outcome_type)
-
-console.log(animal);
-
-// Display the plot
-function init() {
-  var austin = [{
+austinData = []
+d3.json("/api/austin", function(austin) { 
+  console.log(austin);
+  var labels = austin.map(type => type.outcome_type);
+  var outcome = austin.map(type => type.count);
+  austinData = [{
     values: outcome,
     labels: labels,
     type: "pie"
   }];
+  init();
+})
+
+
+// Display the plot
+function init() {
+  console.log("hi")
 
   var layout = {
-    height: 600,
-    width: 800
+    height: 500,
+    width: 500
+  
   };
 
-  Plotly.newPlot("pie", austin, layout);
+  Plotly.newPlot("austin_pie", austinData, layout);
 }
 
 

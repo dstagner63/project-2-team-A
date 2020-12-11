@@ -19,13 +19,17 @@ def national():
 
 @app.route("/api/austin")
 def austin():
-    austin = df.groupby("austin")["outcome_type"].count()
+    austin = pd.read_sql_table("austin", engine).groupby("outcome_type")["animal_id"].count().reset_index()
+    austin.rename(columns={"animal_id": "count"}, inplace=True)
     print(austin)
-    return pd.read_sql_table("austin", engine).to_json(orient="records")
+    return austin.to_json(orient="records")
 
 @app.route("/api/sonoma")
 def sonoma():
-    return pd.read_sql_table("sonoma", engine).to_json(orient="records")
+    sonoma = pd.read_sql_table("sonoma", engine).groupby("Outcome Type")["Animal ID"].count().reset_index()
+    sonoma.rename(columns={"Animal ID": "count"}, inplace=True)
+    print(sonoma)
+    return sonoma.to_json(orient="records")
 
 if __name__ == "__main__":
     app.run(debug=True)
