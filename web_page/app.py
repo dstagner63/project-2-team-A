@@ -46,6 +46,14 @@ def austin_cat():
     print(austin2)
     return austin2.to_json(orient="records")
 
+@app.route("/api/austin/other")
+def austin_other():
+    austin2 = pd.read_sql_table("austin", engine)
+    print(austin2)
+    austin2 = austin2[austin2.animal_type == "Other"]
+    print(austin2)
+    return austin2.to_json(orient="records")
+
 @app.route("/api/sonoma")
 def sonoma():
     sonoma = pd.read_sql_table("sonoma", engine).groupby("outcome_type")["animal_ids"].count().reset_index()
@@ -53,10 +61,38 @@ def sonoma():
     print(sonoma)
     return sonoma.to_json(orient="records")
 
-@app.route("/api/sonoma/<animal_type>")
-def sonoma2(animal_type):
-    print(animal_type)
-    return animal_type
+@app.route("/api/sonoma2/<type>")
+def sonoma_search(type):
+    print(type)
+    sonoma2 = pd.read_sql_table("sonoma", engine)
+    print(sonoma2)
+    sonoma2 = sonoma2[sonoma2.type == type]
+    print(sonoma2)
+    return sonoma2.to_json(orient="records")
+
+@app.route("/api/sonoma/dog")
+def sonoma_dog():
+    sonoma2 = pd.read_sql_table("sonoma", engine)
+    print(sonoma2)
+    sonoma2 = sonoma2[sonoma2.type == "Dog"]
+    print(sonoma2)
+    return sonoma2.to_json(orient="records")
+
+@app.route("/api/sonoma/cat")
+def sonoma_cat():
+    sonoma2 = pd.read_sql_table("sonoma", engine)
+    print(sonoma2)
+    sonoma2 = sonoma2[sonoma2.type == "Cat"]
+    print(sonoma2)
+    return sonoma2.to_json(orient="records")
+
+@app.route("/api/sonoma/other")
+def sonoma_other():
+    sonoma2 = pd.read_sql_table("sonoma", engine)
+    print(sonoma2)
+    sonoma2 = sonoma2[sonoma2.type == "Other"]
+    print(sonoma2)
+    return sonoma2.to_json(orient="records")
 
 if __name__ == "__main__":
     app.run(debug=True)

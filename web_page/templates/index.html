@@ -33,7 +33,8 @@
               data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               SELECT ANIMAL TYPE</a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <a class="dropdown-item" href="/dog" onchange="updatePie()">Dog</a>
+              <span class="dropdown-item" href="/dog" onclick="updatePie()">Dog</span>
+              <script> function updatePie(){console.log("test")}</script> 
               <a class="dropdown-item" href="/cat">Cat</a>
               <a class="dropdown-item" href="/other">Other</a>
             </div>
