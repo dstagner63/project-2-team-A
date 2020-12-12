@@ -1,5 +1,3 @@
-// API key
-//const API_KEY = "pk.eyJ1Ijoic2FidWRvdSIsImEiOiJja2hwa2RnOHYwOHU1MnpwMnFzeTZ3MnZpIn0.K-Ers9gKI6Orjmd7w4TEuw";
 austinData = []
 d3.json("/api/austin", function(austin) { 
   console.log(austin);
@@ -28,30 +26,6 @@ function make_austin_plot() {
 }
 
 
-
-// // Create an array of each animal's numbers
-// var dog = Object.values(austin.dog);
-// var cat = Object.values(austin.cat);
-// var other = Object.values(austin.other);
-
-// // Create an array of music provider labels
-// var labels = Object.keys(austin.dog);
-
-// // Display the default plot
-// function init() {
-//   var austin = [{
-//     values: dog,
-//     labels: labels,
-//     type: "pie"
-//   }];
-
-//   var layout = {
-//     height: 600,
-//     width: 800
-//   };
-
-//   Plotly.newPlot("pie", austin, layout);
-// }
 
 // // On change to the DOM, call getData()
 // d3.selectAll("#selDataset").on("change", getData);
